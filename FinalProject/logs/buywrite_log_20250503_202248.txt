@@ -1,0 +1,1011 @@
+[2025-05-03 20:22:49] 📆 Expiry Date: 2015-05-01
+🔁 Rolled Positions:
+   - DECK: 804.0739 shares
+   - TKO: 731.6660 shares
+   - ENPH: 1102.5359 shares
+   - AMD: 4255.3193 shares
+✅ Called Away (Exited): FCX
+🛒 New Positions:
+   - BLDR: 753.0121 shares
+💰 Period PnL: $625.02
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:49] 📆 Expiry Date: 2015-07-16
+🔁 Rolled Positions:
+   - DECK: 935.3079 shares
+   - ENPH: 2183.4061 shares
+   - AMD: 5405.4053 shares
+   - BLDR: 690.6078 shares
+✅ Called Away (Exited): TKO
+🛒 New Positions:
+   - MU: 640.9089 shares
+💰 Period PnL: $-4,224.97
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:50] 📆 Expiry Date: 2015-09-29
+🔁 Rolled Positions:
+   - DECK: 1209.1898 shares
+   - ENPH: 5347.5936 shares
+   - AMD: 4830.9180 shares
+   - BLDR: 695.8942 shares
+   - MU: 659.9294 shares
+💰 Period PnL: $-3,251.19
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:50] 📆 Expiry Date: 2015-12-11
+🔁 Rolled Positions:
+   - DECK: 1248.9591 shares
+   - BLDR: 1315.7895 shares
+   - MU: 1034.2675 shares
+✅ Called Away (Exited): ENPH, AMD
+🛒 New Positions:
+   - ENPH: 4329.0044 shares
+   - TRGP: 676.4502 shares
+💰 Period PnL: $1,957.09
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:50] 📆 Expiry Date: 2016-02-29
+🔁 Rolled Positions:
+   - ENPH: 3906.2501 shares
+✅ Called Away (Exited): DECK, BLDR, MU, TRGP
+🛒 New Positions:
+   - WMB: 897.4999 shares
+   - TRGP: 481.0641 shares
+   - FCX: 1011.9285 shares
+   - DVN: 450.3729 shares
+💰 Period PnL: $5,320.28
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:51] 📆 Expiry Date: 2016-05-12
+🔁 Rolled Positions:
+   - ENPH: 5235.6022 shares
+   - FCX: 1080.8555 shares
+✅ Called Away (Exited): WMB, TRGP, DVN
+🛒 New Positions:
+   - AMD: 2118.6442 shares
+   - STX: 716.6659 shares
+   - MOH: 203.9984 shares
+💰 Period PnL: $2,306.37
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:51] 📆 Expiry Date: 2016-07-27
+🔁 Rolled Positions:
+   - ENPH: 5555.5557 shares
+✅ Called Away (Exited): FCX, AMD, STX, MOH
+🛒 New Positions:
+   - DHR: 152.7587 shares
+   - SMCI: 4741.5838 shares
+   - AMD: 1694.9152 shares
+   - STX: 414.4312 shares
+💰 Period PnL: $3,120.80
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:52] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - ENPH: 9174.3116 shares
+   - DHR: 149.7900 shares
+✅ Called Away (Exited): SMCI, AMD, STX
+🛒 New Positions:
+   - TPL: 117.0450 shares
+   - AXON: 357.2705 shares
+   - TSCO: 714.5369 shares
+💰 Period PnL: $-1,782.31
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:52] 📆 Expiry Date: 2016-12-22
+🔁 Rolled Positions:
+   - DHR: 141.3341 shares
+   - AXON: 376.7897 shares
+✅ Called Away (Exited): ENPH, TPL, TSCO
+🛒 New Positions:
+   - NVDA: 3422.8445 shares
+   - ENPH: 6493.5067 shares
+   - AMD: 737.4631 shares
+💰 Period PnL: $1,306.70
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:52] 📆 Expiry Date: 2017-03-10
+🔁 Rolled Positions:
+   - AXON: 413.7360 shares
+   - NVDA: 3871.2222 shares
+   - ENPH: 7751.9382 shares
+✅ Called Away (Exited): DHR, AMD
+🛒 New Positions:
+   - PANW: 543.4783 shares
+   - AMD: 741.2899 shares
+💰 Period PnL: $-1,335.31
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:53] 📆 Expiry Date: 2017-05-24
+🔁 Rolled Positions:
+   - ENPH: 12048.1930 shares
+   - AMD: 724.1129 shares
+✅ Called Away (Exited): AXON, NVDA, PANW
+🛒 New Positions:
+   - BG: 164.9909 shares
+   - NVDA: 2635.2974 shares
+   - STX: 366.0564 shares
+💰 Period PnL: $-4,033.43
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:53] 📆 Expiry Date: 2017-08-08
+🔁 Rolled Positions:
+   - AMD: 745.7122 shares
+   - BG: 175.6800 shares
+   - STX: 421.4175 shares
+✅ Called Away (Exited): ENPH, NVDA
+🛒 New Positions:
+   - NRG: 495.2387 shares
+   - ORLY: 49.4413 shares
+💰 Period PnL: $555.52
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:53] 📆 Expiry Date: 2017-10-20
+🔁 Rolled Positions:
+   - BG: 188.4975 shares
+   - ORLY: 39.9664 shares
+✅ Called Away (Exited): AMD, STX, NRG
+🛒 New Positions:
+   - DXCM: 689.6552 shares
+   - ENPH: 3623.1884 shares
+   - EFX: 93.2988 shares
+💰 Period PnL: $2,024.40
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:54] 📆 Expiry Date: 2018-01-05
+🔁 Rolled Positions:
+   - DXCM: 703.2349 shares
+   - ENPH: 3802.2812 shares
+✅ Called Away (Exited): BG, ORLY, EFX
+🛒 New Positions:
+   - ADSK: 88.9917 shares
+   - EIX: 230.7835 shares
+   - MU: 229.6566 shares
+💰 Period PnL: $671.07
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:54] 📆 Expiry Date: 2018-03-22
+✅ Called Away (Exited): DXCM, ENPH, ADSK, EIX, MU
+🛒 New Positions:
+   - ENPH: 2178.6492 shares
+   - AXON: 222.5684 shares
+   - ANET: 634.0149 shares
+   - EXPE: 92.4013 shares
+   - DLTR: 107.7586 shares
+💰 Period PnL: $3,312.76
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:54] 📆 Expiry Date: 2018-06-06
+🔁 Rolled Positions:
+   - DLTR: 115.6872 shares
+✅ Called Away (Exited): ENPH, AXON, ANET, EXPE
+🛒 New Positions:
+   - GEN: 937.0102 shares
+   - MTCH: 277.2485 shares
+   - ENPH: 1479.2899 shares
+   - CAH: 252.9273 shares
+💰 Period PnL: $1,815.94
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:55] 📆 Expiry Date: 2018-08-20
+🔁 Rolled Positions:
+   - GEN: 956.3975 shares
+   - ENPH: 2028.3976 shares
+✅ Called Away (Exited): DLTR, MTCH, CAH
+🛒 New Positions:
+   - DXCM: 317.1080 shares
+   - TSLA: 508.8195 shares
+   - META: 61.8551 shares
+💰 Period PnL: $-864.53
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:55] 📆 Expiry Date: 2018-11-01
+🔁 Rolled Positions:
+   - GEN: 951.9412 shares
+   - ENPH: 1904.7619 shares
+   - META: 69.9369 shares
+✅ Called Away (Exited): DXCM, TSLA
+🛒 New Positions:
+   - SMCI: 6644.5183 shares
+   - AMD: 512.8205 shares
+💰 Period PnL: $1,062.49
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:55] 📆 Expiry Date: 2019-01-18
+🔁 Rolled Positions:
+   - GEN: 894.8598 shares
+   - SMCI: 5208.3334 shares
+✅ Called Away (Exited): ENPH, META, AMD
+🛒 New Positions:
+   - PCG: 547.3725 shares
+   - DELL: 397.5179 shares
+   - AMD: 446.2294 shares
+💰 Period PnL: $3,250.14
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:55] 📆 Expiry Date: 2019-04-04
+✅ Called Away (Exited): GEN, SMCI, PCG, DELL, AMD
+🛒 New Positions:
+   - BIIB: 43.3351 shares
+   - KHC: 417.1466 shares
+   - MRNA: 442.4779 shares
+   - HPQ: 643.1797 shares
+   - AMD: 374.8126 shares
+💰 Period PnL: $5,528.73
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:56] 📆 Expiry Date: 2019-06-19
+🔁 Rolled Positions:
+   - BIIB: 41.2763 shares
+   - KHC: 405.9652 shares
+   - MRNA: 785.5460 shares
+✅ Called Away (Exited): HPQ, AMD
+🛒 New Positions:
+   - PCG: 540.3096 shares
+   - AMD: 339.6739 shares
+💰 Period PnL: $-1,195.71
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:56] 📆 Expiry Date: 2019-09-03
+🔁 Rolled Positions:
+   - BIIB: 43.9136 shares
+   - KHC: 469.1216 shares
+   - PCG: 1275.3501 shares
+✅ Called Away (Exited): MRNA, AMD
+🛒 New Positions:
+   - ULTA: 40.8197 shares
+   - ENPH: 413.7360 shares
+💰 Period PnL: $-4,855.05
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:56] 📆 Expiry Date: 2019-11-14
+🔁 Rolled Positions:
+   - PCG: 924.5408 shares
+   - ULTA: 39.5038 shares
+   - ENPH: 382.7019 shares
+✅ Called Away (Exited): BIIB, KHC
+🛒 New Positions:
+   - EXPE: 93.0111 shares
+   - ANET: 786.6274 shares
+💰 Period PnL: $-551.22
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:56] 📆 Expiry Date: 2020-01-31
+🔁 Rolled Positions:
+   - EXPE: 185.1624 shares
+✅ Called Away (Exited): PCG, ULTA, ENPH, ANET
+🛒 New Positions:
+   - APA: 2516.1954 shares
+   - TKO: 326.6283 shares
+   - EQT: 1121.2189 shares
+   - ENPH: 341.5300 shares
+💰 Period PnL: $3,151.67
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:57] 📆 Expiry Date: 2020-04-16
+✅ Called Away (Exited): EXPE, APA, TKO, EQT, ENPH
+🛒 New Positions:
+   - TRGP: 600.0390 shares
+   - CZR: 277.0851 shares
+   - APA: 953.8913 shares
+   - NCLH: 578.3690 shares
+   - OXY: 757.2974 shares
+💰 Period PnL: $8,569.89
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:57] 📆 Expiry Date: 2020-06-30
+🔁 Rolled Positions:
+   - NCLH: 651.8905 shares
+✅ Called Away (Exited): TRGP, CZR, APA, OXY
+🛒 New Positions:
+   - OXY: 715.9089 shares
+   - UAL: 279.2516 shares
+   - CCL: 657.0302 shares
+   - RCL: 172.3366 shares
+💰 Period PnL: $6,496.53
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:57] 📆 Expiry Date: 2020-09-14
+🔁 Rolled Positions:
+   - OXY: 1126.4340 shares
+✅ Called Away (Exited): NCLH, UAL, CCL, RCL
+🛒 New Positions:
+   - TSLA: 70.6414 shares
+   - CRM: 40.2383 shares
+   - ENPH: 101.3890 shares
+   - BLDR: 318.9793 shares
+💰 Period PnL: $2,150.71
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:57] 📆 Expiry Date: 2020-11-25
+🔁 Rolled Positions:
+   - CRM: 46.7319 shares
+✅ Called Away (Exited): OXY, TSLA, ENPH, BLDR
+🛒 New Positions:
+   - BIIB: 37.3986 shares
+   - CCL: 496.7710 shares
+   - PLTR: 381.9710 shares
+   - FANG: 192.3936 shares
+💰 Period PnL: $3,247.96
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:57] 📆 Expiry Date: 2021-02-11
+✅ Called Away (Exited): CRM, BIIB, CCL, PLTR, FANG
+🛒 New Positions:
+   - PLTR: 460.1933 shares
+   - DASH: 76.9349 shares
+   - OXY: 386.4103 shares
+   - ABNB: 54.7945 shares
+   - APA: 619.3531 shares
+💰 Period PnL: $3,818.74
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:58] 📆 Expiry Date: 2021-04-28
+🔁 Rolled Positions:
+   - OXY: 368.1434 shares
+   - ABNB: 67.3673 shares
+✅ Called Away (Exited): PLTR, DASH, APA
+🛒 New Positions:
+   - PARA: 262.0204 shares
+   - WBD: 324.7808 shares
+   - ENPH: 67.9671 shares
+💰 Period PnL: $3,958.86
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:58] 📆 Expiry Date: 2021-07-13
+🔁 Rolled Positions:
+   - ABNB: 62.3636 shares
+   - PARA: 269.3111 shares
+   - WBD: 347.9471 shares
+✅ Called Away (Exited): OXY, ENPH
+🛒 New Positions:
+   - BIIB: 29.1758 shares
+   - DVN: 423.9831 shares
+💰 Period PnL: $1,807.84
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:58] 📆 Expiry Date: 2021-09-24
+🔁 Rolled Positions:
+   - PARA: 306.0291 shares
+   - WBD: 380.5175 shares
+   - BIIB: 36.6703 shares
+✅ Called Away (Exited): ABNB, DVN
+🛒 New Positions:
+   - APA: 360.9248 shares
+   - MRNA: 40.8697 shares
+💰 Period PnL: $-812.28
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:58] 📆 Expiry Date: 2021-12-08
+🔁 Rolled Positions:
+   - PARA: 334.2947 shares
+   - WBD: 372.0238 shares
+   - BIIB: 44.5058 shares
+   - APA: 360.9441 shares
+✅ Called Away (Exited): MRNA
+🛒 New Positions:
+   - MRNA: 63.5728 shares
+💰 Period PnL: $-2,277.91
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:58] 📆 Expiry Date: 2022-02-23
+🔁 Rolled Positions:
+   - PARA: 305.8973 shares
+   - BIIB: 47.2500 shares
+   - APA: 268.8594 shares
+   - MRNA: 62.8931 shares
+✅ Called Away (Exited): WBD
+🛒 New Positions:
+   - DASH: 90.1632 shares
+💰 Period PnL: $-69.77
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:59] 📆 Expiry Date: 2022-05-09
+🔁 Rolled Positions:
+   - PARA: 436.4108 shares
+   - BIIB: 47.3082 shares
+   - APA: 303.5667 shares
+   - MRNA: 69.8032 shares
+   - DASH: 142.3082 shares
+💰 Period PnL: $-6,702.59
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:59] 📆 Expiry Date: 2022-07-25
+🔁 Rolled Positions:
+   - BIIB: 49.8331 shares
+   - APA: 298.6881 shares
+✅ Called Away (Exited): PARA, MRNA, DASH
+🛒 New Positions:
+   - CCL: 1018.3300 shares
+   - NCLH: 712.2507 shares
+   - RCL: 230.2282 shares
+💰 Period PnL: $3,645.54
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:59] 📆 Expiry Date: 2022-10-06
+🔁 Rolled Positions:
+   - CCL: 1055.9662 shares
+   - NCLH: 610.8735 shares
+   - RCL: 171.7787 shares
+✅ Called Away (Exited): BIIB, APA
+🛒 New Positions:
+   - BIIB: 33.0153 shares
+   - KMX: 150.2404 shares
+💰 Period PnL: $-111.90
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:59] 📆 Expiry Date: 2022-12-20
+🔁 Rolled Positions:
+   - CCL: 842.4600 shares
+   - NCLH: 602.7727 shares
+   - RCL: 145.9211 shares
+   - BIIB: 34.6885 shares
+   - KMX: 128.4357 shares
+💰 Period PnL: $-3,160.57
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:22:59] 📆 Expiry Date: 2023-03-08
+🔁 Rolled Positions:
+   - CCL: 1066.0981 shares
+   - NCLH: 766.8712 shares
+   - BIIB: 34.0148 shares
+   - KMX: 144.5922 shares
+✅ Called Away (Exited): RCL
+🛒 New Positions:
+   - PLTR: 1222.4938 shares
+💰 Period PnL: $-1,345.49
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:23:00] 📆 Expiry Date: 2023-05-22
+✅ Called Away (Exited): CCL, NCLH, BIIB, KMX, PLTR
+🛒 New Positions:
+   - PARA: 632.3431 shares
+   - ENPH: 60.1793 shares
+   - SMCI: 384.6006 shares
+   - PLTR: 651.8905 shares
+   - FSLR: 52.8709 shares
+💰 Period PnL: $2,962.36
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:23:00] 📆 Expiry Date: 2023-08-07
+🔁 Rolled Positions:
+   - PARA: 775.1017 shares
+   - ENPH: 80.6647 shares
+✅ Called Away (Exited): SMCI, PLTR, FSLR
+🛒 New Positions:
+   - GNRC: 90.7276 shares
+   - FTNT: 166.2510 shares
+   - PAYC: 37.6970 shares
+💰 Period PnL: $1,148.91
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:23:00] 📆 Expiry Date: 2023-10-19
+🔁 Rolled Positions:
+   - PARA: 643.4074 shares
+   - ENPH: 91.8527 shares
+   - GNRC: 81.3868 shares
+   - FTNT: 191.3876 shares
+   - PAYC: 54.2401 shares
+💰 Period PnL: $-2,362.36
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:23:00] 📆 Expiry Date: 2024-01-04
+🔁 Rolled Positions:
+   - PARA: 856.0441 shares
+   - GNRC: 87.4202 shares
+✅ Called Away (Exited): ENPH, FTNT, PAYC
+🛒 New Positions:
+   - ENPH: 78.4006 shares
+   - ALB: 88.9422 shares
+   - MRNA: 114.9557 shares
+💰 Period PnL: $2,974.66
+────────────────────────────────────────────────────────────
+
+[2025-05-03 20:23:08] 📆 Expiry Date: 2024-03-20
+🔁 Rolled Positions:
+   - ENPH: N/A
+✅ Called Away (Exited): PARA, GNRC, ALB, MRNA
+🛒 New Positions:
+   - SMCI: N/A
+   - PANW: N/A
+   - DELL: N/A
+   - ALB: N/A
+   - ENPH: N/A
+   - MRNA: N/A
+   - EXPE: N/A
+   - NCLH: N/A
+   - NVDA: N/A
+   - PARA: N/A
+   - CRWD: N/A
+   - JBL: N/A
+   - CEG: N/A
+   - MPWR: N/A
+   - PLTR: N/A
+   - AMD: N/A
+   - ADBE: N/A
+   - WST: N/A
+   - WSM: N/A
+   - LUV: N/A
+   - NTAP: N/A
+   - WBD: N/A
+   - DLTR: N/A
+   - RL: N/A
+   - TSLA: N/A
+   - UBER: N/A
+   - HRL: N/A
+   - PYPL: N/A
+   - PODD: N/A
+   - EQT: N/A
+   - ZBRA: N/A
+   - NEM: N/A
+   - AVGO: N/A
+   - DASH: N/A
+   - ON: N/A
+   - AMAT: N/A
+   - HPE: N/A
+   - AXON: N/A
+   - XEL: N/A
+   - DFS: N/A
+   - DXCM: N/A
+   - FSLR: N/A
+   - ANET: N/A
+   - IQV: N/A
+   - MU: N/A
+   - BKNG: N/A
+   - CCL: N/A
+   - EPAM: N/A
+   - TGT: N/A
+   - ORCL: N/A
+   - IP: N/A
+   - CRL: N/A
+   - GNRC: N/A
+   - FCX: N/A
+   - INTC: N/A
+   - DVA: N/A
+   - SNPS: N/A
+   - ABNB: N/A
+   - DLR: N/A
+   - AES: N/A
+   - ERIE: N/A
+   - WDC: N/A
+   - FICO: N/A
+   - LRCX: N/A
+   - DIS: N/A
+   - SNA: N/A
+   - VST: N/A
+   - CPAY: N/A
+   - MTCH: N/A
+   - CZR: N/A
+   - IFF: N/A
+   - D: N/A
+   - CSGP: N/A
+   - CDNS: N/A
+   - FTNT: N/A
+   - TER: N/A
+   - LEN: N/A
+   - ALGN: N/A
+   - VTRS: N/A
+   - MCHP: N/A
+   - NOW: N/A
+   - CHTR: N/A
+   - EBAY: N/A
+   - KLAC: N/A
+   - DG: N/A
+   - PWR: N/A
+   - TTWO: N/A
+   - FOXA: N/A
+   - KMX: N/A
+   - WBA: N/A
+   - COO: N/A
+   - RCL: N/A
+   - EFX: N/A
+   - AKAM: N/A
+   - DAY: N/A
+   - CBRE: N/A
+   - META: N/A
+   - FANG: N/A
+   - KR: N/A
+   - FOX: N/A
+   - ZTS: N/A
+   - F: N/A
+   - QCOM: N/A
+   - BIIB: N/A
+   - STX: N/A
+   - IRM: N/A
+   - BF-B: N/A
+   - WDAY: N/A
+   - STLD: N/A
+   - BXP: N/A
+   - IVZ: N/A
+   - EMR: N/A
+   - PAYC: N/A
+   - KEY: N/A
+   - TKO: N/A
+   - EG: N/A
+   - CFG: N/A
+   - TPR: N/A
+   - SWKS: N/A
+   - NXPI: N/A
+   - TECH: N/A
+   - APA: N/A
+   - MCO: N/A
+   - CRM: N/A
+   - KEYS: N/A
+   - MGM: N/A
+   - EL: N/A
+   - LLY: N/A
+   - BLDR: N/A
+   - LVS: N/A
+   - GOOG: N/A
+   - RMD: N/A
+   - COST: N/A
+   - GOOGL: N/A
+   - UAL: N/A
+   - JBHT: N/A
+   - ARE: N/A
+   - MHK: N/A
+   - GRMN: N/A
+   - MOS: N/A
+   - WYNN: N/A
+   - BBY: N/A
+   - NTRS: N/A
+   - BEN: N/A
+   - ADSK: N/A
+   - EXE: N/A
+   - TPL: N/A
+   - CARR: N/A
+   - EXPD: N/A
+   - DOC: N/A
+   - INTU: N/A
+   - ECL: N/A
+   - APTV: N/A
+   - ODFL: N/A
+   - URI: N/A
+   - VLO: N/A
+   - HSY: N/A
+   - EW: N/A
+   - MKTX: N/A
+   - ADI: N/A
+   - POOL: N/A
+   - EQIX: N/A
+   - PHM: N/A
+   - AZO: N/A
+   - DHI: N/A
+   - MTD: N/A
+   - LYV: N/A
+   - TFC: N/A
+   - INCY: N/A
+   - VTR: N/A
+   - SBAC: N/A
+   - CMG: N/A
+   - ANSS: N/A
+   - BA: N/A
+   - EXR: N/A
+   - CMI: N/A
+   - MS: N/A
+   - MMM: N/A
+   - SWK: N/A
+   - HSIC: N/A
+   - CHRW: N/A
+   - AMGN: N/A
+   - NWSA: N/A
+   - FITB: N/A
+   - NWS: N/A
+   - NFLX: N/A
+   - CTRA: N/A
+   - BX: N/A
+   - WAT: N/A
+   - HWM: N/A
+   - ES: N/A
+   - IPG: N/A
+   - PFE: N/A
+   - CAH: N/A
+   - LII: N/A
+   - TROW: N/A
+   - DE: N/A
+   - PTC: N/A
+   - ISRG: N/A
+   - GEHC: N/A
+   - ROL: N/A
+   - KHC: N/A
+   - KVUE: N/A
+   - NEE: N/A
+   - MTB: N/A
+   - WFC: N/A
+   - PNC: N/A
+   - MAR: N/A
+   - ROK: N/A
+   - GEN: N/A
+   - AMZN: N/A
+   - ULTA: N/A
+   - WELL: N/A
+   - USB: N/A
+   - SYF: N/A
+   - CF: N/A
+   - PRU: N/A
+   - CINF: N/A
+   - BAX: N/A
+   - ESS: N/A
+   - CPT: N/A
+   - CMCSA: N/A
+   - HES: N/A
+   - DPZ: N/A
+   - GM: N/A
+   - UDR: N/A
+   - NUE: N/A
+   - GDDY: N/A
+   - A: N/A
+   - BG: N/A
+   - HAS: N/A
+   - HPQ: N/A
+   - IBM: N/A
+   - OMC: N/A
+   - HBAN: N/A
+   - APD: N/A
+   - LULU: N/A
+   - CAG: N/A
+   - IT: N/A
+   - RVTY: N/A
+   - RF: N/A
+   - MOH: N/A
+   - MPC: N/A
+   - NRG: N/A
+   - HUBB: N/A
+   - UHS: N/A
+   - WY: N/A
+   - TRMB: N/A
+   - MSFT: N/A
+   - TRGP: N/A
+   - DAL: N/A
+   - CBOE: N/A
+   - MCK: N/A
+   - PSA: N/A
+   - VLTO: N/A
+   - TXN: N/A
+   - KKR: N/A
+   - EOG: N/A
+   - VMC: N/A
+   - NVR: N/A
+   - TYL: N/A
+   - PNW: N/A
+   - SJM: N/A
+   - MSCI: N/A
+   - COF: N/A
+   - MNST: N/A
+   - ZBH: N/A
+   - K: N/A
+   - CPB: N/A
+   - PSX: N/A
+   - BMY: N/A
+   - AEP: N/A
+   - AWK: N/A
+   - AMCR: N/A
+   - FE: N/A
+   - SPGI: N/A
+   - ALLE: N/A
+   - ADM: N/A
+   - EQR: N/A
+   - TSN: N/A
+   - FIS: N/A
+   - ACN: N/A
+   - AMT: N/A
+   - HST: N/A
+   - MAS: N/A
+   - GL: N/A
+   - PCG: N/A
+   - DECK: N/A
+   - CCI: N/A
+   - NKE: N/A
+   - MAA: N/A
+   - IR: N/A
+   - APO: N/A
+   - PEP: N/A
+   - GILD: N/A
+   - KDP: N/A
+   - GE: N/A
+   - CNC: N/A
+   - LH: N/A
+   - GPN: N/A
+   - COP: N/A
+   - IDXX: N/A
+   - DOW: N/A
+   - MKC: N/A
+   - EA: N/A
+   - NDAQ: N/A
+   - CTVA: N/A
+   - CAT: N/A
+   - CPRT: N/A
+   - PEG: N/A
+   - LDOS: N/A
+   - BKR: N/A
+   - CLX: N/A
+   - CME: N/A
+   - STT: N/A
+   - NDSN: N/A
+   - OXY: N/A
+   - AVB: N/A
+   - GIS: N/A
+   - DTE: N/A
+   - SPG: N/A
+   - EMN: N/A
+   - LYB: N/A
+   - ABT: N/A
+   - EIX: N/A
+   - ACGL: N/A
+   - ORLY: N/A
+   - TDG: N/A
+   - BALL: N/A
+   - MLM: N/A
+   - TAP: N/A
+   - HAL: N/A
+   - LW: N/A
+   - T: N/A
+   - AIG: N/A
+   - EXC: N/A
+   - BAC: N/A
+   - SCHW: N/A
+   - WMB: N/A
+   - VRSK: N/A
+   - LOW: N/A
+   - MO: N/A
+   - DGX: N/A
+   - FFIV: N/A
+   - AOS: N/A
+   - CVX: N/A
+   - WM: N/A
+   - BLK: N/A
+   - VRTX: N/A
+   - UNH: N/A
+   - SBUX: N/A
+   - JKHY: N/A
+   - DUK: N/A
+   - ETN: N/A
+   - MA: N/A
+   - CDW: N/A
+   - DVN: N/A
+   - ICE: N/A
+   - STE: N/A
+   - HUM: N/A
+   - SLB: N/A
+   - GS: N/A
+   - GLW: N/A
+   - PNR: N/A
+   - TSCO: N/A
+   - WEC: N/A
+   - XOM: N/A
+   - MSI: N/A
+   - FDS: N/A
+   - C: N/A
+   - FAST: N/A
+   - CVS: N/A
+   - PKG: N/A
+   - AIZ: N/A
+   - JCI: N/A
+   - TT: N/A
+   - LKQ: N/A
+   - BSX: N/A
+   - UPS: N/A
+   - AAPL: N/A
+   - SRE: N/A
+   - LNT: N/A
+   - EVRG: N/A
+   - HOLX: N/A
+   - CTSH: N/A
+   - DHR: N/A
+   - MCD: N/A
+   - PPG: N/A
+   - KIM: N/A
+   - FDX: N/A
+   - PGR: N/A
+   - CMS: N/A
+   - NSC: N/A
+   - PPL: N/A
+   - BR: N/A
+   - HII: N/A
+   - REG: N/A
+   - J: N/A
+   - XYL: N/A
+   - AXP: N/A
+   - ED: N/A
+   - STZ: N/A
+   - PCAR: N/A
+   - VICI: N/A
+   - INVH: N/A
+   - DD: N/A
+   - OKE: N/A
+   - SHW: N/A
+   - CNP: N/A
+   - FRT: N/A
+   - SO: N/A
+   - RJF: N/A
+   - MDLZ: N/A
+   - ALL: N/A
+   - PFG: N/A
+   - HLT: N/A
+   - HD: N/A
+   - MDT: N/A
+   - TEL: N/A
+   - BK: N/A
+   - APH: N/A
+   - BDX: N/A
+   - DRI: N/A
+   - WMT: N/A
+   - AEE: N/A
+   - UNP: N/A
+   - PLD: N/A
+   - VZ: N/A
+   - ABBV: N/A
+   - LHX: N/A
+   - VRSN: N/A
+   - TDY: N/A
+   - KMI: N/A
+   - CSCO: N/A
+   - NI: N/A
+   - ROP: N/A
+   - DOV: N/A
+   - TJX: N/A
+   - PM: N/A
+   - HON: N/A
+   - SYK: N/A
+   - AVY: N/A
+   - ETR: N/A
+   - HCA: N/A
+   - AON: N/A
+   - REGN: N/A
+   - YUM: N/A
+   - V: N/A
+   - LIN: N/A
+   - TXT: N/A
+   - GWW: N/A
+   - AFL: N/A
+   - OTIS: N/A
+   - WRB: N/A
+   - CSX: N/A
+   - COR: N/A
+   - TMO: N/A
+   - FI: N/A
+   - MET: N/A
+   - KMB: N/A
+   - GPC: N/A
+   - AMP: N/A
+   - JPM: N/A
+   - CB: N/A
+   - WAB: N/A
+   - AME: N/A
+   - O: N/A
+   - ATO: N/A
+   - L: N/A
+   - PH: N/A
+   - IEX: N/A
+   - FTV: N/A
+   - MMC: N/A
+   - MRK: N/A
+   - JNJ: N/A
+   - ROST: N/A
+   - NOC: N/A
+   - BRK-B: N/A
+   - CI: N/A
+   - CHD: N/A
+   - CTAS: N/A
+   - AJG: N/A
+   - RTX: N/A
+   - PAYX: N/A
+   - BRO: N/A
+   - ITW: N/A
+   - RSG: N/A
+   - TMUS: N/A
+   - HIG: N/A
+   - WTW: N/A
+   - KO: N/A
+   - ELV: N/A
+   - LMT: N/A
+   - SYY: N/A
+   - TRV: N/A
+   - ADP: N/A
+   - CL: N/A
+   - GD: N/A
+   - PG: N/A
+   - JNPR: N/A
+💰 Period PnL: $2,252.90
+────────────────────────────────────────────────────────────
+
