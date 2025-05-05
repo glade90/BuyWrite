@@ -1,0 +1,562 @@
+[2025-05-04 15:20:35] 📆 Expiry Date: 2015-05-01
+🔁 Rolled Positions:
+   - DECK: 804.0739 shares
+   - TKO: 731.6661 shares
+   - ENPH: 1102.5359 shares
+   - AMD: 4255.3193 shares
+✅ Called Away (Exited): FCX
+🛒 New Positions:
+   - BLDR: 753.0121 shares
+💰 Period PnL: $625.02
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 2, 'Communication Services': 2, 'Technology': 2, 'Industrials': 1, 'Healthcare': 2}
+
+[2025-05-04 15:20:35] 📆 Expiry Date: 2015-07-16
+🔁 Rolled Positions:
+   - DECK: 935.3079 shares
+   - ENPH: 2183.4061 shares
+   - AMD: 5405.4053 shares
+   - BLDR: 690.6078 shares
+✅ Called Away (Exited): TKO
+🛒 New Positions:
+   - MU: 640.9088 shares
+💰 Period PnL: $-4,224.96
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 2, 'Technology': 3, 'Industrials': 1, 'Energy': 1, 'Communication Services': 1, 'Healthcare': 1}
+
+[2025-05-04 15:20:35] 📆 Expiry Date: 2015-09-29
+🔁 Rolled Positions:
+   - DECK: 1209.1898 shares
+   - ENPH: 5347.5936 shares
+   - AMD: 4830.9180 shares
+   - BLDR: 695.8942 shares
+   - MU: 659.9294 shares
+💰 Period PnL: $-3,251.19
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 2, 'Technology': 3, 'Industrials': 1, 'Basic Materials': 1, 'Real Estate': 1, 'Healthcare': 1, 'Communication Services': 1}
+
+[2025-05-04 15:20:35] 📆 Expiry Date: 2015-12-11
+🔁 Rolled Positions:
+   - DECK: 1248.9591 shares
+   - BLDR: 1315.7895 shares
+   - MU: 1034.2676 shares
+✅ Called Away (Exited): ENPH, AMD
+🛒 New Positions:
+   - ENPH: 4329.0044 shares
+   - TRGP: 680.2692 shares
+💰 Period PnL: $1,957.09
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 2, 'Industrials': 1, 'Technology': 2, 'Energy': 2, 'Utilities': 1}
+
+[2025-05-04 15:20:35] 📆 Expiry Date: 2016-02-29
+🔁 Rolled Positions:
+   - ENPH: 3906.2501 shares
+✅ Called Away (Exited): DECK, BLDR, MU, TRGP
+🛒 New Positions:
+   - WMB: 897.4999 shares
+   - TRGP: 483.7800 shares
+   - FCX: 1011.9282 shares
+   - DVN: 450.3729 shares
+💰 Period PnL: $5,320.28
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 1, 'Energy': 3, 'Basic Materials': 1, 'Industrials': 1}
+
+[2025-05-04 15:20:35] 📆 Expiry Date: 2016-05-12
+🔁 Rolled Positions:
+   - ENPH: 5235.6022 shares
+   - FCX: 1080.8556 shares
+✅ Called Away (Exited): WMB, TRGP, DVN
+🛒 New Positions:
+   - AMD: 2118.6442 shares
+   - STX: 716.6660 shares
+   - MOH: 203.9984 shares
+💰 Period PnL: $2,306.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Basic Materials': 1, 'Healthcare': 1, 'Energy': 1, 'Communication Services': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2016-07-27
+🔁 Rolled Positions:
+   - ENPH: 5555.5557 shares
+✅ Called Away (Exited): FCX, AMD, STX, MOH
+🛒 New Positions:
+   - DHR: 152.7588 shares
+   - SMCI: 4741.5838 shares
+   - AMD: 1694.9152 shares
+   - FCX: 1066.1209 shares
+💰 Period PnL: $3,120.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Healthcare': 1, 'Basic Materials': 1, 'Financial Services': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - ENPH: 9174.3116 shares
+   - DHR: 149.7900 shares
+   - FCX: 724.1444 shares
+✅ Called Away (Exited): SMCI, AMD
+🛒 New Positions:
+   - TPL: 117.0450 shares
+   - AXON: 357.2705 shares
+💰 Period PnL: $-2,063.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 2, 'Healthcare': 1, 'Basic Materials': 2, 'Energy': 1, 'Industrials': 1, 'Consumer Cyclical': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2016-12-22
+🔁 Rolled Positions:
+   - DHR: 141.3341 shares
+   - FCX: 705.0269 shares
+   - AXON: 376.7897 shares
+✅ Called Away (Exited): ENPH, TPL
+🛒 New Positions:
+   - NVDA: 3422.8439 shares
+   - ENPH: 6493.5067 shares
+💰 Period PnL: $451.30
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Healthcare': 1, 'Basic Materials': 2, 'Industrials': 1, 'Technology': 3, 'Consumer Defensive': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2017-03-10
+🔁 Rolled Positions:
+   - FCX: 835.8065 shares
+   - AXON: 413.7360 shares
+   - NVDA: 3871.2226 shares
+   - ENPH: 7751.9382 shares
+✅ Called Away (Exited): DHR
+🛒 New Positions:
+   - PANW: 543.4783 shares
+💰 Period PnL: $-3,782.59
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Basic Materials': 1, 'Industrials': 2, 'Technology': 3, 'Consumer Cyclical': 1, 'Healthcare': 1, 'Energy': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2017-05-24
+🔁 Rolled Positions:
+   - FCX: 874.5258 shares
+   - ENPH: 12048.1930 shares
+✅ Called Away (Exited): AXON, NVDA, PANW
+🛒 New Positions:
+   - AMD: 724.1129 shares
+   - BG: 164.9909 shares
+   - NVDA: 2635.2971 shares
+💰 Period PnL: $-3,042.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Basic Materials': 1, 'Technology': 3, 'Consumer Defensive': 1, 'Financial Services': 1, 'Healthcare': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2017-08-08
+🔁 Rolled Positions:
+   - AMD: 745.7122 shares
+   - BG: 175.6800 shares
+✅ Called Away (Exited): FCX, ENPH, NVDA
+🛒 New Positions:
+   - NRG: 497.2355 shares
+   - ORLY: 49.4413 shares
+   - VRTX: 65.7635 shares
+💰 Period PnL: $2,168.19
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Consumer Defensive': 1, 'Utilities': 1, 'Consumer Cyclical': 1, 'Healthcare': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2017-10-20
+🔁 Rolled Positions:
+   - BG: 188.4975 shares
+   - ORLY: 39.9664 shares
+   - VRTX: 72.2752 shares
+✅ Called Away (Exited): AMD, NRG
+🛒 New Positions:
+   - DXCM: 689.6552 shares
+   - ENPH: 3623.1884 shares
+💰 Period PnL: $1,951.35
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Defensive': 1, 'Consumer Cyclical': 1, 'Healthcare': 3, 'Technology': 1, 'Industrials': 1, 'Utilities': 1}
+
+[2025-05-04 15:20:36] 📆 Expiry Date: 2018-01-05
+🔁 Rolled Positions:
+   - DXCM: 703.2349 shares
+   - ENPH: 3802.2812 shares
+✅ Called Away (Exited): BG, ORLY, VRTX
+🛒 New Positions:
+   - ADSK: 88.9917 shares
+   - EIX: 230.7835 shares
+   - MU: 229.6566 shares
+💰 Period PnL: $834.10
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Healthcare': 3, 'Technology': 3, 'Utilities': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2018-03-22
+✅ Called Away (Exited): DXCM, ENPH, ADSK, EIX, MU
+🛒 New Positions:
+   - ENPH: 2178.6492 shares
+   - AXON: 222.5684 shares
+   - ANET: 634.0149 shares
+   - EXPE: 92.4013 shares
+   - DLTR: 107.7586 shares
+💰 Period PnL: $3,312.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 2, 'Industrials': 1, 'Consumer Cyclical': 1, 'Consumer Defensive': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2018-06-06
+🔁 Rolled Positions:
+   - DLTR: 115.6872 shares
+✅ Called Away (Exited): ENPH, AXON, ANET, EXPE
+🛒 New Positions:
+   - GEN: 937.0102 shares
+   - MTCH: 277.2485 shares
+   - ENPH: 1479.2899 shares
+   - CAH: 252.9273 shares
+💰 Period PnL: $1,815.94
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Defensive': 1, 'Technology': 2, 'Communication Services': 1, 'Healthcare': 1, 'Industrials': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2018-08-20
+🔁 Rolled Positions:
+   - GEN: 956.3974 shares
+   - ENPH: 2028.3976 shares
+✅ Called Away (Exited): DLTR, MTCH, CAH
+🛒 New Positions:
+   - DXCM: 317.1080 shares
+   - TSLA: 508.8195 shares
+   - META: 61.8551 shares
+💰 Period PnL: $-864.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 2, 'Healthcare': 1, 'Consumer Cyclical': 2, 'Communication Services': 2}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2018-11-01
+🔁 Rolled Positions:
+   - GEN: 951.9413 shares
+   - ENPH: 1904.7619 shares
+   - META: 69.9369 shares
+✅ Called Away (Exited): DXCM, TSLA
+🛒 New Positions:
+   - SMCI: 6644.5183 shares
+   - TSLA: 445.0642 shares
+💰 Period PnL: $1,062.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2019-01-18
+🔁 Rolled Positions:
+   - GEN: 894.8599 shares
+   - SMCI: 5208.3334 shares
+   - TSLA: 543.0061 shares
+✅ Called Away (Exited): ENPH, META
+🛒 New Positions:
+   - PCG: 547.3725 shares
+   - DELL: 397.5179 shares
+💰 Period PnL: $1,569.20
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Consumer Cyclical': 1, 'Utilities': 1, 'Energy': 1, 'Consumer Defensive': 1, 'Healthcare': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2019-04-04
+🔁 Rolled Positions:
+   - TSLA: 730.4246 shares
+✅ Called Away (Exited): GEN, SMCI, PCG, DELL
+🛒 New Positions:
+   - BIIB: 43.3351 shares
+   - KHC: 417.1465 shares
+   - MRNA: 442.4779 shares
+   - HPQ: 643.1796 shares
+💰 Period PnL: $4,646.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 1, 'Healthcare': 2, 'Consumer Defensive': 1, 'Technology': 2}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2019-06-19
+🔁 Rolled Positions:
+   - BIIB: 41.2763 shares
+   - KHC: 405.9652 shares
+   - MRNA: 785.5460 shares
+✅ Called Away (Exited): TSLA, HPQ
+🛒 New Positions:
+   - PCG: 540.3096 shares
+   - AMD: 339.6739 shares
+💰 Period PnL: $-1,159.29
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Healthcare': 2, 'Consumer Defensive': 1, 'Utilities': 1, 'Technology': 3, 'Basic Materials': 1}
+
+[2025-05-04 15:20:37] 📆 Expiry Date: 2019-09-03
+🔁 Rolled Positions:
+   - BIIB: 43.9136 shares
+   - KHC: 469.1218 shares
+   - PCG: 1275.3501 shares
+✅ Called Away (Exited): MRNA, AMD
+🛒 New Positions:
+   - ULTA: 40.8197 shares
+   - ENPH: 413.7360 shares
+💰 Period PnL: $-4,855.05
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Healthcare': 2, 'Consumer Defensive': 1, 'Utilities': 1, 'Consumer Cyclical': 2, 'Technology': 1, 'Communication Services': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2019-11-14
+🔁 Rolled Positions:
+   - PCG: 924.5409 shares
+   - ULTA: 39.5038 shares
+   - ENPH: 382.7019 shares
+✅ Called Away (Exited): BIIB, KHC
+🛒 New Positions:
+   - EXPE: 93.0111 shares
+   - ANET: 786.6274 shares
+💰 Period PnL: $-551.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Utilities': 1, 'Consumer Cyclical': 2, 'Technology': 3, 'Healthcare': 2}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2020-01-31
+🔁 Rolled Positions:
+   - EXPE: 185.1624 shares
+✅ Called Away (Exited): PCG, ULTA, ENPH, ANET
+🛒 New Positions:
+   - APA: 2516.1944 shares
+   - TKO: 326.6283 shares
+   - EQT: 1121.2189 shares
+   - ENPH: 341.5300 shares
+💰 Period PnL: $3,151.67
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 1, 'Energy': 2, 'Communication Services': 1, 'Technology': 1, 'Utilities': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2020-04-16
+✅ Called Away (Exited): EXPE, APA, TKO, EQT, ENPH
+🛒 New Positions:
+   - TRGP: 603.4268 shares
+   - CZR: 277.0851 shares
+   - APA: 953.8913 shares
+   - NCLH: 578.3690 shares
+   - OXY: 757.2973 shares
+💰 Period PnL: $8,569.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Energy': 3, 'Consumer Cyclical': 2}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2020-06-30
+🔁 Rolled Positions:
+   - NCLH: 651.8905 shares
+✅ Called Away (Exited): TRGP, CZR, APA, OXY
+🛒 New Positions:
+   - OXY: 715.9088 shares
+   - UAL: 279.2516 shares
+   - CCL: 657.0302 shares
+   - RCL: 172.3366 shares
+💰 Period PnL: $6,496.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 3, 'Energy': 1, 'Industrials': 1, 'Technology': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2020-09-14
+🔁 Rolled Positions:
+   - OXY: 1126.4336 shares
+✅ Called Away (Exited): NCLH, UAL, CCL, RCL
+🛒 New Positions:
+   - TSLA: 70.6414 shares
+   - CRM: 40.2383 shares
+   - ENPH: 101.3890 shares
+   - BLDR: 318.9793 shares
+💰 Period PnL: $2,150.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Energy': 1, 'Consumer Cyclical': 1, 'Technology': 3, 'Industrials': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2020-11-25
+🔁 Rolled Positions:
+   - CRM: 46.7319 shares
+✅ Called Away (Exited): OXY, TSLA, ENPH, BLDR
+🛒 New Positions:
+   - BIIB: 37.3986 shares
+   - CCL: 496.7710 shares
+   - PLTR: 381.9710 shares
+   - FANG: 192.3936 shares
+💰 Period PnL: $3,247.96
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 2, 'Healthcare': 1, 'Consumer Cyclical': 2, 'Energy': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2021-02-11
+✅ Called Away (Exited): CRM, BIIB, CCL, PLTR, FANG
+🛒 New Positions:
+   - PLTR: 460.1933 shares
+   - DASH: 76.9349 shares
+   - OXY: 386.4103 shares
+   - ABNB: 54.7945 shares
+   - APA: 619.3531 shares
+💰 Period PnL: $3,818.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 1, 'Communication Services': 1, 'Energy': 2, 'Consumer Cyclical': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2021-04-28
+🔁 Rolled Positions:
+   - OXY: 368.1435 shares
+   - ABNB: 67.3673 shares
+✅ Called Away (Exited): PLTR, DASH, APA
+🛒 New Positions:
+   - PARA: 262.0204 shares
+   - WBD: 324.7808 shares
+   - ENPH: 67.9671 shares
+💰 Period PnL: $3,958.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Energy': 2, 'Consumer Cyclical': 1, 'Communication Services': 2, 'Technology': 1, 'Healthcare': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2021-07-13
+🔁 Rolled Positions:
+   - ABNB: 62.3636 shares
+   - PARA: 269.3111 shares
+   - WBD: 347.9471 shares
+✅ Called Away (Exited): OXY, ENPH
+🛒 New Positions:
+   - BIIB: 29.1758 shares
+   - DVN: 423.9831 shares
+💰 Period PnL: $1,807.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 1, 'Communication Services': 2, 'Healthcare': 2, 'Energy': 3}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2021-09-24
+🔁 Rolled Positions:
+   - PARA: 306.0291 shares
+   - WBD: 380.5175 shares
+   - BIIB: 36.6703 shares
+✅ Called Away (Exited): ABNB, DVN
+🛒 New Positions:
+   - APA: 360.9248 shares
+   - MRNA: 40.8697 shares
+💰 Period PnL: $-812.27
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 2, 'Healthcare': 2, 'Energy': 3, 'Consumer Cyclical': 1}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2021-12-08
+🔁 Rolled Positions:
+   - PARA: 334.2947 shares
+   - WBD: 372.0238 shares
+   - BIIB: 44.5058 shares
+   - APA: 360.9442 shares
+✅ Called Away (Exited): MRNA
+🛒 New Positions:
+   - MRNA: 63.5728 shares
+💰 Period PnL: $-2,277.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Healthcare': 2, 'Energy': 1, 'Technology': 1, 'Consumer Cyclical': 2}
+
+[2025-05-04 15:20:38] 📆 Expiry Date: 2022-02-23
+🔁 Rolled Positions:
+   - PARA: 305.8973 shares
+   - BIIB: 47.2500 shares
+   - APA: 268.8593 shares
+   - MRNA: 62.8931 shares
+✅ Called Away (Exited): WBD
+🛒 New Positions:
+   - DASH: 90.1632 shares
+💰 Period PnL: $-69.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Healthcare': 2, 'Energy': 1, 'Financial Services': 1, 'Technology': 2}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2022-05-09
+🔁 Rolled Positions:
+   - PARA: 436.4109 shares
+   - BIIB: 47.3082 shares
+   - APA: 303.5667 shares
+   - MRNA: 69.8032 shares
+   - DASH: 142.3082 shares
+💰 Period PnL: $-6,702.59
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Healthcare': 3, 'Energy': 1, 'Technology': 3}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2022-07-25
+🔁 Rolled Positions:
+   - BIIB: 49.8331 shares
+   - APA: 298.6881 shares
+✅ Called Away (Exited): PARA, MRNA, DASH
+🛒 New Positions:
+   - CCL: 1018.3300 shares
+   - NCLH: 712.2507 shares
+   - RCL: 230.2282 shares
+💰 Period PnL: $3,645.54
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Healthcare': 1, 'Energy': 2, 'Consumer Cyclical': 3, 'Communication Services': 1}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2022-10-06
+🔁 Rolled Positions:
+   - CCL: 1055.9662 shares
+   - NCLH: 610.8735 shares
+   - RCL: 171.7787 shares
+✅ Called Away (Exited): BIIB, APA
+🛒 New Positions:
+   - BIIB: 33.0153 shares
+   - FDX: 60.3675 shares
+💰 Period PnL: $-111.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 3, 'Healthcare': 1, 'Industrials': 2, 'Energy': 1, 'Technology': 1}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2022-12-20
+🔁 Rolled Positions:
+   - CCL: 842.4600 shares
+   - NCLH: 602.7727 shares
+   - RCL: 145.9211 shares
+   - BIIB: 34.6885 shares
+   - FDX: 49.7500 shares
+💰 Period PnL: $-2,623.04
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 3, 'Healthcare': 2, 'Industrials': 1, 'Technology': 2, 'Communication Services': 2}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2023-03-08
+🔁 Rolled Positions:
+   - CCL: 1066.0981 shares
+   - NCLH: 766.8712 shares
+   - BIIB: 34.0148 shares
+   - FDX: 45.2130 shares
+✅ Called Away (Exited): RCL
+🛒 New Positions:
+   - PLTR: 1222.4938 shares
+💰 Period PnL: $-644.41
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Consumer Cyclical': 3, 'Healthcare': 2, 'Industrials': 1, 'Technology': 1, 'Communication Services': 2}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2023-05-22
+🔁 Rolled Positions:
+   - FDX: 41.2360 shares
+✅ Called Away (Exited): CCL, NCLH, BIIB, PLTR
+🛒 New Positions:
+   - PARA: 632.3431 shares
+   - ENPH: 60.1793 shares
+   - SMCI: 384.6006 shares
+   - PLTR: 651.8905 shares
+💰 Period PnL: $2,486.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Industrials': 1, 'Communication Services': 1, 'Technology': 3, 'Financial Services': 1}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2023-08-07
+🔁 Rolled Positions:
+   - PARA: 775.1018 shares
+   - ENPH: 80.6647 shares
+✅ Called Away (Exited): FDX, SMCI, PLTR
+🛒 New Positions:
+   - GNRC: 90.7276 shares
+   - FTNT: 166.2510 shares
+   - PAYC: 37.6970 shares
+💰 Period PnL: $1,124.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Technology': 3, 'Industrials': 1, 'Healthcare': 1, 'Consumer Cyclical': 1}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2023-10-19
+🔁 Rolled Positions:
+   - PARA: 643.4073 shares
+   - ENPH: 91.8527 shares
+   - GNRC: 81.3868 shares
+   - FTNT: 191.3876 shares
+   - PAYC: 54.2401 shares
+💰 Period PnL: $-2,362.36
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Technology': 3, 'Industrials': 1, 'Healthcare': 1, 'Consumer Cyclical': 2}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2024-01-04
+🔁 Rolled Positions:
+   - PARA: 856.0441 shares
+   - GNRC: 87.4202 shares
+✅ Called Away (Exited): ENPH, FTNT, PAYC
+🛒 New Positions:
+   - ENPH: 78.4006 shares
+   - ALB: 88.9422 shares
+   - MRNA: 114.9557 shares
+💰 Period PnL: $2,974.66
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Industrials': 1, 'Technology': 1, 'Basic Materials': 1, 'Healthcare': 2, 'Consumer Cyclical': 1}
+
+[2025-05-04 15:20:39] 📆 Expiry Date: 2024-03-20
+🔁 Rolled Positions:
+   - ENPH: N/A
+✅ Called Away (Exited): PARA, GNRC, ALB, MRNA
+🛒 New Positions:
+   - SMCI: N/A
+   - PANW: N/A
+   - DELL: N/A
+   - ALB: N/A
+   - MRNA: N/A
+💰 Period PnL: $2,252.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Technology': 3, 'Basic Materials': 1, 'Healthcare': 1}
+

@@ -1,0 +1,1470 @@
+[2025-05-05 17:13:05] 📆 Expiry Date: 2015-06-11
+🔁 Rolled Positions:
+   - NWS: 793.3721 shares
+   - IP: 311.0778 shares
+   - YUM: 182.9380 shares
+   - WYNN: 109.2801 shares
+✅ Called Away (Exited): CNC
+🛒 New Positions:
+   - BAX: 314.6382 shares
+💰 Period PnL: $614.66
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:09] 📆 Expiry Date: 2015-07-13
+🔁 Rolled Positions:
+   - NWS: 808.1061 shares
+   - IP: 335.4824 shares
+   - YUM: 183.3798 shares
+   - BAX: 310.2672 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - LVS: 230.2183 shares
+💰 Period PnL: $538.46
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:10] 📆 Expiry Date: 2015-08-11
+🔁 Rolled Positions:
+   - NWS: 823.3978 shares
+   - IP: 339.2439 shares
+   - YUM: 199.1054 shares
+   - LVS: 242.3730 shares
+✅ Called Away (Exited): BAX
+🛒 New Positions:
+   - MOS: 274.8845 shares
+💰 Period PnL: $-358.37
+📊 Avg Correlation of Active Portfolio: 0.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:13] 📆 Expiry Date: 2015-09-10
+🔁 Rolled Positions:
+   - NWS: 860.3411 shares
+   - IP: 380.2096 shares
+   - YUM: 208.1760 shares
+   - LVS: 283.0983 shares
+   - MOS: 303.4856 shares
+💰 Period PnL: $-3,278.55
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:14] 📆 Expiry Date: 2015-10-09
+🔁 Rolled Positions:
+   - YUM: 236.7724 shares
+   - MOS: 352.8589 shares
+✅ Called Away (Exited): NWS, IP, LVS
+🛒 New Positions:
+   - SMCI: 3717.4720 shares
+   - WYNN: 150.6316 shares
+   - LVS: 276.6212 shares
+💰 Period PnL: $-344.58
+📊 Avg Correlation of Active Portfolio: 0.72
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:16] 📆 Expiry Date: 2015-11-09
+🔁 Rolled Positions:
+   - YUM: 239.4772 shares
+   - MOS: 366.8046 shares
+   - WYNN: 165.5301 shares
+   - LVS: 278.8172 shares
+✅ Called Away (Exited): SMCI
+🛒 New Positions:
+   - EQT: 296.9565 shares
+💰 Period PnL: $1,975.31
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:17] 📆 Expiry Date: 2015-12-09
+🔁 Rolled Positions:
+   - MOS: 384.8393 shares
+   - LVS: 297.3837 shares
+   - EQT: 382.5720 shares
+✅ Called Away (Exited): YUM, WYNN
+🛒 New Positions:
+   - NRG: 1170.8114 shares
+   - CBOE: 180.5325 shares
+💰 Period PnL: $45.40
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:19] 📆 Expiry Date: 2016-01-11
+🔁 Rolled Positions:
+   - MOS: 498.6741 shares
+   - LVS: 328.1272 shares
+   - EQT: 376.7477 shares
+   - NRG: 1207.4348 shares
+   - CBOE: 183.4153 shares
+💰 Period PnL: $-1,472.02
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:20] 📆 Expiry Date: 2016-02-10
+🔁 Rolled Positions:
+   - MOS: 506.7655 shares
+   - CBOE: 187.4760 shares
+✅ Called Away (Exited): LVS, EQT, NRG
+🛒 New Positions:
+   - WAB: 161.0002 shares
+   - DOC: 643.9070 shares
+   - HSIC: 162.6794 shares
+💰 Period PnL: $2,839.36
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:21] 📆 Expiry Date: 2016-03-11
+✅ Called Away (Exited): MOS, CBOE, WAB, DOC, HSIC
+🛒 New Positions:
+   - AMCR: 1434.3893 shares
+   - ULTA: 52.1866 shares
+   - DG: 132.1703 shares
+   - ERIE: 135.0749 shares
+   - HPE: 1358.1099 shares
+💰 Period PnL: $3,043.15
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:22] 📆 Expiry Date: 2016-04-12
+🔁 Rolled Positions:
+   - DG: 134.4039 shares
+   - ERIE: 133.3215 shares
+✅ Called Away (Exited): AMCR, ULTA, HPE
+🛒 New Positions:
+   - FDX: 69.3284 shares
+   - BKR: 440.5820 shares
+   - FFIV: 105.0530 shares
+💰 Period PnL: $3,098.57
+📊 Avg Correlation of Active Portfolio: 0.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:23] 📆 Expiry Date: 2016-05-11
+🔁 Rolled Positions:
+   - DG: 134.8081 shares
+   - FDX: 70.9704 shares
+✅ Called Away (Exited): ERIE, BKR, FFIV
+🛒 New Positions:
+   - COR: 150.9844 shares
+   - CAH: 170.3948 shares
+   - REGN: 26.9264 shares
+💰 Period PnL: $1,941.83
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:24] 📆 Expiry Date: 2016-06-10
+🔁 Rolled Positions:
+   - FDX: 71.1557 shares
+   - COR: 148.9253 shares
+   - REGN: 26.9141 shares
+✅ Called Away (Exited): DG, CAH
+🛒 New Positions:
+   - BIIB: 40.6289 shares
+   - CPB: 211.4402 shares
+💰 Period PnL: $1,920.66
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:25] 📆 Expiry Date: 2016-07-12
+🔁 Rolled Positions:
+   - FDX: 71.3865 shares
+   - REGN: 27.1535 shares
+✅ Called Away (Exited): COR, BIIB, CPB
+🛒 New Positions:
+   - LDOS: 324.0672 shares
+   - DAL: 276.8520 shares
+   - CPAY: 66.6400 shares
+💰 Period PnL: $1,815.48
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:27] 📆 Expiry Date: 2016-08-10
+🔁 Rolled Positions:
+   - LDOS: 330.3333 shares
+   - DAL: 303.4920 shares
+✅ Called Away (Exited): FDX, REGN, CPAY
+🛒 New Positions:
+   - BMY: 221.1183 shares
+   - DVA: 142.6330 shares
+   - HSIC: 153.4111 shares
+💰 Period PnL: $1,008.79
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:28] 📆 Expiry Date: 2016-09-09
+🔁 Rolled Positions:
+   - BMY: 240.6638 shares
+   - DVA: 157.1092 shares
+   - HSIC: 160.5187 shares
+✅ Called Away (Exited): LDOS, DAL
+🛒 New Positions:
+   - CAG: 398.6990 shares
+   - PCG: 171.7702 shares
+💰 Period PnL: $-130.27
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:29] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - BMY: 267.0778 shares
+   - DVA: 156.9859 shares
+   - PCG: 174.3285 shares
+✅ Called Away (Exited): HSIC, CAG
+🛒 New Positions:
+   - TSN: 174.8004 shares
+   - FANG: 120.3643 shares
+💰 Period PnL: $470.44
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:30] 📆 Expiry Date: 2016-11-08
+🔁 Rolled Positions:
+   - DVA: 172.3544 shares
+   - TSN: 175.2978 shares
+   - FANG: 135.0921 shares
+✅ Called Away (Exited): BMY, PCG
+🛒 New Positions:
+   - CVS: 176.6712 shares
+   - IFF: 97.9888 shares
+💰 Period PnL: $-281.60
+📊 Avg Correlation of Active Portfolio: 0.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:31] 📆 Expiry Date: 2016-12-08
+🔁 Rolled Positions:
+   - TSN: 199.3165 shares
+   - IFF: 98.2226 shares
+✅ Called Away (Exited): DVA, FANG, CVS
+🛒 New Positions:
+   - LVS: 224.5058 shares
+   - LULU: 145.2644 shares
+   - HLT: 192.5264 shares
+💰 Period PnL: $961.98
+📊 Avg Correlation of Active Portfolio: 0.70
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:32] 📆 Expiry Date: 2017-01-10
+🔁 Rolled Positions:
+   - TSN: 200.5539 shares
+   - IFF: 106.3927 shares
+   - LULU: 143.0615 shares
+✅ Called Away (Exited): LVS, HLT
+🛒 New Positions:
+   - WMB: 553.4800 shares
+   - TPR: 357.9332 shares
+💰 Period PnL: $1,665.35
+📊 Avg Correlation of Active Portfolio: 0.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:34] 📆 Expiry Date: 2017-02-09
+🔁 Rolled Positions:
+   - IFF: 104.3505 shares
+   - LULU: 149.2537 shares
+   - WMB: 550.1978 shares
+✅ Called Away (Exited): TSN, TPR
+🛒 New Positions:
+   - GILD: 207.6405 shares
+   - IP: 288.9565 shares
+💰 Period PnL: $1,822.59
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:36] 📆 Expiry Date: 2017-03-13
+🔁 Rolled Positions:
+   - LULU: 156.7644 shares
+   - WMB: 541.1897 shares
+   - IP: 294.7332 shares
+✅ Called Away (Exited): IFF, GILD
+🛒 New Positions:
+   - SPG: 91.1100 shares
+   - UAL: 143.1639 shares
+💰 Period PnL: $991.48
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:38] 📆 Expiry Date: 2017-04-11
+🔁 Rolled Positions:
+   - LULU: 193.4236 shares
+   - IP: 297.2549 shares
+   - UAL: 141.4227 shares
+✅ Called Away (Exited): WMB, SPG
+🛒 New Positions:
+   - BKR: 294.5134 shares
+   - MTB: 83.3348 shares
+💰 Period PnL: $-469.80
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:39] 📆 Expiry Date: 2017-05-11
+🔁 Rolled Positions:
+   - BKR: 301.2881 shares
+✅ Called Away (Exited): LULU, IP, UAL, MTB
+🛒 New Positions:
+   - EA: 94.4072 shares
+   - GEN: 640.3736 shares
+   - MAR: 104.1213 shares
+   - NVDA: 3205.3106 shares
+💰 Period PnL: $2,076.22
+📊 Avg Correlation of Active Portfolio: 0.72
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:40] 📆 Expiry Date: 2017-06-12
+🔁 Rolled Positions:
+   - BKR: 318.2946 shares
+   - EA: 94.1298 shares
+   - GEN: 680.5256 shares
+   - MAR: 104.5535 shares
+✅ Called Away (Exited): NVDA
+🛒 New Positions:
+   - KIM: 773.6455 shares
+💰 Period PnL: $533.92
+📊 Avg Correlation of Active Portfolio: 0.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:43] 📆 Expiry Date: 2017-07-12
+🔁 Rolled Positions:
+   - BKR: 333.2099 shares
+   - EA: 92.6159 shares
+   - GEN: 671.6551 shares
+   - MAR: 105.8708 shares
+   - KIM: 800.4375 shares
+💰 Period PnL: $749.17
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:45] 📆 Expiry Date: 2017-08-10
+🔁 Rolled Positions:
+   - BKR: 357.1028 shares
+   - GEN: 721.8363 shares
+   - MAR: 107.2325 shares
+✅ Called Away (Exited): EA, KIM
+🛒 New Positions:
+   - DIS: 103.5372 shares
+   - WBD: 434.7826 shares
+💰 Period PnL: $126.67
+📊 Avg Correlation of Active Portfolio: 0.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:45] 📆 Expiry Date: 2017-09-11
+🔁 Rolled Positions:
+   - DIS: 108.0801 shares
+   - WBD: 480.7692 shares
+✅ Called Away (Exited): BKR, GEN, MAR
+🛒 New Positions:
+   - EFX: 94.6798 shares
+   - BRO: 453.1503 shares
+   - AIG: 201.3492 shares
+💰 Period PnL: $401.17
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:47] 📆 Expiry Date: 2017-10-10
+🔁 Rolled Positions:
+   - WBD: 487.0920 shares
+   - EFX: 94.3295 shares
+✅ Called Away (Exited): DIS, BRO, AIG
+🛒 New Positions:
+   - CVS: 170.6219 shares
+   - CLX: 96.4171 shares
+   - PPL: 373.3869 shares
+💰 Period PnL: $1,663.40
+📊 Avg Correlation of Active Portfolio: 0.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:48] 📆 Expiry Date: 2017-11-08
+🔁 Rolled Positions:
+   - WBD: 584.7953 shares
+   - EFX: 99.9083 shares
+   - CVS: 183.5605 shares
+   - PPL: 382.7923 shares
+✅ Called Away (Exited): CLX
+🛒 New Positions:
+   - SLB: 184.5367 shares
+💰 Period PnL: $-1,691.77
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:49] 📆 Expiry Date: 2017-12-08
+🔁 Rolled Positions:
+   - PPL: 405.0738 shares
+   - SLB: 193.2523 shares
+✅ Called Away (Exited): WBD, EFX, CVS
+🛒 New Positions:
+   - NOW: 82.0951 shares
+   - KMI: 863.9437 shares
+   - ISRG: 79.0285 shares
+💰 Period PnL: $635.76
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:50] 📆 Expiry Date: 2018-01-10
+🔁 Rolled Positions:
+   - PPL: 452.2667 shares
+✅ Called Away (Exited): SLB, NOW, KMI, ISRG
+🛒 New Positions:
+   - O: 274.8389 shares
+   - DHI: 213.0557 shares
+   - KMB: 111.5931 shares
+   - GILD: 168.1297 shares
+💰 Period PnL: $720.70
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:54] 📆 Expiry Date: 2018-02-09
+🔁 Rolled Positions:
+   - PPL: 464.9049 shares
+   - O: 296.9750 shares
+   - DHI: 246.3576 shares
+   - KMB: 115.1179 shares
+   - GILD: 166.8367 shares
+💰 Period PnL: $-1,851.79
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:55] 📆 Expiry Date: 2018-03-13
+🔁 Rolled Positions:
+   - PPL: 495.9508 shares
+   - DHI: 241.9400 shares
+✅ Called Away (Exited): O, KMB, GILD
+🛒 New Positions:
+   - CHTR: 28.5706 shares
+   - KIM: 972.6143 shares
+   - UHS: 83.3122 shares
+💰 Period PnL: $1,348.57
+📊 Avg Correlation of Active Portfolio: 0.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:57] 📆 Expiry Date: 2018-04-12
+🔁 Rolled Positions:
+   - PPL: 499.9126 shares
+   - DHI: 244.8945 shares
+   - CHTR: 32.6435 shares
+   - KIM: 999.3110 shares
+   - UHS: 85.9413 shares
+💰 Period PnL: $-623.97
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:13:59] 📆 Expiry Date: 2018-05-11
+🔁 Rolled Positions:
+   - PPL: 494.8811 shares
+   - DHI: 246.1411 shares
+   - CHTR: 36.6555 shares
+   - UHS: 87.2047 shares
+✅ Called Away (Exited): KIM
+🛒 New Positions:
+   - IFF: 93.9960 shares
+💰 Period PnL: $150.47
+📊 Avg Correlation of Active Portfolio: 0.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:00] 📆 Expiry Date: 2018-06-12
+🔁 Rolled Positions:
+   - PPL: 518.2746 shares
+   - UHS: 88.8952 shares
+   - IFF: 96.4058 shares
+✅ Called Away (Exited): DHI, CHTR
+🛒 New Positions:
+   - SRE: 213.7565 shares
+   - APA: 277.5182 shares
+💰 Period PnL: $908.59
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:01] 📆 Expiry Date: 2018-07-12
+🔁 Rolled Positions:
+   - UHS: 90.0439 shares
+   - SRE: 214.8459 shares
+✅ Called Away (Exited): PPL, IFF, APA
+🛒 New Positions:
+   - BIIB: 28.7637 shares
+   - WYNN: 65.4800 shares
+   - CAG: 358.3589 shares
+💰 Period PnL: $1,953.05
+📊 Avg Correlation of Active Portfolio: 0.65
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:03] 📆 Expiry Date: 2018-08-10
+🔁 Rolled Positions:
+   - SRE: 217.0800 shares
+   - BIIB: 29.1545 shares
+   - WYNN: 72.5385 shares
+✅ Called Away (Exited): UHS, CAG
+🛒 New Positions:
+   - BEN: 422.6485 shares
+   - IVZ: 563.6414 shares
+💰 Period PnL: $975.05
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:04] 📆 Expiry Date: 2018-09-11
+🔁 Rolled Positions:
+   - BIIB: 29.6121 shares
+   - WYNN: 80.2851 shares
+   - BEN: 435.8224 shares
+   - IVZ: 573.3562 shares
+✅ Called Away (Exited): SRE
+🛒 New Positions:
+   - IR: 383.6347 shares
+💰 Period PnL: $327.69
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:06] 📆 Expiry Date: 2018-10-10
+🔁 Rolled Positions:
+   - BIIB: 29.6270 shares
+   - WYNN: 93.1045 shares
+   - BEN: 454.9967 shares
+   - IVZ: 650.6533 shares
+   - IR: 383.4882 shares
+💰 Period PnL: $-1,607.55
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:06] 📆 Expiry Date: 2018-11-08
+🔁 Rolled Positions:
+   - BIIB: 30.6711 shares
+   - WYNN: 108.2333 shares
+✅ Called Away (Exited): BEN, IVZ, IR
+🛒 New Positions:
+   - HUM: 31.0070 shares
+   - AES: 798.6152 shares
+   - MOS: 299.9746 shares
+💰 Period PnL: $157.02
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:08] 📆 Expiry Date: 2018-12-11
+🔁 Rolled Positions:
+   - BIIB: 31.2705 shares
+   - HUM: 34.4029 shares
+   - AES: 795.0635 shares
+   - MOS: 336.0060 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - FDX: 58.7949 shares
+💰 Period PnL: $-56.43
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:11] 📆 Expiry Date: 2019-01-11
+🔁 Rolled Positions:
+   - HUM: 37.0804 shares
+   - AES: 813.1449 shares
+   - MOS: 350.4487 shares
+   - FDX: 65.2111 shares
+✅ Called Away (Exited): BIIB
+🛒 New Positions:
+   - DAL: 216.8612 shares
+💰 Period PnL: $-520.18
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:11] 📆 Expiry Date: 2019-02-12
+🔁 Rolled Positions:
+   - MOS: 347.7014 shares
+✅ Called Away (Exited): HUM, AES, FDX, DAL
+🛒 New Positions:
+   - MSI: 79.3161 shares
+   - EA: 100.1733 shares
+   - TPR: 337.5517 shares
+   - RMD: 107.4156 shares
+💰 Period PnL: $2,913.04
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:12] 📆 Expiry Date: 2019-03-14
+🔁 Rolled Positions:
+   - MOS: 390.3779 shares
+   - EA: 103.7209 shares
+   - TPR: 356.9673 shares
+✅ Called Away (Exited): MSI, RMD
+🛒 New Positions:
+   - KHC: 416.0994 shares
+   - CAH: 238.2587 shares
+💰 Period PnL: $1,129.54
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:13] 📆 Expiry Date: 2019-04-12
+🔁 Rolled Positions:
+   - MOS: 413.3927 shares
+   - TPR: 362.7761 shares
+   - CAH: 256.1084 shares
+✅ Called Away (Exited): EA, KHC
+🛒 New Positions:
+   - PNR: 274.0973 shares
+   - DIS: 78.7887 shares
+💰 Period PnL: $1,710.19
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:15] 📆 Expiry Date: 2019-05-14
+🔁 Rolled Positions:
+   - MOS: 485.7046 shares
+   - TPR: 383.8731 shares
+   - CAH: 259.9417 shares
+   - PNR: 297.2940 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - IVZ: 645.3143 shares
+💰 Period PnL: $-1,292.88
+📊 Avg Correlation of Active Portfolio: 0.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:17] 📆 Expiry Date: 2019-06-13
+🔁 Rolled Positions:
+   - MOS: 483.9991 shares
+   - TPR: 390.2218 shares
+   - CAH: 264.7076 shares
+   - PNR: 303.0635 shares
+   - IVZ: 638.7327 shares
+💰 Period PnL: $1,306.73
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:18] 📆 Expiry Date: 2019-07-15
+🔁 Rolled Positions:
+   - IVZ: 653.6534 shares
+✅ Called Away (Exited): MOS, TPR, CAH, PNR
+🛒 New Positions:
+   - LLY: 99.6542 shares
+   - EQT: 682.8671 shares
+   - LHX: 58.4709 shares
+   - ICE: 117.2271 shares
+💰 Period PnL: $2,134.03
+📊 Avg Correlation of Active Portfolio: 0.66
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:19] 📆 Expiry Date: 2019-08-13
+🔁 Rolled Positions:
+   - IVZ: 813.8308 shares
+   - EQT: 865.0892 shares
+   - ICE: 117.0742 shares
+✅ Called Away (Exited): LLY, LHX
+🛒 New Positions:
+   - MOS: 536.3678 shares
+   - SMCI: 5882.3528 shares
+💰 Period PnL: $-2,327.95
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:21] 📆 Expiry Date: 2019-09-12
+🔁 Rolled Positions:
+   - EQT: 865.7930 shares
+   - ICE: 119.2912 shares
+✅ Called Away (Exited): IVZ, MOS, SMCI
+🛒 New Positions:
+   - SPG: 87.9617 shares
+   - STT: 200.2129 shares
+   - TSN: 139.9540 shares
+💰 Period PnL: $2,220.84
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:22] 📆 Expiry Date: 2019-10-11
+🔁 Rolled Positions:
+   - EQT: 1101.5113 shares
+   - SPG: 91.9099 shares
+   - STT: 203.7802 shares
+   - TSN: 139.7364 shares
+✅ Called Away (Exited): ICE
+🛒 New Positions:
+   - FAST: 319.6599 shares
+💰 Period PnL: $-663.41
+📊 Avg Correlation of Active Portfolio: 0.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:23] 📆 Expiry Date: 2019-11-11
+🔁 Rolled Positions:
+   - TSN: 141.2058 shares
+   - FAST: 313.5646 shares
+✅ Called Away (Exited): EQT, SPG, STT
+🛒 New Positions:
+   - EXPE: 101.8885 shares
+   - PNW: 147.7993 shares
+   - FANG: 163.6142 shares
+💰 Period PnL: $2,678.35
+📊 Avg Correlation of Active Portfolio: 0.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:24] 📆 Expiry Date: 2019-12-11
+🔁 Rolled Positions:
+   - FAST: 318.6694 shares
+   - PNW: 147.2630 shares
+✅ Called Away (Exited): TSN, EXPE, FANG
+🛒 New Positions:
+   - VST: 480.1867 shares
+   - ESS: 39.7178 shares
+   - MRNA: 536.1930 shares
+💰 Period PnL: $2,784.81
+📊 Avg Correlation of Active Portfolio: 0.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:25] 📆 Expiry Date: 2020-01-13
+🔁 Rolled Positions:
+   - FAST: 315.6212 shares
+   - VST: 506.7383 shares
+   - ESS: 39.3638 shares
+✅ Called Away (Exited): PNW, MRNA
+🛒 New Positions:
+   - APA: 353.2885 shares
+   - KIM: 635.0882 shares
+💰 Period PnL: $1,231.75
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:26] 📆 Expiry Date: 2020-02-12
+🔁 Rolled Positions:
+   - VST: 497.8986 shares
+   - APA: 394.0389 shares
+   - KIM: 668.2466 shares
+✅ Called Away (Exited): FAST, ESS
+🛒 New Positions:
+   - CSGP: 135.1132 shares
+   - TMUS: 106.8871 shares
+💰 Period PnL: $773.25
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:28] 📆 Expiry Date: 2020-03-13
+🔁 Rolled Positions:
+   - VST: 737.0441 shares
+   - APA: 1390.6106 shares
+   - KIM: 948.7892 shares
+   - CSGP: 150.6183 shares
+   - TMUS: 119.7551 shares
+💰 Period PnL: $-13,454.36
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:30] 📆 Expiry Date: 2020-04-14
+🔁 Rolled Positions:
+   - APA: 1388.8896 shares
+   - KIM: 1135.1166 shares
+   - CSGP: 155.0508 shares
+✅ Called Away (Exited): VST, TMUS
+🛒 New Positions:
+   - FOX: 413.8384 shares
+   - MHK: 120.8605 shares
+💰 Period PnL: $3,344.79
+📊 Avg Correlation of Active Portfolio: 0.86
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:31] 📆 Expiry Date: 2020-05-13
+🔁 Rolled Positions:
+   - KIM: 1390.3883 shares
+   - CSGP: 162.5963 shares
+   - FOX: 447.3789 shares
+   - MHK: 135.2448 shares
+✅ Called Away (Exited): APA
+🛒 New Positions:
+   - TECH: 155.6485 shares
+💰 Period PnL: $3,783.80
+📊 Avg Correlation of Active Portfolio: 0.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:32] 📆 Expiry Date: 2020-06-12
+🔁 Rolled Positions:
+   - TECH: 165.8464 shares
+✅ Called Away (Exited): KIM, CSGP, FOX, MHK
+🛒 New Positions:
+   - LUV: 294.9774 shares
+   - UAL: 252.1432 shares
+   - OXY: 564.9875 shares
+   - DAL: 334.6031 shares
+💰 Period PnL: $4,207.84
+📊 Avg Correlation of Active Portfolio: 0.61
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:33] 📆 Expiry Date: 2020-07-14
+🔁 Rolled Positions:
+   - LUV: 318.2207 shares
+   - UAL: 315.0599 shares
+   - OXY: 626.6348 shares
+   - DAL: 389.9644 shares
+✅ Called Away (Exited): TECH
+🛒 New Positions:
+   - LLY: 64.5767 shares
+💰 Period PnL: $1,054.54
+📊 Avg Correlation of Active Portfolio: 0.91
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:34] 📆 Expiry Date: 2020-08-12
+🔁 Rolled Positions:
+   - OXY: 700.5542 shares
+   - LLY: 69.3728 shares
+✅ Called Away (Exited): LUV, UAL, DAL
+🛒 New Positions:
+   - RMD: 59.1908 shares
+   - EVRG: 228.2017 shares
+   - INTC: 226.5114 shares
+💰 Period PnL: $4,091.11
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:39] 📆 Expiry Date: 2020-09-11
+🔁 Rolled Positions:
+   - OXY: 1022.7271 shares
+   - LLY: 71.1155 shares
+   - RMD: 60.3834 shares
+   - EVRG: 230.7948 shares
+   - INTC: 226.0977 shares
+💰 Period PnL: $-1,467.97
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:39] 📆 Expiry Date: 2020-10-12
+✅ Called Away (Exited): OXY, LLY, RMD, EVRG, INTC
+🛒 New Positions:
+   - ON: 377.2161 shares
+   - DPZ: 26.8752 shares
+   - MAS: 187.0428 shares
+   - EBAY: 195.5677 shares
+   - CHTR: 15.3440 shares
+💰 Period PnL: $2,718.33
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:41] 📆 Expiry Date: 2020-11-10
+🔁 Rolled Positions:
+   - DPZ: 27.6435 shares
+   - MAS: 201.3931 shares
+   - EBAY: 232.7146 shares
+   - CHTR: 15.9520 shares
+✅ Called Away (Exited): ON
+🛒 New Positions:
+   - BXP: 136.1198 shares
+💰 Period PnL: $-1,005.36
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:42] 📆 Expiry Date: 2020-12-10
+🔁 Rolled Positions:
+   - DPZ: 27.3298 shares
+   - MAS: 198.1019 shares
+✅ Called Away (Exited): EBAY, CHTR, BXP
+🛒 New Positions:
+   - MOS: 488.2652 shares
+   - D: 161.9177 shares
+   - CTRA: 714.7897 shares
+💰 Period PnL: $3,039.12
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:43] 📆 Expiry Date: 2021-01-12
+🔁 Rolled Positions:
+   - DPZ: 27.3131 shares
+   - D: 168.2332 shares
+✅ Called Away (Exited): MAS, MOS, CTRA
+🛒 New Positions:
+   - EQT: 640.2105 shares
+   - WDC: 265.1303 shares
+   - COR: 98.6823 shares
+💰 Period PnL: $2,051.96
+📊 Avg Correlation of Active Portfolio: 0.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:44] 📆 Expiry Date: 2021-02-11
+🔁 Rolled Positions:
+   - DPZ: 27.3344 shares
+   - COR: 100.1446 shares
+✅ Called Away (Exited): D, EQT, WDC
+🛒 New Positions:
+   - CTSH: 138.6142 shares
+   - DD: 152.6215 shares
+   - IFF: 82.0947 shares
+💰 Period PnL: $2,357.60
+📊 Avg Correlation of Active Portfolio: 0.72
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:47] 📆 Expiry Date: 2021-03-15
+🔁 Rolled Positions:
+   - DPZ: 28.9324 shares
+   - IFF: 82.0827 shares
+✅ Called Away (Exited): COR, CTSH, DD
+🛒 New Positions:
+   - GE: 153.0435 shares
+   - VST: 595.9219 shares
+   - BEN: 408.1249 shares
+💰 Period PnL: $1,917.74
+📊 Avg Correlation of Active Portfolio: 0.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:47] 📆 Expiry Date: 2021-04-14
+🔁 Rolled Positions:
+   - VST: 623.3013 shares
+   - BEN: 406.6393 shares
+✅ Called Away (Exited): DPZ, IFF, GE
+🛒 New Positions:
+   - PARA: 275.8966 shares
+   - PAYX: 115.3521 shares
+   - WBD: 260.5524 shares
+💰 Period PnL: $2,851.30
+📊 Avg Correlation of Active Portfolio: 0.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:48] 📆 Expiry Date: 2021-05-13
+🔁 Rolled Positions:
+   - VST: 684.2342 shares
+   - PARA: 288.1476 shares
+   - WBD: 283.8490 shares
+✅ Called Away (Exited): BEN, PAYX
+🛒 New Positions:
+   - CNC: 146.2202 shares
+   - GEN: 429.1994 shares
+💰 Period PnL: $1,817.83
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:49] 📆 Expiry Date: 2021-06-14
+🔁 Rolled Positions:
+   - WBD: 324.4646 shares
+   - CNC: 145.3911 shares
+✅ Called Away (Exited): VST, PARA, GEN
+🛒 New Positions:
+   - BIIB: 24.6221 shares
+   - BAX: 131.8274 shares
+   - TRGP: 230.2730 shares
+💰 Period PnL: $1,169.33
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:50] 📆 Expiry Date: 2021-07-14
+🔁 Rolled Positions:
+   - WBD: 347.9471 shares
+   - BIIB: 28.4042 shares
+   - BAX: 134.7081 shares
+   - TRGP: 251.8928 shares
+✅ Called Away (Exited): CNC
+🛒 New Positions:
+   - LII: 33.7610 shares
+💰 Period PnL: $-505.99
+📊 Avg Correlation of Active Portfolio: 0.91
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:51] 📆 Expiry Date: 2021-08-12
+🔁 Rolled Positions:
+   - WBD: 346.0208 shares
+   - BIIB: 29.3531 shares
+   - BAX: 147.7302 shares
+✅ Called Away (Exited): TRGP, LII
+🛒 New Positions:
+   - COO: 90.9149 shares
+   - GDDY: 140.7658 shares
+💰 Period PnL: $1,678.37
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:52] 📆 Expiry Date: 2021-09-13
+🔁 Rolled Positions:
+   - WBD: 369.5492 shares
+   - BIIB: 33.1192 shares
+   - COO: 90.8220 shares
+✅ Called Away (Exited): BAX, GDDY
+🛒 New Positions:
+   - KR: 251.6638 shares
+   - GIS: 192.8483 shares
+💰 Period PnL: $-27.86
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:56] 📆 Expiry Date: 2021-10-12
+🔁 Rolled Positions:
+   - WBD: 406.8348 shares
+   - BIIB: 35.1136 shares
+   - COO: 99.5756 shares
+   - KR: 270.9351 shares
+✅ Called Away (Exited): GIS
+🛒 New Positions:
+   - T: 648.8570 shares
+💰 Period PnL: $-1,629.70
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:57] 📆 Expiry Date: 2021-11-10
+🔁 Rolled Positions:
+   - BIIB: 37.4630 shares
+   - T: 661.3398 shares
+✅ Called Away (Exited): WBD, COO, KR
+🛒 New Positions:
+   - DASH: 46.6766 shares
+   - FICO: 25.7327 shares
+   - TSLA: 28.0912 shares
+💰 Period PnL: $823.11
+📊 Avg Correlation of Active Portfolio: 0.59
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:58] 📆 Expiry Date: 2021-12-10
+🔁 Rolled Positions:
+   - BIIB: 42.9886 shares
+   - T: 722.4358 shares
+   - DASH: 63.2911 shares
+   - TSLA: 29.4977 shares
+✅ Called Away (Exited): FICO
+🛒 New Positions:
+   - ORCL: 102.4818 shares
+💰 Period PnL: $-3,257.68
+📊 Avg Correlation of Active Portfolio: 0.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:59] 📆 Expiry Date: 2022-01-11
+🔁 Rolled Positions:
+   - DASH: 69.6185 shares
+   - ORCL: 118.4310 shares
+✅ Called Away (Exited): BIIB, T, TSLA
+🛒 New Positions:
+   - TMUS: 92.1500 shares
+   - HUM: 26.2764 shares
+   - WBD: 348.6750 shares
+💰 Period PnL: $694.90
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:14:59] 📆 Expiry Date: 2022-02-10
+🔁 Rolled Positions:
+   - DASH: 102.2390 shares
+   - ORCL: 128.0242 shares
+✅ Called Away (Exited): TMUS, HUM, WBD
+🛒 New Positions:
+   - IPG: 315.3313 shares
+   - AMGN: 48.4431 shares
+   - APD: 43.0281 shares
+💰 Period PnL: $-462.15
+📊 Avg Correlation of Active Portfolio: 0.69
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:01] 📆 Expiry Date: 2022-03-14
+🔁 Rolled Positions:
+   - DASH: 131.4752 shares
+   - ORCL: 135.9644 shares
+   - IPG: 329.4654 shares
+   - AMGN: 47.9495 shares
+   - APD: 49.7523 shares
+💰 Period PnL: $-2,407.05
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:01] 📆 Expiry Date: 2022-04-12
+🔁 Rolled Positions:
+   - IPG: 332.3836 shares
+✅ Called Away (Exited): DASH, ORCL, AMGN, APD
+🛒 New Positions:
+   - KMX: 107.1467 shares
+   - MKTX: 37.8098 shares
+   - WBA: 271.5706 shares
+   - PSX: 136.2598 shares
+💰 Period PnL: $3,273.01
+📊 Avg Correlation of Active Portfolio: 0.69
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:03] 📆 Expiry Date: 2022-05-12
+🔁 Rolled Positions:
+   - IPG: 359.7901 shares
+   - KMX: 109.5770 shares
+   - MKTX: 40.1550 shares
+   - WBA: 278.3033 shares
+✅ Called Away (Exited): PSX
+🛒 New Positions:
+   - VST: 454.8862 shares
+💰 Period PnL: $192.13
+📊 Avg Correlation of Active Portfolio: 0.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:05] 📆 Expiry Date: 2022-06-13
+🔁 Rolled Positions:
+   - IPG: 398.2692 shares
+   - KMX: 112.5999 shares
+   - WBA: 294.7396 shares
+   - VST: 453.1441 shares
+✅ Called Away (Exited): MKTX
+🛒 New Positions:
+   - HST: 675.0792 shares
+💰 Period PnL: $511.00
+📊 Avg Correlation of Active Portfolio: 0.91
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:09] 📆 Expiry Date: 2022-07-14
+🔁 Rolled Positions:
+   - IPG: 405.6553 shares
+   - KMX: 112.2208 shares
+   - WBA: 322.0865 shares
+   - VST: 460.7420 shares
+   - HST: 733.3604 shares
+💰 Period PnL: $355.43
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:09] 📆 Expiry Date: 2022-08-12
+✅ Called Away (Exited): IPG, KMX, WBA, VST, HST
+🛒 New Positions:
+   - GEN: 439.5304 shares
+   - BALL: 174.6974 shares
+   - AIZ: 63.1924 shares
+   - SWK: 110.8766 shares
+   - FTNT: 184.1960 shares
+💰 Period PnL: $2,923.33
+📊 Avg Correlation of Active Portfolio: 0.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:12] 📆 Expiry Date: 2022-09-13
+🔁 Rolled Positions:
+   - GEN: 486.9396 shares
+   - BALL: 176.7272 shares
+   - AIZ: 66.0264 shares
+   - SWK: 125.5420 shares
+   - FTNT: 192.7897 shares
+💰 Period PnL: $-451.43
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:14] 📆 Expiry Date: 2022-10-12
+🔁 Rolled Positions:
+   - GEN: 507.5014 shares
+   - BALL: 211.5383 shares
+   - AIZ: 71.4010 shares
+   - SWK: 144.8907 shares
+   - FTNT: 207.4258 shares
+💰 Period PnL: $-2,375.95
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:15] 📆 Expiry Date: 2022-11-10
+🔁 Rolled Positions:
+   - AIZ: 82.6191 shares
+✅ Called Away (Exited): GEN, BALL, SWK, FTNT
+🛒 New Positions:
+   - DIS: 111.9117 shares
+   - MHK: 97.6181 shares
+   - MKTX: 37.0270 shares
+   - PARA: 638.9140 shares
+💰 Period PnL: $1,036.15
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:16] 📆 Expiry Date: 2022-12-12
+🔁 Rolled Positions:
+   - MHK: 96.8898 shares
+✅ Called Away (Exited): AIZ, DIS, MKTX, PARA
+🛒 New Positions:
+   - CPB: 190.8396 shares
+   - NRG: 329.2570 shares
+   - BF-B: 150.9306 shares
+   - LULU: 30.4664 shares
+💰 Period PnL: $3,552.92
+📊 Avg Correlation of Active Portfolio: 0.66
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:17] 📆 Expiry Date: 2023-01-12
+🔁 Rolled Positions:
+   - CPB: 197.1347 shares
+   - NRG: 329.7617 shares
+   - BF-B: 158.2163 shares
+   - LULU: 31.7470 shares
+✅ Called Away (Exited): MHK
+🛒 New Positions:
+   - EXE: 118.2901 shares
+💰 Period PnL: $1,258.53
+📊 Avg Correlation of Active Portfolio: 0.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:18] 📆 Expiry Date: 2023-02-13
+🔁 Rolled Positions:
+   - CPB: 208.2853 shares
+   - BF-B: 157.6880 shares
+   - LULU: 31.5378 shares
+   - EXE: 129.6556 shares
+✅ Called Away (Exited): NRG
+🛒 New Positions:
+   - STE: 52.0591 shares
+💰 Period PnL: $927.47
+📊 Avg Correlation of Active Portfolio: 0.91
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:19] 📆 Expiry Date: 2023-03-15
+🔁 Rolled Positions:
+   - BF-B: 167.5821 shares
+   - LULU: 34.1029 shares
+   - EXE: 148.7091 shares
+   - STE: 57.7941 shares
+✅ Called Away (Exited): CPB
+🛒 New Positions:
+   - GL: 94.7568 shares
+💰 Period PnL: $-1,886.96
+📊 Avg Correlation of Active Portfolio: 0.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:20] 📆 Expiry Date: 2023-04-14
+🔁 Rolled Positions:
+   - BF-B: 164.9928 shares
+   - GL: 94.8619 shares
+✅ Called Away (Exited): LULU, EXE, STE
+🛒 New Positions:
+   - MCK: 27.9027 shares
+   - BXP: 221.3319 shares
+   - XOM: 92.2658 shares
+💰 Period PnL: $2,158.81
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:21] 📆 Expiry Date: 2023-05-15
+🔁 Rolled Positions:
+   - GL: 94.5974 shares
+   - BXP: 229.6696 shares
+   - XOM: 101.0310 shares
+✅ Called Away (Exited): BF-B, MCK
+🛒 New Positions:
+   - TPR: 247.2572 shares
+   - DIS: 109.0193 shares
+💰 Period PnL: $593.90
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:23] 📆 Expiry Date: 2023-06-14
+🔁 Rolled Positions:
+   - GL: 95.1101 shares
+   - XOM: 100.9446 shares
+   - DIS: 109.5028 shares
+✅ Called Away (Exited): BXP, TPR
+🛒 New Positions:
+   - CVS: 162.6278 shares
+   - CPB: 233.4257 shares
+💰 Period PnL: $1,698.09
+📊 Avg Correlation of Active Portfolio: 0.76
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:24] 📆 Expiry Date: 2023-07-17
+🔁 Rolled Positions:
+   - XOM: 104.7083 shares
+   - DIS: 118.3209 shares
+   - CPB: 236.5670 shares
+✅ Called Away (Exited): GL, CVS
+🛒 New Positions:
+   - DPZ: 26.2634 shares
+   - GLW: 313.8031 shares
+💰 Period PnL: $352.06
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:25] 📆 Expiry Date: 2023-08-15
+🔁 Rolled Positions:
+   - DIS: 116.2823 shares
+   - CPB: 247.2975 shares
+   - DPZ: 25.9913 shares
+   - GLW: 330.6298 shares
+✅ Called Away (Exited): XOM
+🛒 New Positions:
+   - IFF: 161.8248 shares
+💰 Period PnL: $805.23
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:28] 📆 Expiry Date: 2023-09-14
+🔁 Rolled Positions:
+   - DIS: 119.8335 shares
+   - CPB: 244.4544 shares
+   - DPZ: 25.5711 shares
+   - GLW: 332.0855 shares
+✅ Called Away (Exited): IFF
+🛒 New Positions:
+   - FOXA: 318.6449 shares
+💰 Period PnL: $1,634.49
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:29] 📆 Expiry Date: 2023-10-13
+🔁 Rolled Positions:
+   - DIS: 120.0182 shares
+   - CPB: 265.2395 shares
+   - DPZ: 29.4244 shares
+   - GLW: 374.2947 shares
+   - FOXA: 329.7640 shares
+💰 Period PnL: $-2,742.13
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:30] 📆 Expiry Date: 2023-11-13
+🔁 Rolled Positions:
+   - CPB: 260.5804 shares
+   - GLW: 377.1302 shares
+   - FOXA: 344.9204 shares
+✅ Called Away (Exited): DIS, DPZ
+🛒 New Positions:
+   - CTVA: 224.7542 shares
+   - TDG: 11.0217 shares
+💰 Period PnL: $1,086.59
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:30] 📆 Expiry Date: 2023-12-13
+🔁 Rolled Positions:
+   - FOXA: 345.3873 shares
+   - CTVA: 222.7344 shares
+✅ Called Away (Exited): CPB, GLW, TDG
+🛒 New Positions:
+   - INCY: 155.7875 shares
+   - VRTX: 24.6871 shares
+   - BF-B: 179.5380 shares
+💰 Period PnL: $1,834.47
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:31] 📆 Expiry Date: 2024-01-16
+🔁 Rolled Positions:
+   - CTVA: 222.9792 shares
+   - INCY: 163.0258 shares
+   - BF-B: 187.9292 shares
+✅ Called Away (Exited): FOXA, VRTX
+🛒 New Positions:
+   - BA: 49.8703 shares
+   - DAL: 270.4103 shares
+💰 Period PnL: $1,184.71
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:32] 📆 Expiry Date: 2024-02-14
+🔁 Rolled Positions:
+   - INCY: 172.7414 shares
+   - BA: 49.1690 shares
+✅ Called Away (Exited): CTVA, BF-B, DAL
+🛒 New Positions:
+   - AKAM: 87.1080 shares
+   - FANG: 61.9276 shares
+   - MCO: 27.5559 shares
+💰 Period PnL: $1,852.70
+📊 Avg Correlation of Active Portfolio: 0.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:33] 📆 Expiry Date: 2024-03-15
+🔁 Rolled Positions:
+   - INCY: 171.3209 shares
+   - BA: 54.7855 shares
+   - AKAM: 93.2401 shares
+✅ Called Away (Exited): FANG, MCO
+🛒 New Positions:
+   - DLTR: 78.4806 shares
+   - LUV: 361.1381 shares
+💰 Period PnL: $250.19
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-05 17:15:33] 📆 Expiry Date: 2024-04-16
+🔁 Rolled Positions:
+   - INCY: N/A
+   - BA: N/A
+   - AKAM: N/A
+   - DLTR: N/A
+   - LUV: N/A
+🛒 New Positions:
+   - JPM: N/A
+   - GL: N/A
+   - PSA: N/A
+   - PPG: N/A
+   - UNH: N/A
+💰 Period PnL: $-805.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
