@@ -1,0 +1,1228 @@
+[2025-05-10 10:02:09] 📆 Expiry Date: 2015-06-11
+🔁 Rolled Positions:
+   - YUM: 182.9380 shares
+   - WYNN: 109.2801 shares
+✅ Called Away (Exited): WST
+🛒 New Positions:
+   - WDC: 148.6081 shares
+💰 Period PnL: $674.00
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:10] 📆 Expiry Date: 2015-07-13
+🔁 Rolled Positions:
+   - YUM: 183.3798 shares
+   - WDC: 180.6398 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - WMB: 304.5395 shares
+💰 Period PnL: $-739.57
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:10] 📆 Expiry Date: 2015-08-11
+🔁 Rolled Positions:
+   - YUM: 199.1054 shares
+   - WMB: 354.8085 shares
+✅ Called Away (Exited): WDC
+🛒 New Positions:
+   - DIS: 99.9926 shares
+💰 Period PnL: $-794.94
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:10] 📆 Expiry Date: 2015-09-10
+🔁 Rolled Positions:
+   - YUM: 208.1760 shares
+   - WMB: 400.5721 shares
+   - DIS: 105.2553 shares
+💰 Period PnL: $-1,384.76
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:11] 📆 Expiry Date: 2015-10-09
+🔁 Rolled Positions:
+   - YUM: 236.7724 shares
+   - WMB: 399.0092 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - WYNN: 150.6316 shares
+💰 Period PnL: $206.03
+📊 Avg Correlation of Active Portfolio: 0.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:11] 📆 Expiry Date: 2015-11-09
+🔁 Rolled Positions:
+   - YUM: 239.4772 shares
+   - WMB: 473.3037 shares
+   - WYNN: 165.5301 shares
+💰 Period PnL: $-396.59
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:11] 📆 Expiry Date: 2015-12-09
+🔁 Rolled Positions:
+   - WMB: 590.1063 shares
+✅ Called Away (Exited): YUM, WYNN
+🛒 New Positions:
+   - WEC: 269.9340 shares
+   - WTW: 96.0105 shares
+💰 Period PnL: $405.26
+📊 Avg Correlation of Active Portfolio: 0.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:11] 📆 Expiry Date: 2016-01-11
+🔁 Rolled Positions:
+   - WMB: 913.7336 shares
+   - WTW: 99.2598 shares
+✅ Called Away (Exited): WEC
+🛒 New Positions:
+   - WFC: 260.4123 shares
+💰 Period PnL: $-2,713.03
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:11] 📆 Expiry Date: 2016-02-10
+🔁 Rolled Positions:
+   - WMB: 1329.0023 shares
+   - WTW: 106.1374 shares
+   - WFC: 280.3525 shares
+💰 Period PnL: $-2,928.81
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:12] 📆 Expiry Date: 2016-03-11
+✅ Called Away (Exited): WMB, WTW, WFC
+🛒 New Positions:
+   - ZTS: 256.0198 shares
+   - ZBRA: 149.2315 shares
+   - WDAY: 140.4692 shares
+💰 Period PnL: $3,328.93
+📊 Avg Correlation of Active Portfolio: 0.90
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:12] 📆 Expiry Date: 2016-04-12
+🔁 Rolled Positions:
+   - ZBRA: 151.7220 shares
+✅ Called Away (Exited): ZTS, WDAY
+🛒 New Positions:
+   - WDC: 316.6050 shares
+   - WBA: 176.6573 shares
+💰 Period PnL: $2,187.73
+📊 Avg Correlation of Active Portfolio: 0.61
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:12] 📆 Expiry Date: 2016-05-11
+🔁 Rolled Positions:
+   - ZBRA: 194.4769 shares
+   - WDC: 378.9091 shares
+   - WBA: 179.0354 shares
+💰 Period PnL: $-2,944.98
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:12] 📆 Expiry Date: 2016-06-10
+✅ Called Away (Exited): ZBRA, WDC, WBA
+🛒 New Positions:
+   - WBA: 173.3749 shares
+   - WMT: 495.2251 shares
+   - WBD: 382.4092 shares
+💰 Period PnL: $1,855.16
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:13] 📆 Expiry Date: 2016-07-12
+🔁 Rolled Positions:
+   - WBA: 176.0432 shares
+   - WBD: 391.5427 shares
+✅ Called Away (Exited): WMT
+🛒 New Positions:
+   - WY: 442.4348 shares
+💰 Period PnL: $635.02
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:13] 📆 Expiry Date: 2016-08-10
+🔁 Rolled Positions:
+   - WBA: 173.3118 shares
+   - WBD: 388.1988 shares
+✅ Called Away (Exited): WY
+🛒 New Positions:
+   - ZBH: 85.6257 shares
+💰 Period PnL: $1,327.35
+📊 Avg Correlation of Active Portfolio: 0.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:13] 📆 Expiry Date: 2016-09-09
+🔁 Rolled Positions:
+   - WBA: 171.6531 shares
+   - WBD: 407.3320 shares
+   - ZBH: 88.1066 shares
+💰 Period PnL: $-91.82
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:13] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - WBA: 178.7002 shares
+✅ Called Away (Exited): WBD, ZBH
+🛒 New Positions:
+   - WELL: 199.7287 shares
+   - WFC: 279.1494 shares
+💰 Period PnL: $495.69
+📊 Avg Correlation of Active Portfolio: 0.67
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:14] 📆 Expiry Date: 2016-11-08
+🔁 Rolled Positions:
+   - WBA: 177.7184 shares
+   - WELL: 211.7498 shares
+   - WFC: 277.5116 shares
+💰 Period PnL: $38.86
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:14] 📆 Expiry Date: 2016-12-08
+🔁 Rolled Positions:
+   - WELL: 209.6843 shares
+✅ Called Away (Exited): WBA, WFC
+🛒 New Positions:
+   - WYNN: 121.5568 shares
+   - DIS: 102.2592 shares
+💰 Period PnL: $910.25
+📊 Avg Correlation of Active Portfolio: 0.47
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:14] 📆 Expiry Date: 2017-01-10
+🔁 Rolled Positions:
+   - WELL: 207.4396 shares
+✅ Called Away (Exited): WYNN, DIS
+🛒 New Positions:
+   - WMB: 553.4800 shares
+   - WYNN: 116.2885 shares
+💰 Period PnL: $1,402.06
+📊 Avg Correlation of Active Portfolio: 0.58
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:14] 📆 Expiry Date: 2017-02-09
+🔁 Rolled Positions:
+   - WELL: 207.6307 shares
+   - WMB: 550.1978 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - ZBH: 93.4694 shares
+💰 Period PnL: $1,346.85
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:15] 📆 Expiry Date: 2017-03-13
+🔁 Rolled Positions:
+   - WELL: 205.7117 shares
+   - WMB: 541.1897 shares
+   - ZBH: 91.7606 shares
+💰 Period PnL: $1,087.62
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:15] 📆 Expiry Date: 2017-04-11
+🔁 Rolled Positions:
+   - ZBH: 91.7397 shares
+✅ Called Away (Exited): WELL, WMB
+🛒 New Positions:
+   - WM: 158.2935 shares
+   - WDC: 159.6297 shares
+💰 Period PnL: $804.39
+📊 Avg Correlation of Active Portfolio: 0.66
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:15] 📆 Expiry Date: 2017-05-11
+🔁 Rolled Positions:
+   - ZBH: 90.6481 shares
+   - WM: 158.9917 shares
+✅ Called Away (Exited): WDC
+🛒 New Positions:
+   - WBD: 379.7949 shares
+💰 Period PnL: $599.65
+📊 Avg Correlation of Active Portfolio: 0.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:16] 📆 Expiry Date: 2017-06-12
+🔁 Rolled Positions:
+   - WM: 157.3555 shares
+   - WBD: 376.0812 shares
+✅ Called Away (Exited): ZBH
+🛒 New Positions:
+   - DIS: 98.7627 shares
+💰 Period PnL: $824.90
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:16] 📆 Expiry Date: 2017-07-12
+🔁 Rolled Positions:
+   - WM: 154.6187 shares
+   - WBD: 382.1169 shares
+   - DIS: 100.5317 shares
+💰 Period PnL: $193.36
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:16] 📆 Expiry Date: 2017-08-10
+🔁 Rolled Positions:
+   - WM: 153.2960 shares
+   - WBD: 434.7826 shares
+   - DIS: 103.5372 shares
+💰 Period PnL: $-1,168.50
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:16] 📆 Expiry Date: 2017-09-11
+🔁 Rolled Positions:
+   - WBD: 480.7692 shares
+   - DIS: 108.0801 shares
+✅ Called Away (Exited): WM
+🛒 New Positions:
+   - YUM: 147.1835 shares
+💰 Period PnL: $-661.23
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:17] 📆 Expiry Date: 2017-10-10
+🔁 Rolled Positions:
+   - WBD: 487.0920 shares
+   - YUM: 150.3134 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - DIS: 105.3775 shares
+💰 Period PnL: $385.55
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:17] 📆 Expiry Date: 2017-11-08
+🔁 Rolled Positions:
+   - WBD: 584.7953 shares
+   - DIS: 103.7111 shares
+✅ Called Away (Exited): YUM
+🛒 New Positions:
+   - YUM: 141.1423 shares
+💰 Period PnL: $-940.30
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:17] 📆 Expiry Date: 2017-12-08
+✅ Called Away (Exited): WBD, DIS, YUM
+🛒 New Positions:
+   - WDAY: 95.3743 shares
+   - WDC: 167.6858 shares
+   - WSM: 447.6538 shares
+💰 Period PnL: $1,214.53
+📊 Avg Correlation of Active Portfolio: 0.57
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:17] 📆 Expiry Date: 2018-01-10
+🔁 Rolled Positions:
+   - WDC: 168.8464 shares
+   - WSM: 447.8219 shares
+✅ Called Away (Exited): WDAY
+🛒 New Positions:
+   - DIS: 95.0923 shares
+💰 Period PnL: $1,424.79
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:18] 📆 Expiry Date: 2018-02-09
+🔁 Rolled Positions:
+   - WDC: 169.5169 shares
+   - WSM: 456.7545 shares
+   - DIS: 100.9773 shares
+💰 Period PnL: $71.88
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:18] 📆 Expiry Date: 2018-03-13
+🔁 Rolled Positions:
+   - WSM: 448.7001 shares
+   - DIS: 100.3543 shares
+✅ Called Away (Exited): WDC
+🛒 New Positions:
+   - WFC: 212.2402 shares
+💰 Period PnL: $1,135.98
+📊 Avg Correlation of Active Portfolio: 0.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:18] 📆 Expiry Date: 2018-04-12
+🔁 Rolled Positions:
+   - WSM: 484.2327 shares
+   - DIS: 103.6931 shares
+   - WFC: 231.8130 shares
+💰 Period PnL: $-1,087.93
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:19] 📆 Expiry Date: 2018-05-11
+🔁 Rolled Positions:
+   - WSM: 487.3754 shares
+   - DIS: 101.9864 shares
+✅ Called Away (Exited): WFC
+🛒 New Positions:
+   - WDC: 172.4272 shares
+💰 Period PnL: $960.44
+📊 Avg Correlation of Active Portfolio: 0.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:19] 📆 Expiry Date: 2018-06-12
+✅ Called Away (Exited): WSM, DIS, WDC
+🛒 New Positions:
+   - WBD: 416.3197 shares
+   - YUM: 135.8440 shares
+   - WEC: 208.7630 shares
+💰 Period PnL: $1,298.77
+📊 Avg Correlation of Active Portfolio: 0.67
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:19] 📆 Expiry Date: 2018-07-12
+🔁 Rolled Positions:
+   - YUM: 142.9005 shares
+✅ Called Away (Exited): WBD, WEC
+🛒 New Positions:
+   - WYNN: 65.4800 shares
+   - WMB: 543.1611 shares
+💰 Period PnL: $616.49
+📊 Avg Correlation of Active Portfolio: 0.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:19] 📆 Expiry Date: 2018-08-10
+🔁 Rolled Positions:
+   - WYNN: 72.5385 shares
+✅ Called Away (Exited): YUM, WMB
+🛒 New Positions:
+   - WTW: 73.3407 shares
+   - ZBRA: 62.0117 shares
+💰 Period PnL: $36.94
+📊 Avg Correlation of Active Portfolio: 0.62
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:20] 📆 Expiry Date: 2018-09-11
+🔁 Rolled Positions:
+   - WYNN: 80.2851 shares
+   - WTW: 74.0379 shares
+✅ Called Away (Exited): ZBRA
+🛒 New Positions:
+   - WBD: 350.7541 shares
+💰 Period PnL: $349.95
+📊 Avg Correlation of Active Portfolio: 0.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:20] 📆 Expiry Date: 2018-10-10
+🔁 Rolled Positions:
+   - WYNN: 93.1045 shares
+   - WTW: 78.4177 shares
+✅ Called Away (Exited): WBD
+🛒 New Positions:
+   - DIS: 91.5005 shares
+💰 Period PnL: $-798.72
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:20] 📆 Expiry Date: 2018-11-08
+🔁 Rolled Positions:
+   - WYNN: 108.2333 shares
+✅ Called Away (Exited): WTW, DIS
+🛒 New Positions:
+   - WMB: 570.9364 shares
+   - YUM: 124.4523 shares
+💰 Period PnL: $-404.07
+📊 Avg Correlation of Active Portfolio: 0.56
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:20] 📆 Expiry Date: 2018-12-11
+🔁 Rolled Positions:
+   - WMB: 609.5874 shares
+   - YUM: 124.8344 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - WYNN: 100.8161 shares
+💰 Period PnL: $676.38
+📊 Avg Correlation of Active Portfolio: 0.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:21] 📆 Expiry Date: 2019-01-11
+🔁 Rolled Positions:
+   - YUM: 123.2833 shares
+✅ Called Away (Exited): WMB, WYNN
+🛒 New Positions:
+   - WFC: 249.4374 shares
+   - WMB: 574.3768 shares
+💰 Period PnL: $1,799.71
+📊 Avg Correlation of Active Portfolio: 0.56
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:21] 📆 Expiry Date: 2019-02-12
+✅ Called Away (Exited): YUM, WFC, WMB
+🛒 New Positions:
+   - WAT: 42.7095 shares
+   - WDC: 283.6078 shares
+   - WTW: 63.6012 shares
+💰 Period PnL: $1,390.06
+📊 Avg Correlation of Active Portfolio: 0.61
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:21] 📆 Expiry Date: 2019-03-14
+🔁 Rolled Positions:
+   - WDC: 281.7004 shares
+   - WTW: 63.2283 shares
+✅ Called Away (Exited): WAT
+🛒 New Positions:
+   - WBD: 364.5643 shares
+💰 Period PnL: $1,485.73
+📊 Avg Correlation of Active Portfolio: 0.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:21] 📆 Expiry Date: 2019-04-12
+✅ Called Away (Exited): WDC, WTW, WBD
+🛒 New Positions:
+   - DIS: 78.7887 shares
+   - WBA: 252.2862 shares
+   - WBD: 333.1113 shares
+💰 Period PnL: $1,567.36
+📊 Avg Correlation of Active Portfolio: 0.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:21] 📆 Expiry Date: 2019-05-14
+🔁 Rolled Positions:
+   - WBA: 256.4605 shares
+   - WBD: 360.4903 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - ZBRA: 53.5561 shares
+💰 Period PnL: $330.05
+📊 Avg Correlation of Active Portfolio: 0.86
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:22] 📆 Expiry Date: 2019-06-13
+🔁 Rolled Positions:
+   - WBA: 252.8206 shares
+✅ Called Away (Exited): WBD, ZBRA
+🛒 New Positions:
+   - WMB: 510.9223 shares
+   - WYNN: 89.4937 shares
+💰 Period PnL: $1,633.39
+📊 Avg Correlation of Active Portfolio: 0.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:22] 📆 Expiry Date: 2019-07-15
+✅ Called Away (Exited): WBA, WMB, WYNN
+🛒 New Positions:
+   - WFC: 250.9097 shares
+   - ZTS: 92.2486 shares
+   - WELL: 142.9574 shares
+💰 Period PnL: $1,427.17
+📊 Avg Correlation of Active Portfolio: 0.41
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:22] 📆 Expiry Date: 2019-08-13
+🔁 Rolled Positions:
+   - WFC: 252.1653 shares
+✅ Called Away (Exited): ZTS, WELL
+🛒 New Positions:
+   - ZTS: 83.8938 shares
+   - ZBRA: 48.0169 shares
+💰 Period PnL: $786.68
+📊 Avg Correlation of Active Portfolio: 0.65
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:22] 📆 Expiry Date: 2019-09-12
+🔁 Rolled Positions:
+   - ZTS: 85.9689 shares
+   - ZBRA: 50.6894 shares
+✅ Called Away (Exited): WFC
+🛒 New Positions:
+   - WBD: 355.7453 shares
+💰 Period PnL: $530.19
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:23] 📆 Expiry Date: 2019-10-11
+🔁 Rolled Positions:
+   - ZBRA: 51.3875 shares
+   - WBD: 357.5259 shares
+✅ Called Away (Exited): ZTS
+🛒 New Positions:
+   - WELL: 131.0324 shares
+💰 Period PnL: $964.23
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:23] 📆 Expiry Date: 2019-11-11
+🔁 Rolled Positions:
+   - WELL: 143.7557 shares
+✅ Called Away (Exited): ZBRA, WBD
+🛒 New Positions:
+   - WDC: 257.8054 shares
+   - WBD: 322.9974 shares
+💰 Period PnL: $166.08
+📊 Avg Correlation of Active Portfolio: 0.55
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:23] 📆 Expiry Date: 2019-12-11
+🔁 Rolled Positions:
+   - WELL: 145.6507 shares
+   - WDC: 262.4496 shares
+✅ Called Away (Exited): WBD
+🛒 New Positions:
+   - DIS: 69.0033 shares
+💰 Period PnL: $1,021.48
+📊 Avg Correlation of Active Portfolio: 0.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:23] 📆 Expiry Date: 2020-01-13
+🔁 Rolled Positions:
+   - DIS: 70.3610 shares
+✅ Called Away (Exited): WELL, WDC
+🛒 New Positions:
+   - WYNN: 69.9882 shares
+   - WELL: 140.6265 shares
+💰 Period PnL: $1,196.87
+📊 Avg Correlation of Active Portfolio: 0.48
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:23] 📆 Expiry Date: 2020-02-12
+🔁 Rolled Positions:
+   - DIS: 71.3679 shares
+   - WYNN: 75.3031 shares
+✅ Called Away (Exited): WELL
+🛒 New Positions:
+   - WTW: 50.5033 shares
+💰 Period PnL: $-92.41
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-03-13
+🔁 Rolled Positions:
+   - DIS: 98.7469 shares
+   - WYNN: 140.8885 shares
+   - WTW: 59.6705 shares
+💰 Period PnL: $-8,203.87
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-04-14
+✅ Called Away (Exited): DIS, WYNN, WTW
+🛒 New Positions:
+   - YUM: 137.4143 shares
+   - WDAY: 66.9120 shares
+   - ZBH: 94.2518 shares
+💰 Period PnL: $2,741.66
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-05-13
+🔁 Rolled Positions:
+   - YUM: 136.4747 shares
+   - ZBH: 96.3903 shares
+✅ Called Away (Exited): WDAY
+🛒 New Positions:
+   - WBD: 522.7392 shares
+💰 Period PnL: $3,388.12
+📊 Avg Correlation of Active Portfolio: 0.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-06-12
+✅ Called Away (Exited): YUM, ZBH, WBD
+🛒 New Positions:
+   - WFC: 398.0076 shares
+   - WBA: 311.4071 shares
+   - WY: 551.1498 shares
+💰 Period PnL: $2,548.59
+📊 Avg Correlation of Active Portfolio: 0.35
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-07-14
+🔁 Rolled Positions:
+   - WFC: 459.0627 shares
+   - WBA: 321.4225 shares
+✅ Called Away (Exited): WY
+🛒 New Positions:
+   - WYNN: 128.8428 shares
+💰 Period PnL: $834.94
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:24] 📆 Expiry Date: 2020-08-12
+✅ Called Away (Exited): WFC, WBA, WYNN
+🛒 New Positions:
+   - WMT: 243.6920 shares
+   - WDC: 359.8042 shares
+   - WMB: 599.2410 shares
+💰 Period PnL: $2,629.26
+📊 Avg Correlation of Active Portfolio: 0.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:25] 📆 Expiry Date: 2020-09-11
+🔁 Rolled Positions:
+   - WDC: 354.0273 shares
+   - WMB: 627.9375 shares
+✅ Called Away (Exited): WMT
+🛒 New Positions:
+   - WDAY: 48.4966 shares
+💰 Period PnL: $1,145.87
+📊 Avg Correlation of Active Portfolio: 0.79
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:25] 📆 Expiry Date: 2020-10-12
+🔁 Rolled Positions:
+   - WMB: 653.1193 shares
+✅ Called Away (Exited): WDC, WDAY
+🛒 New Positions:
+   - YUM: 113.2287 shares
+   - WST: 33.5275 shares
+💰 Period PnL: $1,514.70
+📊 Avg Correlation of Active Portfolio: 0.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:25] 📆 Expiry Date: 2020-11-10
+🔁 Rolled Positions:
+   - WST: 36.1753 shares
+✅ Called Away (Exited): WMB, YUM
+🛒 New Positions:
+   - ZBH: 71.0240 shares
+   - DIS: 71.2373 shares
+💰 Period PnL: $516.65
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:25] 📆 Expiry Date: 2020-12-10
+🔁 Rolled Positions:
+   - WST: 37.9049 shares
+   - ZBH: 73.0528 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - WYNN: 90.5141 shares
+💰 Period PnL: $621.42
+📊 Avg Correlation of Active Portfolio: 0.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:26] 📆 Expiry Date: 2021-01-12
+🔁 Rolled Positions:
+   - WYNN: 92.8839 shares
+✅ Called Away (Exited): WST, ZBH
+🛒 New Positions:
+   - WDC: 265.1303 shares
+   - XEL: 180.5073 shares
+💰 Period PnL: $1,843.67
+📊 Avg Correlation of Active Portfolio: 0.69
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:26] 📆 Expiry Date: 2021-02-11
+🔁 Rolled Positions:
+   - XEL: 185.8724 shares
+✅ Called Away (Exited): WYNN, WDC
+🛒 New Positions:
+   - WDC: 206.8480 shares
+   - WBD: 219.5390 shares
+💰 Period PnL: $1,200.51
+📊 Avg Correlation of Active Portfolio: 0.63
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:26] 📆 Expiry Date: 2021-03-15
+✅ Called Away (Exited): XEL, WDC, WBD
+🛒 New Positions:
+   - WDAY: 39.2341 shares
+   - WST: 36.6001 shares
+   - ZBRA: 20.9157 shares
+💰 Period PnL: $1,825.07
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:26] 📆 Expiry Date: 2021-04-14
+🔁 Rolled Positions:
+   - WDAY: 38.4837 shares
+✅ Called Away (Exited): WST, ZBRA
+🛒 New Positions:
+   - WBD: 260.5524 shares
+   - WDC: 192.6045 shares
+💰 Period PnL: $1,733.94
+📊 Avg Correlation of Active Portfolio: 0.51
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:26] 📆 Expiry Date: 2021-05-13
+🔁 Rolled Positions:
+   - WDAY: 44.9277 shares
+   - WBD: 283.8490 shares
+   - WDC: 199.3370 shares
+💰 Period PnL: $-516.66
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:27] 📆 Expiry Date: 2021-06-14
+🔁 Rolled Positions:
+   - WBD: 324.4646 shares
+✅ Called Away (Exited): WDAY, WDC
+🛒 New Positions:
+   - XYL: 89.1254 shares
+   - ZBH: 67.4808 shares
+💰 Period PnL: $242.85
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:27] 📆 Expiry Date: 2021-07-14
+🔁 Rolled Positions:
+   - WBD: 347.9471 shares
+   - ZBH: 68.2355 shares
+✅ Called Away (Exited): XYL
+🛒 New Positions:
+   - WBA: 263.8774 shares
+💰 Period PnL: $57.33
+📊 Avg Correlation of Active Portfolio: 0.86
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:27] 📆 Expiry Date: 2021-08-12
+🔁 Rolled Positions:
+   - WBD: 346.0208 shares
+   - ZBH: 72.5093 shares
+✅ Called Away (Exited): WBA
+🛒 New Positions:
+   - WYNN: 105.1156 shares
+💰 Period PnL: $334.48
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:27] 📆 Expiry Date: 2021-09-13
+🔁 Rolled Positions:
+   - WBD: 369.5492 shares
+   - ZBH: 75.2914 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - WSM: 121.2591 shares
+💰 Period PnL: $113.35
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:27] 📆 Expiry Date: 2021-10-12
+🔁 Rolled Positions:
+   - WBD: 406.8348 shares
+   - ZBH: 74.2188 shares
+   - WSM: 124.8489 shares
+💰 Period PnL: $-146.64
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2021-11-10
+🔁 Rolled Positions:
+   - ZBH: 79.1753 shares
+✅ Called Away (Exited): WBD, WSM
+🛒 New Positions:
+   - WY: 314.1512 shares
+   - WBD: 365.4971 shares
+💰 Period PnL: $636.95
+📊 Avg Correlation of Active Portfolio: 0.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2021-12-10
+🔁 Rolled Positions:
+   - ZBH: 85.1409 shares
+   - WBD: 429.3688 shares
+✅ Called Away (Exited): WY
+🛒 New Positions:
+   - YUM: 79.4852 shares
+💰 Period PnL: $-1,072.94
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2022-01-11
+🔁 Rolled Positions:
+   - YUM: 81.4379 shares
+✅ Called Away (Exited): ZBH, WBD
+🛒 New Positions:
+   - WBD: 348.6750 shares
+   - WMB: 405.6571 shares
+💰 Period PnL: $1,065.50
+📊 Avg Correlation of Active Portfolio: 0.67
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2022-02-10
+🔁 Rolled Positions:
+   - YUM: 85.7083 shares
+✅ Called Away (Exited): WBD, WMB
+🛒 New Positions:
+   - ZBH: 89.0727 shares
+   - WBD: 332.3363 shares
+💰 Period PnL: $990.56
+📊 Avg Correlation of Active Portfolio: 0.69
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2022-03-14
+🔁 Rolled Positions:
+   - YUM: 93.3831 shares
+   - WBD: 418.7605 shares
+✅ Called Away (Exited): ZBH
+🛒 New Positions:
+   - WYNN: 152.7696 shares
+💰 Period PnL: $-1,285.41
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:28] 📆 Expiry Date: 2022-04-12
+✅ Called Away (Exited): YUM, WBD, WYNN
+🛒 New Positions:
+   - ZTS: 54.8941 shares
+   - WBA: 271.5706 shares
+   - WAT: 34.0217 shares
+💰 Period PnL: $1,971.55
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:29] 📆 Expiry Date: 2022-05-12
+🔁 Rolled Positions:
+   - ZTS: 63.1415 shares
+   - WBA: 278.3033 shares
+✅ Called Away (Exited): WAT
+🛒 New Positions:
+   - WMB: 333.8582 shares
+💰 Period PnL: $-524.88
+📊 Avg Correlation of Active Portfolio: 0.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:29] 📆 Expiry Date: 2022-06-13
+🔁 Rolled Positions:
+   - ZTS: 66.0199 shares
+   - WBA: 294.7396 shares
+   - WMB: 345.0224 shares
+💰 Period PnL: $-499.65
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:29] 📆 Expiry Date: 2022-07-14
+🔁 Rolled Positions:
+   - WBA: 322.0865 shares
+   - WMB: 366.8425 shares
+✅ Called Away (Exited): ZTS
+🛒 New Positions:
+   - WELL: 134.5341 shares
+💰 Period PnL: $-307.69
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:29] 📆 Expiry Date: 2022-08-12
+✅ Called Away (Exited): WBA, WMB, WELL
+🛒 New Positions:
+   - WBD: 730.9941 shares
+   - ZBRA: 28.8401 shares
+   - DIS: 83.2733 shares
+💰 Period PnL: $1,451.72
+📊 Avg Correlation of Active Portfolio: 0.39
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:29] 📆 Expiry Date: 2022-09-13
+🔁 Rolled Positions:
+   - WBD: 772.2008 shares
+   - ZBRA: 34.0716 shares
+   - DIS: 90.5828 shares
+💰 Period PnL: $-1,374.74
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:30] 📆 Expiry Date: 2022-10-12
+🔁 Rolled Positions:
+   - WBD: 857.6329 shares
+   - ZBRA: 38.3098 shares
+   - DIS: 108.3774 shares
+💰 Period PnL: $-2,167.00
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:30] 📆 Expiry Date: 2022-11-10
+🔁 Rolled Positions:
+   - WBD: 925.9259 shares
+   - ZBRA: 39.4602 shares
+   - DIS: 111.9117 shares
+💰 Period PnL: $-188.56
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:30] 📆 Expiry Date: 2022-12-12
+🔁 Rolled Positions:
+   - ZBRA: 38.7447 shares
+✅ Called Away (Exited): WBD, DIS
+🛒 New Positions:
+   - WELL: 161.2343 shares
+   - WDC: 365.3687 shares
+💰 Period PnL: $2,583.47
+📊 Avg Correlation of Active Portfolio: 0.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:30] 📆 Expiry Date: 2023-01-12
+✅ Called Away (Exited): ZBRA, WELL, WDC
+🛒 New Positions:
+   - WAT: 29.7885 shares
+   - WM: 67.8692 shares
+   - WDC: 348.5248 shares
+💰 Period PnL: $2,288.40
+📊 Avg Correlation of Active Portfolio: 0.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:31] 📆 Expiry Date: 2023-02-13
+🔁 Rolled Positions:
+   - WAT: 29.4942 shares
+   - WM: 67.8248 shares
+✅ Called Away (Exited): WDC
+🛒 New Positions:
+   - ZBH: 79.5477 shares
+💰 Period PnL: $1,297.16
+📊 Avg Correlation of Active Portfolio: 0.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:31] 📆 Expiry Date: 2023-03-15
+🔁 Rolled Positions:
+   - WAT: 33.1290 shares
+   - WM: 66.5154 shares
+   - ZBH: 81.3195 shares
+💰 Period PnL: $-534.80
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:31] 📆 Expiry Date: 2023-04-14
+🔁 Rolled Positions:
+   - WAT: 32.5553 shares
+✅ Called Away (Exited): WM, ZBH
+🛒 New Positions:
+   - WFC: 266.6596 shares
+   - ZBH: 76.8050 shares
+💰 Period PnL: $1,066.68
+📊 Avg Correlation of Active Portfolio: 0.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:31] 📆 Expiry Date: 2023-05-15
+🔁 Rolled Positions:
+   - WAT: 36.5898 shares
+   - WFC: 270.5272 shares
+✅ Called Away (Exited): ZBH
+🛒 New Positions:
+   - DIS: 109.0193 shares
+💰 Period PnL: $-257.93
+📊 Avg Correlation of Active Portfolio: 0.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:31] 📆 Expiry Date: 2023-06-14
+🔁 Rolled Positions:
+   - WAT: 38.1563 shares
+   - DIS: 109.5028 shares
+✅ Called Away (Exited): WFC
+🛒 New Positions:
+   - WBD: 731.5289 shares
+💰 Period PnL: $661.49
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:32] 📆 Expiry Date: 2023-07-17
+🔁 Rolled Positions:
+   - DIS: 118.3209 shares
+   - WBD: 812.3477 shares
+✅ Called Away (Exited): WAT
+🛒 New Positions:
+   - WMT: 198.0281 shares
+💰 Period PnL: $-412.84
+📊 Avg Correlation of Active Portfolio: 0.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:32] 📆 Expiry Date: 2023-08-15
+🔁 Rolled Positions:
+   - DIS: 116.2823 shares
+✅ Called Away (Exited): WBD, WMT
+🛒 New Positions:
+   - WST: 24.9823 shares
+   - WTW: 52.0539 shares
+💰 Period PnL: $1,307.63
+📊 Avg Correlation of Active Portfolio: 0.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:32] 📆 Expiry Date: 2023-09-14
+🔁 Rolled Positions:
+   - DIS: 119.8335 shares
+   - WST: 25.2479 shares
+✅ Called Away (Exited): WTW
+🛒 New Positions:
+   - WBD: 852.5150 shares
+💰 Period PnL: $578.67
+📊 Avg Correlation of Active Portfolio: 0.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:32] 📆 Expiry Date: 2023-10-13
+🔁 Rolled Positions:
+   - DIS: 120.0182 shares
+   - WST: 26.0898 shares
+   - WBD: 964.3202 shares
+💰 Period PnL: $-545.52
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2023-11-13
+🔁 Rolled Positions:
+   - WST: 29.6930 shares
+   - WBD: 1011.1223 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - WYNN: 120.2648 shares
+💰 Period PnL: $-660.70
+📊 Avg Correlation of Active Portfolio: 0.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2023-12-13
+✅ Called Away (Exited): WST, WBD, WYNN
+🛒 New Positions:
+   - WY: 324.1363 shares
+   - WMT: 197.6174 shares
+   - WBD: 841.7508 shares
+💰 Period PnL: $2,082.15
+📊 Avg Correlation of Active Portfolio: 0.57
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2024-01-16
+🔁 Rolled Positions:
+   - WBD: 966.1835 shares
+✅ Called Away (Exited): WY, WMT
+🛒 New Positions:
+   - ZBRA: 41.0644 shares
+   - WBA: 473.0209 shares
+💰 Period PnL: $470.10
+📊 Avg Correlation of Active Portfolio: 0.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2024-02-14
+🔁 Rolled Positions:
+   - WBD: 1027.7493 shares
+   - WBA: 502.2278 shares
+✅ Called Away (Exited): ZBRA
+🛒 New Positions:
+   - WELL: 110.1183 shares
+💰 Period PnL: $451.85
+📊 Avg Correlation of Active Portfolio: 0.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2024-03-15
+🔁 Rolled Positions:
+   - WBD: 1170.9602 shares
+   - WBA: 513.7683 shares
+   - WELL: 111.8249 shares
+💰 Period PnL: $-698.18
+📊 Avg Correlation of Active Portfolio: 1.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 10:02:33] 📆 Expiry Date: 2024-04-16
+🔁 Rolled Positions:
+   - WBD: N/A
+   - WBA: N/A
+   - WELL: N/A
+🛒 New Positions:
+   - WSM: N/A
+   - WBA: N/A
+   - ZTS: N/A
+💰 Period PnL: $-1,318.15
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
