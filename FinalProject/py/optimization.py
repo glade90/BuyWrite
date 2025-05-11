@@ -24,7 +24,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
-        logging.FileHandler(log_file),
+        logging.FileHandler(log_file, encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
@@ -34,8 +34,8 @@ progress_bar = tqdm(total=max_iters, desc="Optimizing", ncols=100)
 
 # === OBJECTIVE FUNCTION ===
 def objective(params):
-    num_positions, call_otm_pct, vol_lookback_days, tau, sector_limit, alpha = params
-    param_str = f"np={num_positions:.2f}, otm={call_otm_pct:.3f}, vol={vol_lookback_days:.0f}, tau={tau:.0f}, sl={sector_limit:.0f}, alpha={alpha:.2f}"
+    num_positions, call_otm_pct, tau, sector_limit,correlation_threshold = params
+    param_str = f"np={num_positions}, otm={call_otm_pct * 100:.2f}%, tau={tau:.1f}, sl={sector_limit}"
 
     vol_summary_df = pd.read_csv("../data/volatility_summary.csv", parse_dates=["Date"])
     price_dir="../data/stock_prices"
@@ -43,26 +43,37 @@ def objective(params):
         sim = BuyWritePortfolioSimulator(
             num_positions=int(num_positions),
             call_otm_pct=call_otm_pct,
-            vol_lookback_days=int(vol_lookback_days),
             tau=float(tau),
             sector_limit=int(sector_limit),
-            alpha=float(alpha),
+            correlation_threshold=float(correlation_threshold),
+            vol_lookback_days=30,
+            alpha=1,
             vol_summary_df=vol_summary_df,
             price_dir=price_dir,
         )
         
 
         results_df = sim.run()
-        pnl_total = results_df["PnL_Total_position"].sum()
         num_rows = len(results_df)
 
         if num_rows == 0:
             raise ValueError("No trades executed")
 
-        pct_profit = pnl_total / (notional_per_trade * num_rows)
+        capital_base = notional_per_trade * num_positions
+        returns = results_df["PnL_Total_position"] / capital_base
 
-        logging.info(f"[OK] {param_str} → %Profit = {pct_profit:.4%}")
-        return -pct_profit
+        mean_return = returns.mean()
+        std_return = returns.std()
+        pct_profit = returns.sum()
+
+        if std_return == 0 or len(returns) < 2:
+            sharpe = -1e6
+        else:
+            sharpe = (mean_return / std_return) * np.sqrt(12)
+
+        logging.info(f"[OK] {param_str} → %Profit = {pct_profit:.4%}, Sharpe = {sharpe:.2f}, N = {len(returns)}")
+
+        return -sharpe  # Minimize the negative Sharpe ratio
 
     except Exception as e:
         logging.warning(f"[FAIL] {param_str} → Error: {e}")
@@ -74,11 +85,10 @@ def objective(params):
 # === BOUNDS ===
 bounds = [
     (2, 10),          # num_positions
-    (0.01, 0.2),      # call_otm_pct
-    (20, 90),         # vol_lookback_days
-    (-1, 1),          # tau
+    (0.01, 0.1),      # call_otm_pct
+    (-0.5, 0.5),          # tau
     (1, 5),           # sector_limit
-    (0.0, 1.0)        # alpha
+    (0.75, 0.95),           # sector_limit
 ]
 
 # === MAIN ===

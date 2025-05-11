@@ -25,13 +25,13 @@ class BuyWritePortfolioSimulator:
                  vol_lookback_days = 30,
                  call_otm_pct= 0.05,        
                  vol_zscore_threshold=0,
-                 tau=0.0,
+                 theta=0.0,
                  alpha=1.0,
                  debug=False):
         
         os.makedirs("../logs", exist_ok=True)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        self.log_file_path = f"../logs/buywrite_log_{timestamp}.txt"
+        self.log_file_path = f"../logs/buywrite_log.txt"
 
         with open("../data/sector_map.json") as f:
             self.ticker_sector_map = json.load(f)
@@ -49,7 +49,7 @@ class BuyWritePortfolioSimulator:
         self.sector_counts = defaultdict(int)
         self.call_otm_pct = call_otm_pct
         self.vol_lookback_days = vol_lookback_days
-        self.tau = tau
+        self.theta = theta
         self.alpha = alpha
         self.summary_log = []
         self.active_positions = []  # list of dicts for each open position
@@ -79,8 +79,6 @@ class BuyWritePortfolioSimulator:
 
         ranked = pd.concat([day_df_active, ranked], ignore_index=True)
 
-        sector_counts = defaultdict(int)
-        
         selected = []
 
         for _, row in ranked.head(self.num_positions * 2).iterrows():
@@ -91,7 +89,7 @@ class BuyWritePortfolioSimulator:
             if zscore is None or abs(zscore) < self.vol_zscore_threshold:  # use threshold = 0 for now
                 continue
 
-            phi = -1 * self.alpha * self.tau
+            phi = -1 * self.alpha * self.theta
 
             direction = "long" if momentum >= phi else "short"
             
@@ -107,7 +105,7 @@ class BuyWritePortfolioSimulator:
             #if ticker in active_tickers:
             #    continue
 
-            if sector_counts[sector] >= self.sector_limit:
+            if self.sector_counts[sector] >= self.sector_limit:
                 continue
             if is_corr:
                 continue
@@ -115,9 +113,9 @@ class BuyWritePortfolioSimulator:
 
             selected.append(row)
             if direction == "short":
-                sector_counts[sector] -= 1
+                self.sector_counts[sector] -= 1
             else:
-                sector_counts[sector] += 1
+                self.sector_counts[sector] += 1
             if len(selected) >= self.num_positions:
                 break
 
@@ -307,8 +305,10 @@ class BuyWritePortfolioSimulator:
             summary_lines.append("🔁 Rolled Positions:")
             for ticker in rolled:
                 try:
-                    shares = next(p for p in self.active_positions if p["Ticker"] == ticker)["NumberShares"]
-                    summary_lines.append(f"   - {ticker}: {shares:.4f} shares")
+                    pos = next(p for p in self.active_positions if p["Ticker"] == ticker)
+                    shares = pos["NumberShares"]
+                    direction = pos["Direction"]
+                    summary_lines.append(f"   - {ticker}: {shares:.4f} shares ({direction})")
                 except StopIteration:
                     summary_lines.append(f"   - {ticker}: N/A")
 
@@ -319,12 +319,14 @@ class BuyWritePortfolioSimulator:
             summary_lines.append("🛒 New Positions:")
             for ticker in new_buys:
                 try:
-                    shares = next(p for p in self.active_positions if p["Ticker"] == ticker)["NumberShares"]
-                    summary_lines.append(f"   - {ticker}: {shares:.4f} shares")
+                    pos = next(p for p in self.active_positions if p["Ticker"] == ticker)
+                    shares = pos["NumberShares"]
+                    direction = pos["Direction"]
+                    summary_lines.append(f"   - {ticker}: {shares:.4f} shares ({direction})")
                 except StopIteration:
                     summary_lines.append(f"   - {ticker}: N/A")
 
-        summary_lines.append(f"💰 Period PnL: ${pnl_this_round:,.2f}")
+                summary_lines.append(f"💰 Period PnL: ${pnl_this_round:,.2f}")
 
         correlations = [p.get("MaxCorrelation") for p in self.active_positions if p.get("MaxCorrelation") is not None]
         #if correlations:
