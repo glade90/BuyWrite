@@ -1,0 +1,117 @@
+[2025-05-10 17:41:18] 📆 Expiry Date: 2015-04-29
+🔁 Rolled Positions:
+   - NWS: N/A
+   - IP: N/A
+   - CNC: N/A
+   - WYNN: N/A
+✅ Called Away (Exited): YUM
+🛒 New Positions:
+   - A: 261.7036 shares
+   - AAPL: 352.4657 shares
+   - ABBV: 256.0534 shares
+   - ABT: 258.1243 shares
+   - ACGL: 508.1190 shares
+💰 Period PnL: $3,133.45
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:19] 📆 Expiry Date: 2015-04-16
+🔁 Rolled Positions:
+   - A: 259.0865 shares
+   - AAPL: 348.3527 shares
+   - ABT: 258.5635 shares
+   - ACGL: 531.5773 shares
+✅ Called Away (Exited): ABBV
+🛒 New Positions:
+   - A: 259.0865 shares
+   - AAPL: 348.3527 shares
+   - ABBV: 253.7593 shares
+   - ABT: 258.5635 shares
+   - ACGL: 531.5773 shares
+💰 Period PnL: $951.83
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:21] 📆 Expiry Date: 2015-04-02
+🔁 Rolled Positions:
+   - A: 264.4382 shares
+   - AAPL: 348.5967 shares
+   - ABBV: 259.2215 shares
+   - ABT: 260.7825 shares
+   - ACGL: 524.4200 shares
+🛒 New Positions:
+   - A: 264.4382 shares
+   - AAPL: 348.5967 shares
+   - ABBV: 259.2215 shares
+   - ABT: 260.7825 shares
+   - ACGL: 524.4200 shares
+💰 Period PnL: $674.59
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:22] 📆 Expiry Date: 2015-03-20
+🔁 Rolled Positions:
+   - A: 275.2754 shares
+   - AAPL: 373.3304 shares
+   - ABBV: 263.7363 shares
+   - ABT: 266.2665 shares
+   - ACGL: 521.8179 shares
+🛒 New Positions:
+   - A: 275.2754 shares
+   - AAPL: 373.3304 shares
+   - ABBV: 263.7363 shares
+   - ABT: 266.2665 shares
+   - ACGL: 521.8179 shares
+💰 Period PnL: $764.93
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:23] 📆 Expiry Date: 2015-03-09
+🔁 Rolled Positions:
+   - AAPL: 397.8931 shares
+   - ABBV: 244.9795 shares
+   - ABT: 277.1333 shares
+   - ACGL: 531.0403 shares
+✅ Called Away (Exited): A
+🛒 New Positions:
+   - A: 280.3821 shares
+   - AAPL: 397.8931 shares
+   - ABBV: 244.9795 shares
+   - ABT: 277.1333 shares
+   - ACGL: 531.0403 shares
+💰 Period PnL: $88.35
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:24] 📆 Expiry Date: 2015-02-24
+🔁 Rolled Positions:
+   - ABBV: 234.2488 shares
+   - ACGL: 533.7355 shares
+✅ Called Away (Exited): A, AAPL, ABT
+🛒 New Positions:
+   - A: 268.0865 shares
+   - AAPL: 401.3389 shares
+   - ABBV: 234.2488 shares
+   - ABT: 270.3410 shares
+   - ACGL: 533.7355 shares
+💰 Period PnL: $2,278.62
+📊 Avg Correlation of Active Portfolio: 0.92
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-10 17:41:24] 📆 Expiry Date: 2015-02-10
+🔁 Rolled Positions:
+   - A: N/A
+   - ABBV: N/A
+   - ABT: N/A
+   - ACGL: N/A
+✅ Called Away (Exited): AAPL
+💰 Period PnL: $1,548.50
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
