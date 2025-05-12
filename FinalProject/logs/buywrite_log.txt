@@ -2943,3 +2943,1453 @@
 ────────────────────────────────────────────────────────────
 🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -18, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Basic Materials': -8, 'Consumer Defensive': -13, 'Energy': 3, 'Real Estate': -4}
 
+[2025-05-12 18:54:51] 📆 Expiry Date: 2015-06-11
+🔁 Rolled Positions:
+   - IP: 311.0779 shares (short)
+   - CNC: 263.9219 shares (long)
+   - YUM: 182.9380 shares (long)
+✅ Called Away (Exited): NWS, WYNN
+🛒 New Positions:
+   - BAX: 314.6382 shares (long)
+💰 Period PnL: $912.43
+   - CPAY: 61.9694 shares (long)
+💰 Period PnL: $912.43
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': -1, 'Healthcare': 0, 'Technology': 1, 'Financial Services': 1}
+
+[2025-05-12 18:54:55] 📆 Expiry Date: 2015-07-13
+🔁 Rolled Positions:
+   - CNC: 273.9726 shares (short)
+   - YUM: 183.3798 shares (short)
+   - BAX: 310.2673 shares (long)
+   - CPAY: 63.9018 shares (short)
+✅ Called Away (Exited): IP
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': -1, 'Healthcare': 0, 'Technology': 1, 'Financial Services': 1, 'Industrials': 0, 'Utilities': 0, 'Consumer Defensive': 0}
+
+[2025-05-12 18:55:00] 📆 Expiry Date: 2015-08-11
+🔁 Rolled Positions:
+   - CNC: 281.4919 shares (short)
+   - CPAY: 62.0540 shares (long)
+✅ Called Away (Exited): YUM, BAX
+🛒 New Positions:
+   - ZBRA: 119.3317 shares (short)
+💰 Period PnL: $1,415.69
+   - DXCM: 417.0576 shares (long)
+💰 Period PnL: $1,415.69
+   - MOS: 274.8847 shares (short)
+💰 Period PnL: $1,415.69
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': -1, 'Healthcare': 1, 'Technology': 0, 'Financial Services': 1, 'Industrials': -1, 'Utilities': 0, 'Consumer Defensive': 0, 'Basic Materials': -1}
+
+[2025-05-12 18:55:07] 📆 Expiry Date: 2015-09-10
+🔁 Rolled Positions:
+   - CPAY: 66.0895 shares (short)
+   - ZBRA: 123.0769 shares (short)
+   - DXCM: 414.8087 shares (long)
+✅ Called Away (Exited): CNC, MOS
+🛒 New Positions:
+   - PM: 208.0699 shares (short)
+💰 Period PnL: $1,858.10
+   - REGN: 18.8488 shares (short)
+💰 Period PnL: $1,858.10
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': -1, 'Healthcare': 0, 'Technology': 0, 'Financial Services': 1, 'Industrials': -1, 'Utilities': 0, 'Consumer Defensive': -1, 'Basic Materials': -1}
+
+[2025-05-12 18:55:11] 📆 Expiry Date: 2015-10-09
+🔁 Rolled Positions:
+   - CPAY: 67.9348 shares (short)
+   - ZBRA: 127.6650 shares (short)
+   - DXCM: 515.7962 shares (short)
+   - PM: 192.7299 shares (long)
+✅ Called Away (Exited): REGN
+🛒 New Positions:
+   - YUM: 236.7724 shares (short)
+💰 Period PnL: $-19.36
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 0, 'Healthcare': 0, 'Technology': -1, 'Financial Services': 2, 'Industrials': -1, 'Utilities': 0, 'Consumer Defensive': -1, 'Basic Materials': -1}
+
+[2025-05-12 18:55:18] 📆 Expiry Date: 2015-11-09
+🔁 Rolled Positions:
+   - CPAY: 65.1593 shares (long)
+   - ZBRA: 120.4964 shares (long)
+   - DXCM: 470.4222 shares (long)
+   - PM: 190.0622 shares (long)
+   - YUM: 239.4772 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 0, 'Healthcare': 0, 'Technology': -3, 'Financial Services': 2, 'Industrials': 0, 'Utilities': 0, 'Consumer Defensive': -1, 'Basic Materials': -1}
+
+[2025-05-12 18:55:25] 📆 Expiry Date: 2015-12-09
+🔁 Rolled Positions:
+   - CPAY: 68.4932 shares (short)
+   - ZBRA: 133.9764 shares (short)
+   - DXCM: 469.2082 shares (long)
+   - PM: 184.0809 shares (long)
+   - YUM: 223.9015 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 0, 'Healthcare': 0, 'Technology': -3, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -1, 'Consumer Defensive': -1, 'Basic Materials': -1, 'Energy': -1}
+
+[2025-05-12 18:55:30] 📆 Expiry Date: 2016-01-11
+🔁 Rolled Positions:
+   - DXCM: 514.0067 shares (short)
+   - PM: 179.5745 shares (long)
+   - YUM: 242.9274 shares (short)
+✅ Called Away (Exited): CPAY, ZBRA
+🛒 New Positions:
+   - FCX: 2540.3866 shares (short)
+💰 Period PnL: $378.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 0, 'Healthcare': 0, 'Technology': -3, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -1, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': -1}
+
+[2025-05-12 18:55:35] 📆 Expiry Date: 2016-02-10
+🔁 Rolled Positions:
+   - PM: 179.4537 shares (long)
+   - YUM: 245.8758 shares (short)
+   - FCX: 2198.6074 shares (long)
+✅ Called Away (Exited): DXCM
+🛒 New Positions:
+   - WAB: 161.0002 shares (long)
+💰 Period PnL: $357.84
+   - DOC: 643.9072 shares (short)
+💰 Period PnL: $357.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 0, 'Healthcare': 0, 'Technology': -3, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:39] 📆 Expiry Date: 2016-03-11
+🔁 Rolled Positions:
+   - YUM: 211.0669 shares (long)
+   - DOC: 536.2935 shares (long)
+✅ Called Away (Exited): PM, FCX, WAB
+🛒 New Positions:
+   - AMCR: 1434.3889 shares (long)
+💰 Period PnL: $-19.99
+   - DG: 132.1703 shares (long)
+💰 Period PnL: $-19.99
+   - HPE: 1358.1094 shares (long)
+💰 Period PnL: $-19.99
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 1, 'Healthcare': 0, 'Technology': -2, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:42] 📆 Expiry Date: 2016-04-12
+🔁 Rolled Positions:
+   - DG: 134.4038 shares (short)
+✅ Called Away (Exited): YUM, DOC, AMCR, HPE
+🛒 New Positions:
+   - PFE: 485.4554 shares (long)
+💰 Period PnL: $3,774.72
+   - REGN: 24.5371 shares (long)
+💰 Period PnL: $3,774.72
+   - EW: 283.7148 shares (long)
+💰 Period PnL: $3,774.72
+   - ULTA: 49.0340 shares (long)
+💰 Period PnL: $3,774.72
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': -2, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:46] 📆 Expiry Date: 2016-05-11
+🔁 Rolled Positions:
+   - DG: 134.8082 shares (short)
+   - PFE: 463.7348 shares (long)
+   - REGN: 26.9264 shares (short)
+   - EW: 285.4967 shares (short)
+   - ULTA: 49.2975 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': -2, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:49] 📆 Expiry Date: 2016-06-10
+🔁 Rolled Positions:
+   - DG: 122.5127 shares (long)
+   - REGN: 26.9141 shares (long)
+   - EW: 295.5083 shares (short)
+   - ULTA: 41.6701 shares (long)
+✅ Called Away (Exited): PFE
+🛒 New Positions:
+   - SJM: 90.1101 shares (long)
+💰 Period PnL: $-1,032.13
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': -1, 'Financial Services': 2, 'Industrials': 2, 'Utilities': -1, 'Consumer Defensive': 2, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:53] 📆 Expiry Date: 2016-07-12
+🔁 Rolled Positions:
+   - DG: 120.0766 shares (long)
+   - REGN: 27.1535 shares (short)
+   - EW: 282.2998 shares (long)
+✅ Called Away (Exited): ULTA, SJM
+🛒 New Positions:
+   - LDOS: 324.0670 shares (long)
+💰 Period PnL: $1,363.31
+   - DAL: 276.8520 shares (short)
+💰 Period PnL: $1,363.31
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': 2, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:56] 📆 Expiry Date: 2016-08-10
+🔁 Rolled Positions:
+   - DG: 120.1025 shares (short)
+   - REGN: 24.0995 shares (long)
+   - LDOS: 330.3332 shares (short)
+✅ Called Away (Exited): EW, DAL
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': 2, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:55:59] 📆 Expiry Date: 2016-09-09
+🔁 Rolled Positions:
+   - REGN: 26.0460 shares (short)
+   - LDOS: 278.8569 shares (long)
+✅ Called Away (Exited): DG
+🛒 New Positions:
+   - CAG: 398.6990 shares (short)
+💰 Period PnL: $-1,767.24
+   - PCG: 171.7702 shares (short)
+💰 Period PnL: $-1,767.24
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -2, 'Consumer Defensive': 1, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:56:04] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - REGN: 25.4224 shares (long)
+   - LDOS: 273.6376 shares (long)
+   - CAG: 364.5345 shares (long)
+   - PCG: 174.3285 shares (short)
+🛒 New Positions:
+   - TSN: 174.8005 shares (short)
+💰 Period PnL: $-538.67
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -2, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': 0, 'Real Estate': -1}
+
+[2025-05-12 18:56:09] 📆 Expiry Date: 2016-11-08
+🔁 Rolled Positions:
+   - REGN: 27.2258 shares (short)
+   - LDOS: 263.8894 shares (long)
+   - CAG: 352.9535 shares (long)
+   - PCG: 167.1609 shares (long)
+   - TSN: 175.2977 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 2, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -2, 'Consumer Defensive': 0, 'Basic Materials': -3, 'Energy': 0, 'Real Estate': -1}
+
+[2025-05-12 18:56:15] 📆 Expiry Date: 2016-12-08
+🔁 Rolled Positions:
+   - REGN: 27.1241 shares (long)
+   - CAG: 354.8576 shares (short)
+   - PCG: 175.1532 shares (short)
+✅ Called Away (Exited): LDOS, TSN
+🛒 New Positions:
+   - LVS: 225.9804 shares (short)
+💰 Period PnL: $1,109.60
+   - LULU: 145.2644 shares (long)
+💰 Period PnL: $1,109.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -2, 'Consumer Defensive': 0, 'Basic Materials': -3, 'Energy': 0, 'Real Estate': -1}
+
+[2025-05-12 18:56:19] 📆 Expiry Date: 2017-01-10
+🔁 Rolled Positions:
+   - REGN: 26.8441 shares (long)
+   - CAG: 349.2042 shares (long)
+   - PCG: 171.2050 shares (long)
+   - LVS: 215.4800 shares (long)
+   - LULU: 143.0615 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': 0, 'Basic Materials': -3, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:56:31] 📆 Expiry Date: 2017-02-09
+🔁 Rolled Positions:
+   - REGN: 27.8135 shares (short)
+   - CAG: 334.8313 shares (long)
+   - PCG: 163.5281 shares (long)
+   - LVS: 230.4614 shares (short)
+   - LULU: 149.2537 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': 0, 'Basic Materials': -3, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:56:46] 📆 Expiry Date: 2017-03-13
+🔁 Rolled Positions:
+   - REGN: 25.7479 shares (long)
+   - CAG: 324.3015 shares (long)
+   - PCG: 156.4150 shares (long)
+   - LVS: 221.1043 shares (long)
+   - LULU: 156.7644 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': -1, 'Real Estate': -1}
+
+[2025-05-12 18:56:52] 📆 Expiry Date: 2017-04-11
+🔁 Rolled Positions:
+   - REGN: 27.2778 shares (short)
+   - CAG: 328.4654 shares (short)
+   - PCG: 152.3571 shares (long)
+   - LVS: 214.4805 shares (long)
+✅ Called Away (Exited): LULU
+🛒 New Positions:
+   - HES: 222.6870 shares (long)
+💰 Period PnL: $689.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:56:58] 📆 Expiry Date: 2017-05-11
+🔁 Rolled Positions:
+   - REGN: 22.7343 shares (long)
+   - PCG: 154.8764 shares (short)
+   - LVS: 209.5906 shares (long)
+   - HES: 229.1892 shares (short)
+✅ Called Away (Exited): CAG
+🛒 New Positions:
+   - EA: 94.4072 shares (long)
+💰 Period PnL: $-1,320.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 2, 'Financial Services': 2, 'Industrials': 0, 'Utilities': -3, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:57:04] 📆 Expiry Date: 2017-06-12
+🔁 Rolled Positions:
+   - PCG: 151.6330 shares (long)
+   - EA: 94.1298 shares (long)
+✅ Called Away (Exited): REGN, LVS, HES
+🛒 New Positions:
+   - CRM: 116.8677 shares (short)
+💰 Period PnL: $1,940.83
+   - GE: 78.1949 shares (long)
+💰 Period PnL: $1,940.83
+   - KIM: 773.6456 shares (long)
+💰 Period PnL: $1,940.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': 0}
+
+[2025-05-12 18:57:12] 📆 Expiry Date: 2017-07-12
+🔁 Rolled Positions:
+   - PCG: 155.7309 shares (short)
+   - EA: 92.6159 shares (long)
+   - CRM: 111.4121 shares (long)
+   - GE: 84.4254 shares (short)
+   - KIM: 800.4374 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -2, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:57:18] 📆 Expiry Date: 2017-08-10
+🔁 Rolled Positions:
+   - PCG: 146.5173 shares (long)
+   - EA: 89.9266 shares (long)
+   - CRM: 114.9339 shares (short)
+   - GE: 88.6968 shares (short)
+   - KIM: 718.6723 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': 2, 'Industrials': 1, 'Utilities': -2, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:57:24] 📆 Expiry Date: 2017-09-11
+🔁 Rolled Positions:
+   - PCG: 141.5419 shares (long)
+   - CRM: 103.0770 shares (long)
+   - KIM: 724.3368 shares (short)
+✅ Called Away (Exited): EA, GE
+🛒 New Positions:
+   - AIG: 201.3492 shares (short)
+💰 Period PnL: $509.94
+   - EG: 50.5342 shares (short)
+💰 Period PnL: $509.94
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': -1, 'Industrials': 1, 'Utilities': -2, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:57:29] 📆 Expiry Date: 2017-10-10
+🔁 Rolled Positions:
+   - PCG: 145.2487 shares (short)
+   - CRM: 105.5840 shares (short)
+   - KIM: 745.0653 shares (short)
+   - AIG: 197.0141 shares (long)
+   - EG: 52.1507 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': -1, 'Industrials': 1, 'Utilities': -3, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 2, 'Real Estate': -1}
+
+[2025-05-12 18:57:34] 📆 Expiry Date: 2017-11-08
+🔁 Rolled Positions:
+   - CRM: 95.8931 shares (long)
+   - KIM: 765.9256 shares (short)
+   - AIG: 197.3655 shares (short)
+   - EG: 51.3308 shares (long)
+✅ Called Away (Exited): PCG
+🛒 New Positions:
+   - SLB: 184.5368 shares (short)
+💰 Period PnL: $-52.01
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -3, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': 1, 'Real Estate': -1}
+
+[2025-05-12 18:57:38] 📆 Expiry Date: 2017-12-08
+🔁 Rolled Positions:
+   - CRM: 97.3671 shares (short)
+   - KIM: 792.7267 shares (short)
+   - AIG: 203.4389 shares (short)
+   - EG: 54.8973 shares (short)
+   - SLB: 193.2523 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': 0, 'Basic Materials': -2, 'Energy': 0, 'Real Estate': -1}
+
+[2025-05-12 18:57:42] 📆 Expiry Date: 2018-01-10
+🔁 Rolled Positions:
+   - CRM: 92.5703 shares (long)
+   - KIM: 833.5072 shares (short)
+   - AIG: 198.4696 shares (long)
+   - EG: 52.9781 shares (long)
+   - SLB: 162.4239 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 1, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': -1, 'Basic Materials': -2, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:57:45] 📆 Expiry Date: 2018-02-09
+🔁 Rolled Positions:
+   - CRM: 94.1452 shares (short)
+   - AIG: 201.0403 shares (short)
+   - SLB: 187.0409 shares (short)
+✅ Called Away (Exited): KIM, EG
+🛒 New Positions:
+   - EMN: 133.6810 shares (short)
+💰 Period PnL: $-265.39
+   - FTV: 169.8077 shares (short)
+💰 Period PnL: $-265.39
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': -1, 'Basic Materials': -3, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:57:50] 📆 Expiry Date: 2018-03-13
+🔁 Rolled Positions:
+   - CRM: 79.4733 shares (long)
+   - SLB: 181.6086 shares (long)
+   - EMN: 115.8935 shares (long)
+   - FTV: 157.6002 shares (long)
+✅ Called Away (Exited): AIG
+🛒 New Positions:
+   - KR: 483.9075 shares (short)
+💰 Period PnL: $-3,422.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:57:56] 📆 Expiry Date: 2018-04-12
+🔁 Rolled Positions:
+   - CRM: 82.9626 shares (short)
+   - SLB: 180.4796 shares (long)
+   - EMN: 118.7088 shares (short)
+   - FTV: 164.4313 shares (short)
+   - KR: 492.3144 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': -2, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': -4, 'Basic Materials': -3, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:58:01] 📆 Expiry Date: 2018-05-11
+🔁 Rolled Positions:
+   - CRM: 77.1006 shares (long)
+   - EMN: 118.1304 shares (long)
+   - FTV: 162.5395 shares (long)
+   - KR: 472.8784 shares (long)
+✅ Called Away (Exited): SLB
+🛒 New Positions:
+   - GEN: 1021.2102 shares (short)
+💰 Period PnL: $0.11
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -2, 'Industrials': 2, 'Utilities': -4, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:58:07] 📆 Expiry Date: 2018-06-12
+🔁 Rolled Positions:
+   - CRM: 73.9150 shares (long)
+   - EMN: 115.1736 shares (long)
+   - FTV: 156.8521 shares (long)
+   - GEN: 926.9537 shares (long)
+✅ Called Away (Exited): KR
+🛒 New Positions:
+   - SRE: 213.7565 shares (long)
+💰 Period PnL: $1,796.30
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -3, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:13] 📆 Expiry Date: 2018-07-12
+🔁 Rolled Positions:
+   - EMN: 126.4539 shares (short)
+   - FTV: 159.5835 shares (short)
+   - GEN: 918.8075 shares (long)
+   - SRE: 214.8459 shares (short)
+✅ Called Away (Exited): CRM
+🛒 New Positions:
+   - AVGO: 581.7471 shares (short)
+💰 Period PnL: $991.57
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -2, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:19] 📆 Expiry Date: 2018-08-10
+🔁 Rolled Positions:
+   - EMN: 125.5929 shares (long)
+   - FTV: 154.0771 shares (long)
+   - GEN: 1035.6945 shares (short)
+   - SRE: 217.0800 shares (short)
+   - AVGO: 575.5798 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -2, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:24] 📆 Expiry Date: 2018-09-11
+🔁 Rolled Positions:
+   - EMN: 130.8330 shares (short)
+   - GEN: 988.8986 shares (long)
+   - SRE: 211.9317 shares (long)
+✅ Called Away (Exited): FTV, AVGO
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -1, 'Industrials': 2, 'Utilities': -2, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:29] 📆 Expiry Date: 2018-10-10
+🔁 Rolled Positions:
+   - GEN: 994.3647 shares (short)
+   - SRE: 213.4898 shares (short)
+✅ Called Away (Exited): EMN
+🛒 New Positions:
+   - PPG: 112.9911 shares (short)
+💰 Period PnL: $593.70
+   - CRM: 73.0836 shares (short)
+💰 Period PnL: $593.70
+   - TROW: 126.0262 shares (short)
+💰 Period PnL: $593.70
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -2, 'Industrials': 2, 'Utilities': -2, 'Consumer Defensive': -4, 'Basic Materials': -6, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:38] 📆 Expiry Date: 2018-11-08
+🔁 Rolled Positions:
+   - GEN: 883.7811 shares (long)
+   - SRE: 208.9474 shares (long)
+   - PPG: 103.1066 shares (long)
+   - CRM: 70.9921 shares (long)
+   - TROW: 128.1205 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -2, 'Industrials': 2, 'Utilities': -1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:49] 📆 Expiry Date: 2018-12-11
+🔁 Rolled Positions:
+   - GEN: 885.2882 shares (short)
+   - SRE: 210.5718 shares (short)
+   - PPG: 108.7403 shares (short)
+   - CRM: 73.6286 shares (short)
+✅ Called Away (Exited): TROW
+🛒 New Positions:
+   - FDX: 58.7949 shares (short)
+💰 Period PnL: $799.96
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:56] 📆 Expiry Date: 2019-01-11
+🔁 Rolled Positions:
+   - SRE: 214.3127 shares (short)
+   - PPG: 110.0000 shares (short)
+   - CRM: 68.2593 shares (long)
+✅ Called Away (Exited): GEN, FDX
+🛒 New Positions:
+   - STZ: 69.4896 shares (short)
+💰 Period PnL: $1,593.96
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -2, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:58:59] 📆 Expiry Date: 2019-02-12
+🔁 Rolled Positions:
+   - SRE: 214.2001 shares (long)
+   - PPG: 104.1223 shares (long)
+   - STZ: 64.0730 shares (long)
+✅ Called Away (Exited): CRM
+🛒 New Positions:
+   - EA: 100.1733 shares (long)
+💰 Period PnL: $48.20
+   - SWKS: 136.7774 shares (long)
+💰 Period PnL: $48.20
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:59:03] 📆 Expiry Date: 2019-03-14
+🔁 Rolled Positions:
+   - PPG: 101.7103 shares (long)
+   - STZ: 64.5725 shares (short)
+   - EA: 103.7208 shares (short)
+   - SWKS: 139.7415 shares (short)
+✅ Called Away (Exited): SRE
+🛒 New Positions:
+   - KR: 460.5521 shares (short)
+💰 Period PnL: $1,682.56
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': -1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -2, 'Industrials': 1, 'Utilities': -1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:59:07] 📆 Expiry Date: 2019-04-12
+🔁 Rolled Positions:
+   - STZ: 57.8214 shares (long)
+   - EA: 100.6651 shares (long)
+   - SWKS: 125.4869 shares (long)
+   - KR: 444.0462 shares (long)
+✅ Called Away (Exited): PPG
+🛒 New Positions:
+   - PNR: 274.0974 shares (short)
+💰 Period PnL: $-1,335.04
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 0, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -3, 'Industrials': 0, 'Utilities': -1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 18:59:16] 📆 Expiry Date: 2019-05-14
+🔁 Rolled Positions:
+   - EA: 108.3931 shares (short)
+   - SWKS: 145.6811 shares (short)
+   - KR: 448.9430 shares (short)
+✅ Called Away (Exited): STZ, PNR
+🛒 New Positions:
+   - IVZ: 645.3142 shares (short)
+💰 Period PnL: $-180.44
+   - MPC: 238.1878 shares (short)
+💰 Period PnL: $-180.44
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 0, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 0, 'Utilities': -1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:59:27] 📆 Expiry Date: 2019-06-13
+🔁 Rolled Positions:
+   - EA: 109.5515 shares (short)
+   - KR: 460.4310 shares (short)
+   - IVZ: 638.7327 shares (long)
+✅ Called Away (Exited): SWKS, MPC
+🛒 New Positions:
+   - MKTX: 33.1195 shares (long)
+💰 Period PnL: $2,027.02
+   - AES: 730.1500 shares (long)
+💰 Period PnL: $2,027.02
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 0, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -3, 'Industrials': 0, 'Utilities': 0, 'Consumer Defensive': -5, 'Basic Materials': -4, 'Energy': 0, 'Real Estate': -2}
+
+[2025-05-12 18:59:37] 📆 Expiry Date: 2019-07-15
+🔁 Rolled Positions:
+   - EA: 111.1552 shares (short)
+   - IVZ: 653.6533 shares (short)
+   - AES: 717.8034 shares (long)
+✅ Called Away (Exited): KR, MKTX
+🛒 New Positions:
+   - EQT: 684.8917 shares (short)
+💰 Period PnL: $1,822.71
+   - LHX: 58.4709 shares (long)
+💰 Period PnL: $1,822.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 0, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -2, 'Industrials': 1, 'Utilities': 0, 'Consumer Defensive': -5, 'Basic Materials': -4, 'Energy': -1, 'Real Estate': -2}
+
+[2025-05-12 18:59:46] 📆 Expiry Date: 2019-08-13
+🔁 Rolled Positions:
+   - EA: 111.0107 shares (long)
+   - AES: 805.0092 shares (short)
+✅ Called Away (Exited): IVZ, EQT, LHX
+🛒 New Positions:
+   - AXON: 170.1259 shares (short)
+💰 Period PnL: $1,287.35
+   - MOS: 536.3679 shares (short)
+💰 Period PnL: $1,287.35
+   - MTCH: 125.5531 shares (long)
+💰 Period PnL: $1,287.35
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -2, 'Industrials': 0, 'Utilities': 0, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': -1, 'Real Estate': -2}
+
+[2025-05-12 18:59:54] 📆 Expiry Date: 2019-09-12
+🔁 Rolled Positions:
+   - AES: 779.3228 shares (long)
+   - AXON: 155.3519 shares (long)
+   - MOS: 501.5330 shares (long)
+   - MTCH: 132.8551 shares (short)
+✅ Called Away (Exited): EA
+🛒 New Positions:
+   - CNP: 391.3077 shares (long)
+💰 Period PnL: $-345.42
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -2, 'Industrials': 0, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': -1, 'Real Estate': -3}
+
+[2025-05-12 19:00:04] 📆 Expiry Date: 2019-10-11
+🔁 Rolled Positions:
+   - AES: 762.7726 shares (long)
+   - AXON: 188.1114 shares (short)
+   - MOS: 532.0317 shares (short)
+   - MTCH: 136.5665 shares (short)
+   - CNP: 413.5930 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -3, 'Industrials': -1, 'Utilities': 2, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': -1, 'Real Estate': -3}
+
+[2025-05-12 19:00:14] 📆 Expiry Date: 2019-11-11
+🔁 Rolled Positions:
+   - AXON: 155.1590 shares (long)
+   - MOS: 526.6935 shares (long)
+   - CNP: 422.1038 shares (short)
+✅ Called Away (Exited): AES, MTCH
+🛒 New Positions:
+   - PNW: 149.2152 shares (short)
+💰 Period PnL: $-144.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -3, 'Industrials': -1, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': -1, 'Real Estate': -3}
+
+[2025-05-12 19:00:20] 📆 Expiry Date: 2019-12-11
+🔁 Rolled Positions:
+   - MOS: 603.3913 shares (short)
+   - PNW: 148.6738 shares (long)
+✅ Called Away (Exited): AXON, CNP
+🛒 New Positions:
+   - DLTR: 109.2896 shares (short)
+💰 Period PnL: $753.43
+   - ESS: 39.7178 shares (short)
+💰 Period PnL: $753.43
+   - CPT: 110.9542 shares (short)
+💰 Period PnL: $753.43
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -3, 'Industrials': -1, 'Utilities': 1, 'Consumer Defensive': -6, 'Basic Materials': -5, 'Energy': -1, 'Real Estate': -5}
+
+[2025-05-12 19:00:24] 📆 Expiry Date: 2020-01-13
+🔁 Rolled Positions:
+   - MOS: 522.2703 shares (long)
+   - DLTR: 110.1686 shares (short)
+   - ESS: 39.3638 shares (long)
+   - CPT: 111.3609 shares (short)
+✅ Called Away (Exited): PNW
+🛒 New Positions:
+   - SMCI: 3507.5411 shares (long)
+💰 Period PnL: $-382.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 1, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -3, 'Industrials': 0, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -4}
+
+[2025-05-12 19:00:30] 📆 Expiry Date: 2020-02-12
+🔁 Rolled Positions:
+   - MOS: 540.2354 shares (short)
+   - DLTR: 111.7069 shares (short)
+   - ESS: 37.6767 shares (long)
+   - CPT: 102.7297 shares (long)
+   - SMCI: 3443.5261 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -3, 'Industrials': -1, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -3}
+
+[2025-05-12 19:00:37] 📆 Expiry Date: 2020-03-13
+🔁 Rolled Positions:
+   - ESS: 43.6139 shares (short)
+   - CPT: 124.1598 shares (short)
+   - SMCI: 4363.0016 shares (short)
+✅ Called Away (Exited): MOS, DLTR
+🛒 New Positions:
+   - ORCL: 225.7355 shares (short)
+💰 Period PnL: $-3,452.19
+   - EPAM: 52.0833 shares (short)
+💰 Period PnL: $-3,452.19
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -4, 'Industrials': -1, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -4}
+
+[2025-05-12 19:00:42] 📆 Expiry Date: 2020-04-14
+🔁 Rolled Positions:
+   - SMCI: 4566.2099 shares (short)
+   - ORCL: 199.4138 shares (long)
+   - EPAM: 49.8455 shares (long)
+✅ Called Away (Exited): ESS, CPT
+🛒 New Positions:
+   - PCG: 840.2808 shares (long)
+💰 Period PnL: $2,235.18
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -4, 'Industrials': -1, 'Utilities': 2, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -4}
+
+[2025-05-12 19:00:48] 📆 Expiry Date: 2020-05-13
+🔁 Rolled Positions:
+   - SMCI: 4293.6883 shares (long)
+   - ORCL: 208.4869 shares (short)
+   - PCG: 904.5690 shares (short)
+✅ Called Away (Exited): EPAM
+🛒 New Positions:
+   - KIM: 1390.3883 shares (short)
+💰 Period PnL: $3,776.55
+   - HBAN: 1713.7771 shares (short)
+💰 Period PnL: $3,776.55
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -5, 'Industrials': -1, 'Utilities': 2, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -6}
+
+[2025-05-12 19:00:56] 📆 Expiry Date: 2020-06-12
+🔁 Rolled Positions:
+   - ORCL: 207.6427 shares (long)
+   - PCG: 911.9564 shares (short)
+   - KIM: 885.1601 shares (long)
+   - HBAN: 1280.5675 shares (long)
+✅ Called Away (Exited): SMCI
+🛒 New Positions:
+   - GEN: 558.6665 shares (short)
+💰 Period PnL: $-5,255.95
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -6, 'Financial Services': -5, 'Industrials': 1, 'Utilities': 2, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 1, 'Real Estate': -6}
+
+[2025-05-12 19:01:03] 📆 Expiry Date: 2020-07-14
+🔁 Rolled Positions:
+   - KIM: 1059.1134 shares (short)
+   - HBAN: 1445.7814 shares (short)
+   - GEN: 549.8032 shares (long)
+✅ Called Away (Exited): ORCL, PCG
+🛒 New Positions:
+   - OXY: 626.6348 shares (short)
+💰 Period PnL: $725.31
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -6, 'Financial Services': -5, 'Industrials': 1, 'Utilities': 2, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -6}
+
+[2025-05-12 19:01:10] 📆 Expiry Date: 2020-08-12
+🔁 Rolled Positions:
+   - KIM: 983.0351 shares (long)
+   - HBAN: 1251.4635 shares (long)
+✅ Called Away (Exited): GEN, OXY
+🛒 New Positions:
+   - UPS: 74.8635 shares (long)
+💰 Period PnL: $1,351.64
+   - EVRG: 228.2017 shares (short)
+💰 Period PnL: $1,351.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -6, 'Financial Services': -5, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -6}
+
+[2025-05-12 19:01:18] 📆 Expiry Date: 2020-09-11
+🔁 Rolled Positions:
+   - KIM: 1036.0598 shares (short)
+   - HBAN: 1288.9559 shares (short)
+   - UPS: 73.8839 shares (long)
+   - EVRG: 230.7948 shares (short)
+🛒 New Positions:
+   - NVDA: 824.4700 shares (long)
+💰 Period PnL: $686.20
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -5, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -6}
+
+[2025-05-12 19:01:29] 📆 Expiry Date: 2020-10-12
+🔁 Rolled Positions:
+   - KIM: 1040.5216 shares (short)
+   - HBAN: 1235.1696 shares (long)
+   - EVRG: 224.3166 shares (long)
+✅ Called Away (Exited): UPS, NVDA
+🛒 New Positions:
+   - ON: 377.2161 shares (long)
+💰 Period PnL: $1,540.99
+   - MAS: 187.0428 shares (short)
+💰 Period PnL: $1,540.99
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -5, 'Industrials': 1, 'Utilities': 1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -6}
+
+[2025-05-12 19:01:37] 📆 Expiry Date: 2020-11-10
+🔁 Rolled Positions:
+   - KIM: 854.3463 shares (long)
+   - ON: 369.1399 shares (long)
+✅ Called Away (Exited): HBAN, EVRG, MAS
+🛒 New Positions:
+   - WELL: 166.2833 shares (long)
+💰 Period PnL: $775.71
+   - HST: 865.5933 shares (long)
+💰 Period PnL: $775.71
+   - VTR: 242.4222 shares (long)
+💰 Period PnL: $775.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -5, 'Industrials': 1, 'Utilities': 1, 'Consumer Defensive': -4, 'Basic Materials': -5, 'Energy': 0, 'Real Estate': -3}
+
+[2025-05-12 19:01:47] 📆 Expiry Date: 2020-12-10
+🔁 Rolled Positions:
+   - WELL: 176.1777 shares (short)
+   - VTR: 240.2377 shares (long)
+✅ Called Away (Exited): KIM, ON, HST
+🛒 New Positions:
+   - MOS: 488.2652 shares (long)
+💰 Period PnL: $4,452.73
+   - CRWD: 55.5586 shares (long)
+💰 Period PnL: $4,452.73
+   - DLTR: 92.3446 shares (long)
+💰 Period PnL: $4,452.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -5, 'Industrials': 1, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 0, 'Real Estate': -3}
+
+[2025-05-12 19:01:59] 📆 Expiry Date: 2021-01-12
+🔁 Rolled Positions:
+   - WELL: 184.6564 shares (short)
+   - VTR: 248.8816 shares (short)
+✅ Called Away (Exited): MOS, CRWD, DLTR
+🛒 New Positions:
+   - EQT: 642.1086 shares (long)
+💰 Period PnL: $4,305.64
+   - WDC: 265.1303 shares (short)
+💰 Period PnL: $4,305.64
+   - GNRC: 38.6026 shares (long)
+💰 Period PnL: $4,305.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -5, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 1, 'Real Estate': -3}
+
+[2025-05-12 19:02:05] 📆 Expiry Date: 2021-02-11
+🔁 Rolled Positions:
+   - WELL: 169.8127 shares (long)
+   - VTR: 229.0201 shares (long)
+   - EQT: 628.7551 shares (long)
+   - WDC: 206.8480 shares (long)
+✅ Called Away (Exited): GNRC
+🛒 New Positions:
+   - DAY: 104.4168 shares (short)
+💰 Period PnL: $-2,214.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -5, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 1, 'Real Estate': -3}
+
+[2025-05-12 19:02:10] 📆 Expiry Date: 2021-03-15
+✅ Called Away (Exited): WELL, VTR, EQT, WDC, DAY
+🛒 New Positions:
+   - CCI: 74.8121 shares (long)
+💰 Period PnL: $4,288.09
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -5, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 1, 'Real Estate': -2}
+
+[2025-05-12 19:02:14] 📆 Expiry Date: 2021-04-14
+✅ Called Away (Exited): CCI
+🛒 New Positions:
+   - PAYX: 115.3521 shares (short)
+💰 Period PnL: $625.99
+   - TPL: 19.6352 shares (long)
+💰 Period PnL: $625.99
+   - CAG: 321.0598 shares (short)
+💰 Period PnL: $625.99
+   - HIG: 164.5873 shares (long)
+💰 Period PnL: $625.99
+   - FTNT: 250.8529 shares (long)
+💰 Period PnL: $625.99
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 2, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -2}
+
+[2025-05-12 19:02:19] 📆 Expiry Date: 2021-05-13
+🔁 Rolled Positions:
+   - PAYX: 112.5239 shares (long)
+   - TPL: 19.1110 shares (long)
+   - CAG: 311.3183 shares (long)
+   - HIG: 167.8628 shares (short)
+   - FTNT: 252.0288 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -2}
+
+[2025-05-12 19:02:25] 📆 Expiry Date: 2021-06-14
+🔁 Rolled Positions:
+   - TPL: 21.1034 shares (short)
+   - CAG: 316.8018 shares (short)
+   - HIG: 167.2532 shares (long)
+   - FTNT: 216.0200 shares (long)
+✅ Called Away (Exited): PAYX
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -2}
+
+[2025-05-12 19:02:28] 📆 Expiry Date: 2021-07-14
+🔁 Rolled Positions:
+   - TPL: 21.3940 shares (short)
+   - HIG: 172.4224 shares (short)
+✅ Called Away (Exited): CAG, FTNT
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 1, 'Consumer Defensive': -3, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -2}
+
+[2025-05-12 19:02:32] 📆 Expiry Date: 2021-08-12
+🔁 Rolled Positions:
+   - TPL: 20.9558 shares (long)
+   - HIG: 159.1845 shares (long)
+🛒 New Positions:
+   - TSN: 139.8148 shares (long)
+💰 Period PnL: $-763.05
+   - SYY: 139.9216 shares (long)
+💰 Period PnL: $-763.05
+   - PCG: 1087.6364 shares (short)
+💰 Period PnL: $-763.05
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -1, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -2}
+
+[2025-05-12 19:02:39] 📆 Expiry Date: 2021-09-13
+🔁 Rolled Positions:
+   - TPL: 25.3896 shares (short)
+   - HIG: 153.1061 shares (long)
+   - TSN: 145.5853 shares (short)
+   - SYY: 143.3982 shares (short)
+   - PCG: 1022.3560 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -3}
+
+[2025-05-12 19:02:45] 📆 Expiry Date: 2021-10-12
+🔁 Rolled Positions:
+   - HIG: 149.6168 shares (long)
+   - TSN: 140.4225 shares (long)
+   - SYY: 131.9408 shares (long)
+   - PCG: 980.4643 shares (long)
+✅ Called Away (Exited): TPL
+🛒 New Positions:
+   - PSA: 37.7736 shares (short)
+💰 Period PnL: $650.08
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:02:52] 📆 Expiry Date: 2021-11-10
+🔁 Rolled Positions:
+   - HIG: 148.5229 shares (long)
+   - TSN: 134.8084 shares (long)
+   - SYY: 139.5163 shares (short)
+   - PSA: 35.9446 shares (long)
+✅ Called Away (Exited): PCG
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:02:56] 📆 Expiry Date: 2021-12-10
+🔁 Rolled Positions:
+   - HIG: 157.0948 shares (short)
+   - TSN: 131.5488 shares (long)
+✅ Called Away (Exited): SYY, PSA
+🛒 New Positions:
+   - EPAM: 14.3447 shares (long)
+💰 Period PnL: $960.40
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:03:00] 📆 Expiry Date: 2022-01-11
+🔁 Rolled Positions:
+   - HIG: 147.8730 shares (long)
+   - EPAM: 17.8763 shares (short)
+✅ Called Away (Exited): TSN
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -3, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:03:04] 📆 Expiry Date: 2022-02-10
+🔁 Rolled Positions:
+   - HIG: 146.7380 shares (long)
+✅ Called Away (Exited): EPAM
+🛒 New Positions:
+   - APD: 43.0281 shares (short)
+💰 Period PnL: $1,211.43
+   - JKHY: 62.4082 shares (short)
+💰 Period PnL: $1,211.43
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -4, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -2, 'Basic Materials': -4, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:03:09] 📆 Expiry Date: 2022-03-14
+🔁 Rolled Positions:
+   - HIG: 157.7443 shares (short)
+   - JKHY: 57.7322 shares (long)
+✅ Called Away (Exited): APD
+🛒 New Positions:
+   - CAG: 365.6721 shares (short)
+💰 Period PnL: $-659.51
+   - BAC: 262.9919 shares (short)
+💰 Period PnL: $-659.51
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -5, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 2, 'Real Estate': -4}
+
+[2025-05-12 19:03:14] 📆 Expiry Date: 2022-04-12
+🔁 Rolled Positions:
+   - HIG: 143.0956 shares (long)
+   - CAG: 328.9902 shares (long)
+   - BAC: 276.6215 shares (short)
+✅ Called Away (Exited): JKHY
+🛒 New Positions:
+   - MKTX: 37.8098 shares (short)
+💰 Period PnL: $-386.87
+   - COP: 111.9452 shares (long)
+💰 Period PnL: $-386.87
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -6, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:03:17] 📆 Expiry Date: 2022-05-12
+🔁 Rolled Positions:
+   - HIG: 154.0918 shares (short)
+   - CAG: 320.7976 shares (long)
+   - COP: 112.3948 shares (short)
+✅ Called Away (Exited): BAC, MKTX
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -6, 'Industrials': 3, 'Utilities': 0, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:03:22] 📆 Expiry Date: 2022-06-13
+🔁 Rolled Positions:
+   - HIG: 160.2565 shares (short)
+   - CAG: 357.5891 shares (short)
+   - COP: 99.7180 shares (long)
+🛒 New Positions:
+   - HST: 675.0794 shares (short)
+💰 Period PnL: $-1,407.49
+   - WEC: 115.3440 shares (short)
+💰 Period PnL: $-1,407.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -2, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:03:28] 📆 Expiry Date: 2022-07-14
+🔁 Rolled Positions:
+   - CAG: 345.1841 shares (long)
+   - COP: 135.5063 shares (short)
+   - WEC: 110.1247 shares (long)
+✅ Called Away (Exited): HIG, HST
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -2, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:03:35] 📆 Expiry Date: 2022-08-12
+🔁 Rolled Positions:
+   - CAG: 329.5852 shares (long)
+   - COP: 107.6270 shares (long)
+✅ Called Away (Exited): WEC
+🛒 New Positions:
+   - GEN: 439.5304 shares (long)
+💰 Period PnL: $-898.42
+   - FTNT: 184.1960 shares (short)
+💰 Period PnL: $-898.42
+   - GRMN: 106.5169 shares (long)
+💰 Period PnL: $-898.42
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -2, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:03:46] 📆 Expiry Date: 2022-09-13
+🔁 Rolled Positions:
+   - CAG: 336.8332 shares (short)
+   - GEN: 486.9397 shares (short)
+   - FTNT: 192.7897 shares (short)
+   - GRMN: 120.0354 shares (short)
+✅ Called Away (Exited): COP
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -2, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:03:54] 📆 Expiry Date: 2022-10-12
+🔁 Rolled Positions:
+   - CAG: 337.5353 shares (short)
+   - GEN: 507.5014 shares (short)
+✅ Called Away (Exited): FTNT, GRMN
+🛒 New Positions:
+   - D: 181.0634 shares (short)
+💰 Period PnL: $2,333.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:03] 📆 Expiry Date: 2022-11-10
+🔁 Rolled Positions:
+   - CAG: 319.1677 shares (long)
+   - GEN: 467.3588 shares (long)
+   - D: 181.9053 shares (short)
+🛒 New Positions:
+   - FICO: 17.1886 shares (long)
+💰 Period PnL: $-1,021.03
+   - WDAY: 65.3040 shares (long)
+💰 Period PnL: $-1,021.03
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': 0, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:11] 📆 Expiry Date: 2022-12-12
+🔁 Rolled Positions:
+   - GEN: 454.7100 shares (long)
+   - D: 187.0860 shares (short)
+✅ Called Away (Exited): CAG, FICO, WDAY
+🛒 New Positions:
+   - CPB: 190.8396 shares (long)
+💰 Period PnL: $4,020.02
+   - DG: 42.8532 shares (short)
+💰 Period PnL: $4,020.02
+   - CRWD: 84.3597 shares (short)
+💰 Period PnL: $4,020.02
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:23] 📆 Expiry Date: 2023-01-12
+🔁 Rolled Positions:
+   - GEN: 478.9362 shares (short)
+   - D: 178.3725 shares (long)
+   - CPB: 197.1347 shares (short)
+   - DG: 45.0105 shares (short)
+✅ Called Away (Exited): CRWD
+🛒 New Positions:
+   - STZ: 46.7217 shares (short)
+💰 Period PnL: $1,009.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -4, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:27] 📆 Expiry Date: 2023-02-13
+🔁 Rolled Positions:
+   - GEN: 490.3235 shares (short)
+   - D: 191.3611 shares (short)
+   - DG: 44.8273 shares (long)
+   - STZ: 45.4707 shares (long)
+✅ Called Away (Exited): CPB
+🛒 New Positions:
+   - IFF: 110.7730 shares (short)
+💰 Period PnL: $362.20
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -6, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:30] 📆 Expiry Date: 2023-03-15
+🔁 Rolled Positions:
+   - D: 198.2558 shares (short)
+   - DG: 47.8936 shares (short)
+   - STZ: 48.1038 shares (short)
+✅ Called Away (Exited): GEN, IFF
+🛒 New Positions:
+   - ACGL: 167.6183 shares (short)
+💰 Period PnL: $1,207.35
+   - GL: 94.7568 shares (short)
+💰 Period PnL: $1,207.35
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -11, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:34] 📆 Expiry Date: 2023-04-14
+🔁 Rolled Positions:
+   - D: 191.3426 shares (long)
+   - DG: 48.9545 shares (short)
+   - STZ: 45.5324 shares (long)
+   - ACGL: 149.6992 shares (long)
+   - GL: 94.8619 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -11, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:37] 📆 Expiry Date: 2023-05-15
+🔁 Rolled Positions:
+   - D: 202.3823 shares (short)
+   - DG: 47.8745 shares (long)
+   - STZ: 44.9416 shares (long)
+   - GL: 94.5974 shares (long)
+✅ Called Away (Exited): ACGL
+🛒 New Positions:
+   - PYPL: 160.6426 shares (short)
+💰 Period PnL: $432.58
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -3, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:41] 📆 Expiry Date: 2023-06-14
+🔁 Rolled Positions:
+   - D: 208.0901 shares (short)
+   - DG: 64.3879 shares (short)
+   - GL: 95.1101 shares (short)
+   - PYPL: 157.2327 shares (long)
+✅ Called Away (Exited): STZ
+🛒 New Positions:
+   - NDAQ: 201.4028 shares (short)
+💰 Period PnL: $-1,566.70
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -1, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:48] 📆 Expiry Date: 2023-07-17
+🔁 Rolled Positions:
+   - D: 213.1596 shares (short)
+   - DG: 64.5577 shares (short)
+   - GL: 91.5606 shares (long)
+   - NDAQ: 201.5611 shares (short)
+✅ Called Away (Exited): PYPL
+🛒 New Positions:
+   - JNPR: 356.8782 shares (short)
+💰 Period PnL: $1,533.65
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -5, 'Basic Materials': -5, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:56] 📆 Expiry Date: 2023-08-15
+🔁 Rolled Positions:
+   - DG: 63.9938 shares (long)
+   - GL: 89.8593 shares (long)
+   - NDAQ: 202.8764 shares (short)
+✅ Called Away (Exited): D, JNPR
+🛒 New Positions:
+   - IFF: 161.8248 shares (short)
+💰 Period PnL: $1,751.55
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -5, 'Basic Materials': -6, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:04:59] 📆 Expiry Date: 2023-09-14
+🔁 Rolled Positions:
+   - DG: 88.3113 shares (short)
+   - GL: 91.6266 shares (short)
+   - NDAQ: 198.4708 shares (long)
+   - IFF: 151.2394 shares (long)
+🛒 New Positions:
+   - KVUE: 488.1323 shares (short)
+💰 Period PnL: $-3,289.33
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -3, 'Consumer Defensive': -6, 'Basic Materials': -6, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:04] 📆 Expiry Date: 2023-10-13
+🔁 Rolled Positions:
+   - GL: 89.4370 shares (long)
+   - NDAQ: 206.9129 shares (short)
+   - IFF: 159.4092 shares (short)
+✅ Called Away (Exited): DG, KVUE
+🛒 New Positions:
+   - HRL: 329.8546 shares (short)
+💰 Period PnL: $836.55
+   - CPB: 265.2395 shares (short)
+💰 Period PnL: $836.55
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -6, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:08] 📆 Expiry Date: 2023-11-13
+🔁 Rolled Positions:
+   - GL: 86.7203 shares (long)
+   - NDAQ: 196.1084 shares (long)
+   - IFF: 145.0191 shares (long)
+   - HRL: 325.6844 shares (long)
+   - CPB: 260.5804 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:12] 📆 Expiry Date: 2023-12-13
+🔁 Rolled Positions:
+   - HRL: 322.9952 shares (long)
+✅ Called Away (Exited): GL, NDAQ, IFF, CPB
+🛒 New Positions:
+   - TSN: 199.3218 shares (long)
+💰 Period PnL: $2,783.01
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -9, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:15] 📆 Expiry Date: 2024-01-16
+🔁 Rolled Positions:
+   - HRL: 334.2229 shares (short)
+   - TSN: 190.7841 shares (long)
+🛒 New Positions:
+   - JNPR: 275.9029 shares (long)
+💰 Period PnL: $363.72
+   - HPQ: 358.9895 shares (short)
+💰 Period PnL: $363.72
+   - HPE: 676.2459 shares (short)
+💰 Period PnL: $363.72
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -2, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -9, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:19] 📆 Expiry Date: 2024-02-14
+🔁 Rolled Positions:
+   - TSN: 200.5105 shares (short)
+   - JNPR: 278.2872 shares (short)
+   - HPQ: 365.3956 shares (short)
+   - HPE: 679.7982 shares (short)
+✅ Called Away (Exited): HRL
+🛒 New Positions:
+   - AKAM: 87.1080 shares (short)
+💰 Period PnL: $1,169.70
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -12, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -9, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:24] 📆 Expiry Date: 2024-03-15
+🔁 Rolled Positions:
+   - TSN: 183.9318 shares (long)
+   - JNPR: 282.8212 shares (short)
+   - HPQ: 340.2238 shares (long)
+   - HPE: 614.3535 shares (long)
+✅ Called Away (Exited): AKAM
+🛒 New Positions:
+   - DLTR: 78.4806 shares (short)
+💰 Period PnL: $-1,070.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:27] 📆 Expiry Date: 2024-04-16
+🔁 Rolled Positions:
+   - TSN: 177.6057 shares (long)
+   - JNPR: 281.1909 shares (long)
+   - HPQ: 372.4220 shares (short)
+   - HPE: 599.6578 shares (long)
+   - DLTR: 80.6062 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -3, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -8, 'Energy': 3, 'Real Estate': -6}
+
+[2025-05-12 19:05:32] 📆 Expiry Date: 2024-05-15
+🔁 Rolled Positions:
+   - TSN: 170.1164 shares (long)
+   - JNPR: 296.2344 shares (short)
+   - HPQ: 330.0257 shares (long)
+   - HPE: 571.9608 shares (long)
+   - DLTR: 84.1751 shares (short)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -8, 'Energy': 3, 'Real Estate': -5}
+
+[2025-05-12 19:05:39] 📆 Expiry Date: 2024-06-14
+🔁 Rolled Positions:
+   - TSN: 189.7183 shares (short)
+   - JNPR: 287.1011 shares (long)
+✅ Called Away (Exited): HPQ, HPE, DLTR
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -8, 'Energy': 3, 'Real Estate': -5}
+
+[2025-05-12 19:05:45] 📆 Expiry Date: 2024-07-17
+🔁 Rolled Positions:
+   - TSN: 169.3532 shares (long)
+   - JNPR: 273.6722 shares (long)
+🛒 New Positions:
+   - LRCX: 104.2864 shares (short)
+💰 Period PnL: $-633.57
+   - STT: 120.1358 shares (long)
+💰 Period PnL: $-633.57
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -8, 'Energy': 3, 'Real Estate': -5}
+
+[2025-05-12 19:05:55] 📆 Expiry Date: 2024-08-15
+🔁 Rolled Positions:
+   - TSN: 165.0402 shares (long)
+   - JNPR: 262.3191 shares (long)
+   - STT: 127.2798 shares (short)
+✅ Called Away (Exited): LRCX
+🛒 New Positions:
+   - CSCO: 210.4435 shares (long)
+💰 Period PnL: $1,157.09
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -8, 'Energy': 3, 'Real Estate': -5}
+
+[2025-05-12 19:06:05] 📆 Expiry Date: 2024-09-16
+🔁 Rolled Positions:
+   - TSN: 164.2925 shares (long)
+   - JNPR: 262.0540 shares (long)
+   - STT: 119.9671 shares (long)
+✅ Called Away (Exited): CSCO
+🛒 New Positions:
+   - DLTR: 139.0627 shares (short)
+💰 Period PnL: $331.64
+   - ALB: 112.9920 shares (long)
+💰 Period PnL: $331.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -11, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -5}
+
+[2025-05-12 19:06:12] 📆 Expiry Date: 2024-10-15
+🔁 Rolled Positions:
+   - TSN: 169.7259 shares (short)
+   - JNPR: 259.7010 shares (long)
+✅ Called Away (Exited): STT, DLTR, ALB
+🛒 New Positions:
+   - WELL: 78.1000 shares (long)
+💰 Period PnL: $2,755.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -11, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:18] 📆 Expiry Date: 2024-11-13
+🔁 Rolled Positions:
+   - TSN: 160.5291 shares (long)
+   - JNPR: 264.6575 shares (short)
+   - WELL: 74.4326 shares (long)
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -4, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -11, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:22] 📆 Expiry Date: 2024-12-13
+🔁 Rolled Positions:
+   - TSN: 166.7106 shares (short)
+   - JNPR: 270.2430 shares (short)
+   - WELL: 77.7933 shares (short)
+🛒 New Positions:
+   - ADBE: 21.4735 shares (short)
+💰 Period PnL: $-386.60
+   - HSY: 55.0842 shares (long)
+💰 Period PnL: $-386.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -13, 'Industrials': 3, 'Utilities': -4, 'Consumer Defensive': -10, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:31] 📆 Expiry Date: 2025-01-16
+🔁 Rolled Positions:
+   - JNPR: 259.0408 shares (long)
+   - WELL: 78.0290 shares (short)
+   - HSY: 65.4845 shares (short)
+✅ Called Away (Exited): TSN, ADBE
+🛒 New Positions:
+   - EIX: 166.0163 shares (short)
+💰 Period PnL: $-121.34
+   - STZ: 54.8029 shares (short)
+💰 Period PnL: $-121.34
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -6, 'Consumer Defensive': -12, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:35] 📆 Expiry Date: 2025-02-18
+🔁 Rolled Positions:
+   - JNPR: 278.2396 shares (short)
+   - WELL: 66.6093 shares (long)
+   - HSY: 61.3535 shares (long)
+✅ Called Away (Exited): EIX, STZ
+🛒 New Positions:
+   - INTC: 365.0968 shares (long)
+💰 Period PnL: $-1,035.96
+   - ZBRA: 30.2042 shares (short)
+💰 Period PnL: $-1,035.96
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -5, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -6, 'Consumer Defensive': -12, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:39] 📆 Expiry Date: 2025-03-19
+🔁 Rolled Positions:
+   - JNPR: 277.1618 shares (long)
+   - WELL: 67.2224 shares (short)
+   - HSY: 59.7550 shares (long)
+   - INTC: 414.5937 shares (short)
+✅ Called Away (Exited): ZBRA
+🛒 New Positions:
+   - FTV: 132.8904 shares (short)
+💰 Period PnL: $610.31
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -6, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -6, 'Consumer Defensive': -12, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+
+[2025-05-12 19:06:41] 📆 Expiry Date: 2025-04-17
+🔁 Rolled Positions:
+   - JNPR: N/A
+   - WELL: N/A
+   - HSY: N/A
+✅ Called Away (Exited): INTC, FTV
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {'Communication Services': 3, 'Consumer Cyclical': 3, 'Healthcare': 3, 'Technology': -6, 'Financial Services': -14, 'Industrials': 3, 'Utilities': -6, 'Consumer Defensive': -12, 'Basic Materials': -7, 'Energy': 3, 'Real Estate': -4}
+

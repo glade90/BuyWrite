@@ -1,2 +1,549 @@
-2025-05-11 19:39:29,256 [INFO] \U0001f680 Starting S&P 500 data download
-2025-05-11 19:39:29,259 [INFO] \U0001f4e6 Pulling batch 1 of 26 (20 tickers)
+2025-05-12 18:45:09,235 [INFO] 🚀 Starting S&P 500 data download
+2025-05-12 18:45:09,389 [WARNING] 🧹 Cleared old data from C:\Users\glade\Deveolopment\BuyWrite\FinalProject\data\stock_prices
+2025-05-12 18:45:09,418 [INFO] 📦 Pulling batch 1 of 26 (20 tickers)
+2025-05-12 18:45:13,687 [INFO] ✅ Saved MMM
+2025-05-12 18:45:15,264 [INFO] ✅ Saved AOS
+2025-05-12 18:45:16,253 [INFO] ✅ Saved ABT
+2025-05-12 18:45:17,279 [INFO] ✅ Saved ABBV
+2025-05-12 18:45:17,999 [INFO] ✅ Saved ACN
+2025-05-12 18:45:21,752 [INFO] ✅ Saved ADBE
+2025-05-12 18:45:22,312 [INFO] ✅ Saved AMD
+2025-05-12 18:45:22,843 [INFO] ✅ Saved AES
+2025-05-12 18:45:24,105 [INFO] ✅ Saved AFL
+2025-05-12 18:45:25,074 [INFO] ✅ Saved A
+2025-05-12 18:45:25,617 [INFO] ✅ Saved APD
+2025-05-12 18:45:26,123 [INFO] ✅ Saved ABNB
+2025-05-12 18:45:26,674 [INFO] ✅ Saved AKAM
+2025-05-12 18:45:27,225 [INFO] ✅ Saved ALB
+2025-05-12 18:45:27,772 [INFO] ✅ Saved ARE
+2025-05-12 18:45:28,283 [INFO] ✅ Saved ALGN
+2025-05-12 18:45:29,069 [INFO] ✅ Saved ALLE
+2025-05-12 18:45:29,588 [INFO] ✅ Saved LNT
+2025-05-12 18:45:30,103 [INFO] ✅ Saved ALL
+2025-05-12 18:45:30,726 [INFO] ✅ Saved GOOGL
+2025-05-12 18:45:36,200 [INFO] 📦 Pulling batch 2 of 26 (20 tickers)
+2025-05-12 18:45:41,928 [INFO] ✅ Saved GOOG
+2025-05-12 18:45:42,694 [INFO] ✅ Saved MO
+2025-05-12 18:45:43,216 [INFO] ✅ Saved AMZN
+2025-05-12 18:45:43,765 [INFO] ✅ Saved AMCR
+2025-05-12 18:45:44,554 [INFO] ✅ Saved AEE
+2025-05-12 18:45:45,140 [INFO] ✅ Saved AEP
+2025-05-12 18:45:45,639 [INFO] ✅ Saved AXP
+2025-05-12 18:45:46,128 [INFO] ✅ Saved AIG
+2025-05-12 18:45:46,687 [INFO] ✅ Saved AMT
+2025-05-12 18:45:47,371 [INFO] ✅ Saved AWK
+2025-05-12 18:45:48,376 [INFO] ✅ Saved AMP
+2025-05-12 18:45:49,546 [INFO] ✅ Saved AME
+2025-05-12 18:45:51,086 [INFO] ✅ Saved AMGN
+2025-05-12 18:45:51,658 [INFO] ✅ Saved APH
+2025-05-12 18:45:52,359 [INFO] ✅ Saved ADI
+2025-05-12 18:45:53,108 [INFO] ✅ Saved ANSS
+2025-05-12 18:45:53,612 [INFO] ✅ Saved AON
+2025-05-12 18:45:54,176 [INFO] ✅ Saved APA
+2025-05-12 18:45:54,659 [INFO] ✅ Saved APO
+2025-05-12 18:45:55,171 [INFO] ✅ Saved AAPL
+2025-05-12 18:46:00,645 [INFO] 📦 Pulling batch 3 of 26 (20 tickers)
+2025-05-12 18:46:03,048 [INFO] ✅ Saved AMAT
+2025-05-12 18:46:03,771 [INFO] ✅ Saved APTV
+2025-05-12 18:46:04,243 [INFO] ✅ Saved ACGL
+2025-05-12 18:46:04,746 [INFO] ✅ Saved ADM
+2025-05-12 18:46:05,226 [INFO] ✅ Saved ANET
+2025-05-12 18:46:05,701 [INFO] ✅ Saved AJG
+2025-05-12 18:46:06,267 [INFO] ✅ Saved AIZ
+2025-05-12 18:46:07,039 [INFO] ✅ Saved T
+2025-05-12 18:46:07,505 [INFO] ✅ Saved ATO
+2025-05-12 18:46:07,991 [INFO] ✅ Saved ADSK
+2025-05-12 18:46:08,520 [INFO] ✅ Saved ADP
+2025-05-12 18:46:09,147 [INFO] ✅ Saved AZO
+2025-05-12 18:46:09,681 [INFO] ✅ Saved AVB
+2025-05-12 18:46:10,228 [INFO] ✅ Saved AVY
+2025-05-12 18:46:11,072 [INFO] ✅ Saved AXON
+2025-05-12 18:46:11,652 [INFO] ✅ Saved BKR
+2025-05-12 18:46:12,158 [INFO] ✅ Saved BALL
+2025-05-12 18:46:12,786 [INFO] ✅ Saved BAC
+2025-05-12 18:46:13,255 [INFO] ✅ Saved BAX
+2025-05-12 18:46:13,723 [INFO] ✅ Saved BDX
+2025-05-12 18:46:19,231 [INFO] 📦 Pulling batch 4 of 26 (20 tickers)
+2025-05-12 18:46:47,634 [ERROR] 
+15 Failed downloads:
+2025-05-12 18:46:47,634 [ERROR] ['BF-B']: Timeout('Failed to perform, curl: (28) Operation timed out after 10001 milliseconds with 26963 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BG']: Timeout('Failed to perform, curl: (28) Operation timed out after 10007 milliseconds with 18160 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BXP']: Timeout('Failed to perform, curl: (28) Operation timed out after 10006 milliseconds with 35364 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BX']: Timeout('Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BIIB']: Timeout('Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BA']: Timeout('Failed to perform, curl: (28) Operation timed out after 10010 milliseconds with 22095 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['BK']: Timeout('Failed to perform, curl: (28) Connection timed out after 10007 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['TECH']: Timeout('Failed to perform, curl: (28) Operation timed out after 10005 milliseconds with 23286 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,634 [ERROR] ['CDNS']: Timeout('Failed to perform, curl: (28) Operation timed out after 10017 milliseconds with 58755 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BR']: Timeout('Failed to perform, curl: (28) Operation timed out after 10010 milliseconds with 34064 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BLK']: Timeout('Failed to perform, curl: (28) Operation timed out after 10016 milliseconds with 34350 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BBY']: Timeout('Failed to perform, curl: (28) Operation timed out after 10006 milliseconds with 16678 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BKNG']: Timeout('Failed to perform, curl: (28) Operation timed out after 10011 milliseconds with 33786 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BRK-B']: Timeout('Failed to perform, curl: (28) Operation timed out after 10015 milliseconds with 36049 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,637 [ERROR] ['BRO']: Timeout('Failed to perform, curl: (28) Operation timed out after 10007 milliseconds with 16669 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.')
+2025-05-12 18:46:47,732 [WARNING] ⚠️ BRK-B returned an empty DataFrame.
+2025-05-12 18:46:47,732 [WARNING] ⚠️ BBY returned an empty DataFrame.
+2025-05-12 18:46:47,732 [WARNING] ⚠️ TECH returned an empty DataFrame.
+2025-05-12 18:46:47,734 [WARNING] ⚠️ BIIB returned an empty DataFrame.
+2025-05-12 18:46:47,734 [WARNING] ⚠️ BLK returned an empty DataFrame.
+2025-05-12 18:46:47,736 [WARNING] ⚠️ BX returned an empty DataFrame.
+2025-05-12 18:46:47,736 [WARNING] ⚠️ BK returned an empty DataFrame.
+2025-05-12 18:46:47,738 [WARNING] ⚠️ BA returned an empty DataFrame.
+2025-05-12 18:46:47,740 [WARNING] ⚠️ BKNG returned an empty DataFrame.
+2025-05-12 18:46:47,757 [INFO] ✅ Saved BSX
+2025-05-12 18:46:48,817 [INFO] ✅ Saved BMY
+2025-05-12 18:46:49,348 [INFO] ✅ Saved AVGO
+2025-05-12 18:46:49,938 [WARNING] ⚠️ BR returned an empty DataFrame.
+2025-05-12 18:46:49,938 [WARNING] ⚠️ BRO returned an empty DataFrame.
+2025-05-12 18:46:49,938 [WARNING] ⚠️ BF-B returned an empty DataFrame.
+2025-05-12 18:46:49,954 [INFO] ✅ Saved BLDR
+2025-05-12 18:46:50,440 [WARNING] ⚠️ BG returned an empty DataFrame.
+2025-05-12 18:46:50,440 [WARNING] ⚠️ BXP returned an empty DataFrame.
+2025-05-12 18:46:50,462 [INFO] ✅ Saved CHRW
+2025-05-12 18:46:50,993 [WARNING] ⚠️ CDNS returned an empty DataFrame.
+2025-05-12 18:46:55,999 [INFO] 📦 Pulling batch 5 of 26 (20 tickers)
+2025-05-12 18:46:58,426 [INFO] ✅ Saved CZR
+2025-05-12 18:46:59,203 [INFO] ✅ Saved CPT
+2025-05-12 18:46:59,883 [INFO] ✅ Saved CPB
+2025-05-12 18:47:00,372 [INFO] ✅ Saved COF
+2025-05-12 18:47:00,919 [INFO] ✅ Saved CAH
+2025-05-12 18:47:01,408 [INFO] ✅ Saved KMX
+2025-05-12 18:47:01,960 [INFO] ✅ Saved CCL
+2025-05-12 18:47:02,568 [INFO] ✅ Saved CARR
+2025-05-12 18:47:03,097 [INFO] ✅ Saved CAT
+2025-05-12 18:47:03,603 [INFO] ✅ Saved CBOE
+2025-05-12 18:47:04,082 [INFO] ✅ Saved CBRE
+2025-05-12 18:47:04,607 [INFO] ✅ Saved CDW
+2025-05-12 18:47:05,294 [INFO] ✅ Saved COR
+2025-05-12 18:47:05,778 [INFO] ✅ Saved CNC
+2025-05-12 18:47:06,291 [INFO] ✅ Saved CNP
+2025-05-12 18:47:06,791 [INFO] ✅ Saved CF
+2025-05-12 18:47:07,286 [INFO] ✅ Saved CRL
+2025-05-12 18:47:07,791 [INFO] ✅ Saved SCHW
+2025-05-12 18:47:08,503 [INFO] ✅ Saved CHTR
+2025-05-12 18:47:09,015 [INFO] ✅ Saved CVX
+2025-05-12 18:47:14,484 [INFO] 📦 Pulling batch 6 of 26 (20 tickers)
+2025-05-12 18:47:16,142 [INFO] ✅ Saved CMG
+2025-05-12 18:47:16,879 [INFO] ✅ Saved CB
+2025-05-12 18:47:17,388 [INFO] ✅ Saved CHD
+2025-05-12 18:47:17,950 [INFO] ✅ Saved CI
+2025-05-12 18:47:18,439 [INFO] ✅ Saved CINF
+2025-05-12 18:47:19,318 [INFO] ✅ Saved CTAS
+2025-05-12 18:47:19,849 [INFO] ✅ Saved CSCO
+2025-05-12 18:47:20,324 [INFO] ✅ Saved C
+2025-05-12 18:47:20,888 [INFO] ✅ Saved CFG
+2025-05-12 18:47:21,358 [INFO] ✅ Saved CLX
+2025-05-12 18:47:21,846 [INFO] ✅ Saved CME
+2025-05-12 18:47:22,344 [INFO] ✅ Saved CMS
+2025-05-12 18:47:22,806 [INFO] ✅ Saved KO
+2025-05-12 18:47:23,294 [INFO] ✅ Saved CTSH
+2025-05-12 18:47:23,842 [INFO] ✅ Saved CL
+2025-05-12 18:47:24,424 [INFO] ✅ Saved CMCSA
+2025-05-12 18:47:24,939 [INFO] ✅ Saved CAG
+2025-05-12 18:47:25,419 [INFO] ✅ Saved COP
+2025-05-12 18:47:25,917 [INFO] ✅ Saved ED
+2025-05-12 18:47:26,416 [INFO] ✅ Saved STZ
+2025-05-12 18:47:32,082 [INFO] 📦 Pulling batch 7 of 26 (20 tickers)
+2025-05-12 18:47:33,692 [INFO] ✅ Saved CEG
+2025-05-12 18:47:34,426 [INFO] ✅ Saved COO
+2025-05-12 18:47:34,876 [INFO] ✅ Saved CPRT
+2025-05-12 18:47:35,359 [INFO] ✅ Saved GLW
+2025-05-12 18:47:35,860 [INFO] ✅ Saved CPAY
+2025-05-12 18:47:36,441 [INFO] ✅ Saved CTVA
+2025-05-12 18:47:36,957 [INFO] ✅ Saved CSGP
+2025-05-12 18:47:37,459 [INFO] ✅ Saved COST
+2025-05-12 18:47:37,947 [INFO] ✅ Saved CTRA
+2025-05-12 18:47:38,447 [INFO] ✅ Saved CRWD
+2025-05-12 18:47:39,366 [INFO] ✅ Saved CCI
+2025-05-12 18:47:40,669 [INFO] ✅ Saved CSX
+2025-05-12 18:47:41,173 [INFO] ✅ Saved CMI
+2025-05-12 18:47:42,002 [INFO] ✅ Saved CVS
+2025-05-12 18:47:42,501 [INFO] ✅ Saved DHR
+2025-05-12 18:47:43,160 [INFO] ✅ Saved DRI
+2025-05-12 18:47:43,671 [INFO] ✅ Saved DVA
+2025-05-12 18:47:44,188 [INFO] ✅ Saved DAY
+2025-05-12 18:47:44,946 [INFO] ✅ Saved DECK
+2025-05-12 18:47:45,420 [INFO] ✅ Saved DE
+2025-05-12 18:47:50,918 [INFO] 📦 Pulling batch 8 of 26 (20 tickers)
+2025-05-12 18:47:52,738 [INFO] ✅ Saved DELL
+2025-05-12 18:47:53,464 [INFO] ✅ Saved DAL
+2025-05-12 18:47:53,918 [INFO] ✅ Saved DVN
+2025-05-12 18:47:54,391 [INFO] ✅ Saved DXCM
+2025-05-12 18:47:54,876 [INFO] ✅ Saved FANG
+2025-05-12 18:47:55,341 [INFO] ✅ Saved DLR
+2025-05-12 18:47:55,821 [INFO] ✅ Saved DFS
+2025-05-12 18:47:56,303 [INFO] ✅ Saved DG
+2025-05-12 18:47:56,809 [INFO] ✅ Saved DLTR
+2025-05-12 18:47:57,299 [INFO] ✅ Saved D
+2025-05-12 18:47:57,807 [INFO] ✅ Saved DPZ
+2025-05-12 18:47:58,277 [INFO] ✅ Saved DASH
+2025-05-12 18:47:58,774 [INFO] ✅ Saved DOV
+2025-05-12 18:47:59,264 [INFO] ✅ Saved DOW
+2025-05-12 18:47:59,901 [INFO] ✅ Saved DHI
+2025-05-12 18:48:00,461 [INFO] ✅ Saved DTE
+2025-05-12 18:48:00,955 [INFO] ✅ Saved DUK
+2025-05-12 18:48:01,477 [INFO] ✅ Saved DD
+2025-05-12 18:48:01,944 [INFO] ✅ Saved EMN
+2025-05-12 18:48:02,516 [INFO] ✅ Saved ETN
+2025-05-12 18:48:07,973 [INFO] 📦 Pulling batch 9 of 26 (20 tickers)
+2025-05-12 18:48:09,645 [INFO] ✅ Saved EBAY
+2025-05-12 18:48:10,353 [INFO] ✅ Saved ECL
+2025-05-12 18:48:10,862 [INFO] ✅ Saved EIX
+2025-05-12 18:48:11,345 [INFO] ✅ Saved EW
+2025-05-12 18:48:11,816 [INFO] ✅ Saved EA
+2025-05-12 18:48:12,313 [INFO] ✅ Saved ELV
+2025-05-12 18:48:12,911 [INFO] ✅ Saved EMR
+2025-05-12 18:48:13,411 [INFO] ✅ Saved ENPH
+2025-05-12 18:48:13,970 [INFO] ✅ Saved ETR
+2025-05-12 18:48:14,444 [INFO] ✅ Saved EOG
+2025-05-12 18:48:14,911 [INFO] ✅ Saved EPAM
+2025-05-12 18:48:15,412 [INFO] ✅ Saved EQT
+2025-05-12 18:48:15,901 [INFO] ✅ Saved EFX
+2025-05-12 18:48:16,488 [INFO] ✅ Saved EQIX
+2025-05-12 18:48:16,981 [INFO] ✅ Saved EQR
+2025-05-12 18:48:17,468 [INFO] ✅ Saved ERIE
+2025-05-12 18:48:18,053 [INFO] ✅ Saved ESS
+2025-05-12 18:48:18,652 [INFO] ✅ Saved EL
+2025-05-12 18:48:19,347 [INFO] ✅ Saved EG
+2025-05-12 18:48:19,817 [INFO] ✅ Saved EVRG
+2025-05-12 18:48:25,268 [INFO] 📦 Pulling batch 10 of 26 (20 tickers)
+2025-05-12 18:48:26,890 [INFO] ✅ Saved ES
+2025-05-12 18:48:27,648 [INFO] ✅ Saved EXC
+2025-05-12 18:48:28,086 [INFO] ✅ Saved EXE
+2025-05-12 18:48:28,602 [INFO] ✅ Saved EXPE
+2025-05-12 18:48:29,093 [INFO] ✅ Saved EXPD
+2025-05-12 18:48:29,612 [INFO] ✅ Saved EXR
+2025-05-12 18:48:30,106 [INFO] ✅ Saved XOM
+2025-05-12 18:48:30,626 [INFO] ✅ Saved FFIV
+2025-05-12 18:48:31,148 [INFO] ✅ Saved FDS
+2025-05-12 18:48:31,641 [INFO] ✅ Saved FICO
+2025-05-12 18:48:32,110 [INFO] ✅ Saved FAST
+2025-05-12 18:48:32,675 [INFO] ✅ Saved FRT
+2025-05-12 18:48:33,174 [INFO] ✅ Saved FDX
+2025-05-12 18:48:33,638 [INFO] ✅ Saved FIS
+2025-05-12 18:48:34,161 [INFO] ✅ Saved FITB
+2025-05-12 18:48:34,730 [INFO] ✅ Saved FSLR
+2025-05-12 18:48:35,193 [INFO] ✅ Saved FE
+2025-05-12 18:48:35,681 [INFO] ✅ Saved FI
+2025-05-12 18:48:36,146 [INFO] ✅ Saved F
+2025-05-12 18:48:36,660 [INFO] ✅ Saved FTNT
+2025-05-12 18:48:42,117 [INFO] 📦 Pulling batch 11 of 26 (20 tickers)
+2025-05-12 18:48:43,703 [INFO] ✅ Saved FTV
+2025-05-12 18:48:44,405 [INFO] ✅ Saved FOXA
+2025-05-12 18:48:45,070 [INFO] ✅ Saved FOX
+2025-05-12 18:48:45,532 [INFO] ✅ Saved BEN
+2025-05-12 18:48:46,008 [INFO] ✅ Saved FCX
+2025-05-12 18:48:46,506 [INFO] ✅ Saved GRMN
+2025-05-12 18:48:47,038 [INFO] ✅ Saved IT
+2025-05-12 18:48:47,596 [INFO] ✅ Saved GE
+2025-05-12 18:48:48,071 [INFO] ✅ Saved GEHC
+2025-05-12 18:48:48,569 [INFO] ✅ Saved GEV
+2025-05-12 18:48:49,055 [INFO] ✅ Saved GEN
+2025-05-12 18:48:49,617 [INFO] ✅ Saved GNRC
+2025-05-12 18:48:50,198 [INFO] ✅ Saved GD
+2025-05-12 18:48:50,836 [INFO] ✅ Saved GIS
+2025-05-12 18:48:51,366 [INFO] ✅ Saved GM
+2025-05-12 18:48:51,856 [INFO] ✅ Saved GPC
+2025-05-12 18:48:52,411 [INFO] ✅ Saved GILD
+2025-05-12 18:48:52,905 [INFO] ✅ Saved GPN
+2025-05-12 18:48:53,402 [INFO] ✅ Saved GL
+2025-05-12 18:48:54,083 [INFO] ✅ Saved GDDY
+2025-05-12 18:48:59,546 [INFO] 📦 Pulling batch 12 of 26 (20 tickers)
+2025-05-12 18:49:01,357 [INFO] ✅ Saved GS
+2025-05-12 18:49:02,657 [INFO] ✅ Saved HAL
+2025-05-12 18:49:03,120 [INFO] ✅ Saved HIG
+2025-05-12 18:49:03,822 [INFO] ✅ Saved HAS
+2025-05-12 18:49:04,331 [INFO] ✅ Saved HCA
+2025-05-12 18:49:04,813 [INFO] ✅ Saved DOC
+2025-05-12 18:49:05,289 [INFO] ✅ Saved HSIC
+2025-05-12 18:49:05,786 [INFO] ✅ Saved HSY
+2025-05-12 18:49:06,730 [INFO] ✅ Saved HES
+2025-05-12 18:49:07,208 [INFO] ✅ Saved HPE
+2025-05-12 18:49:07,680 [INFO] ✅ Saved HLT
+2025-05-12 18:49:08,173 [INFO] ✅ Saved HOLX
+2025-05-12 18:49:08,639 [INFO] ✅ Saved HD
+2025-05-12 18:49:09,153 [INFO] ✅ Saved HON
+2025-05-12 18:49:09,752 [INFO] ✅ Saved HRL
+2025-05-12 18:49:10,261 [INFO] ✅ Saved HST
+2025-05-12 18:49:10,752 [INFO] ✅ Saved HWM
+2025-05-12 18:49:11,241 [INFO] ✅ Saved HPQ
+2025-05-12 18:49:11,715 [INFO] ✅ Saved HUBB
+2025-05-12 18:49:12,220 [INFO] ✅ Saved HUM
+2025-05-12 18:49:17,670 [INFO] 📦 Pulling batch 13 of 26 (20 tickers)
+2025-05-12 18:49:19,193 [INFO] ✅ Saved HBAN
+2025-05-12 18:49:19,972 [INFO] ✅ Saved HII
+2025-05-12 18:49:20,799 [INFO] ✅ Saved IBM
+2025-05-12 18:49:21,266 [INFO] ✅ Saved IEX
+2025-05-12 18:49:21,798 [INFO] ✅ Saved IDXX
+2025-05-12 18:49:22,636 [INFO] ✅ Saved ITW
+2025-05-12 18:49:23,227 [INFO] ✅ Saved INCY
+2025-05-12 18:49:23,705 [INFO] ✅ Saved IR
+2025-05-12 18:49:24,234 [INFO] ✅ Saved PODD
+2025-05-12 18:49:24,782 [INFO] ✅ Saved INTC
+2025-05-12 18:49:25,269 [INFO] ✅ Saved ICE
+2025-05-12 18:49:25,764 [INFO] ✅ Saved IFF
+2025-05-12 18:49:26,255 [INFO] ✅ Saved IP
+2025-05-12 18:49:26,742 [INFO] ✅ Saved IPG
+2025-05-12 18:49:27,241 [INFO] ✅ Saved INTU
+2025-05-12 18:49:27,699 [INFO] ✅ Saved ISRG
+2025-05-12 18:49:28,207 [INFO] ✅ Saved IVZ
+2025-05-12 18:49:28,758 [INFO] ✅ Saved INVH
+2025-05-12 18:49:29,404 [INFO] ✅ Saved IQV
+2025-05-12 18:49:29,906 [INFO] ✅ Saved IRM
+2025-05-12 18:49:35,349 [INFO] 📦 Pulling batch 14 of 26 (20 tickers)
+2025-05-12 18:49:37,054 [INFO] ✅ Saved JBHT
+2025-05-12 18:49:38,032 [INFO] ✅ Saved JBL
+2025-05-12 18:49:38,594 [INFO] ✅ Saved JKHY
+2025-05-12 18:49:39,082 [INFO] ✅ Saved J
+2025-05-12 18:49:39,601 [INFO] ✅ Saved JNJ
+2025-05-12 18:49:40,114 [INFO] ✅ Saved JCI
+2025-05-12 18:49:40,635 [INFO] ✅ Saved JPM
+2025-05-12 18:49:41,111 [INFO] ✅ Saved JNPR
+2025-05-12 18:49:41,583 [INFO] ✅ Saved K
+2025-05-12 18:49:42,068 [INFO] ✅ Saved KVUE
+2025-05-12 18:49:42,606 [INFO] ✅ Saved KDP
+2025-05-12 18:49:43,085 [INFO] ✅ Saved KEY
+2025-05-12 18:49:43,577 [INFO] ✅ Saved KEYS
+2025-05-12 18:49:44,117 [INFO] ✅ Saved KMB
+2025-05-12 18:49:44,650 [INFO] ✅ Saved KIM
+2025-05-12 18:49:45,139 [INFO] ✅ Saved KMI
+2025-05-12 18:49:45,699 [INFO] ✅ Saved KKR
+2025-05-12 18:49:46,284 [INFO] ✅ Saved KLAC
+2025-05-12 18:49:46,774 [INFO] ✅ Saved KHC
+2025-05-12 18:49:47,303 [INFO] ✅ Saved KR
+2025-05-12 18:49:52,765 [INFO] 📦 Pulling batch 15 of 26 (20 tickers)
+2025-05-12 18:49:54,879 [INFO] ✅ Saved LHX
+2025-05-12 18:49:55,648 [INFO] ✅ Saved LH
+2025-05-12 18:49:56,152 [INFO] ✅ Saved LRCX
+2025-05-12 18:49:56,703 [INFO] ✅ Saved LW
+2025-05-12 18:49:57,232 [INFO] ✅ Saved LVS
+2025-05-12 18:49:57,697 [INFO] ✅ Saved LDOS
+2025-05-12 18:49:58,214 [INFO] ✅ Saved LEN
+2025-05-12 18:49:58,948 [INFO] ✅ Saved LII
+2025-05-12 18:49:59,498 [INFO] ✅ Saved LLY
+2025-05-12 18:50:00,012 [INFO] ✅ Saved LIN
+2025-05-12 18:50:00,474 [INFO] ✅ Saved LYV
+2025-05-12 18:50:00,934 [INFO] ✅ Saved LKQ
+2025-05-12 18:50:01,459 [INFO] ✅ Saved LMT
+2025-05-12 18:50:02,041 [INFO] ✅ Saved L
+2025-05-12 18:50:02,528 [INFO] ✅ Saved LOW
+2025-05-12 18:50:03,086 [INFO] ✅ Saved LULU
+2025-05-12 18:50:03,626 [INFO] ✅ Saved LYB
+2025-05-12 18:50:04,246 [INFO] ✅ Saved MTB
+2025-05-12 18:50:04,928 [INFO] ✅ Saved MPC
+2025-05-12 18:50:05,570 [INFO] ✅ Saved MKTX
+2025-05-12 18:50:11,349 [INFO] 📦 Pulling batch 16 of 26 (20 tickers)
+2025-05-12 18:50:13,290 [INFO] ✅ Saved MAR
+2025-05-12 18:50:13,994 [INFO] ✅ Saved MMC
+2025-05-12 18:50:14,531 [INFO] ✅ Saved MLM
+2025-05-12 18:50:15,024 [INFO] ✅ Saved MAS
+2025-05-12 18:50:15,593 [INFO] ✅ Saved MA
+2025-05-12 18:50:16,110 [INFO] ✅ Saved MTCH
+2025-05-12 18:50:16,592 [INFO] ✅ Saved MKC
+2025-05-12 18:50:17,232 [INFO] ✅ Saved MCD
+2025-05-12 18:50:17,937 [INFO] ✅ Saved MCK
+2025-05-12 18:50:18,447 [INFO] ✅ Saved MDT
+2025-05-12 18:50:18,918 [INFO] ✅ Saved MRK
+2025-05-12 18:50:19,415 [INFO] ✅ Saved META
+2025-05-12 18:50:19,902 [INFO] ✅ Saved MET
+2025-05-12 18:50:21,500 [INFO] ✅ Saved MTD
+2025-05-12 18:50:22,168 [INFO] ✅ Saved MGM
+2025-05-12 18:50:22,651 [INFO] ✅ Saved MCHP
+2025-05-12 18:50:23,171 [INFO] ✅ Saved MU
+2025-05-12 18:50:23,654 [INFO] ✅ Saved MSFT
+2025-05-12 18:50:24,174 [INFO] ✅ Saved MAA
+2025-05-12 18:50:24,799 [INFO] ✅ Saved MRNA
+2025-05-12 18:50:30,244 [INFO] 📦 Pulling batch 17 of 26 (20 tickers)
+2025-05-12 18:50:32,219 [INFO] ✅ Saved MHK
+2025-05-12 18:50:32,925 [INFO] ✅ Saved MOH
+2025-05-12 18:50:33,512 [INFO] ✅ Saved TAP
+2025-05-12 18:50:34,245 [INFO] ✅ Saved MDLZ
+2025-05-12 18:50:34,813 [INFO] ✅ Saved MPWR
+2025-05-12 18:50:35,378 [INFO] ✅ Saved MNST
+2025-05-12 18:50:35,927 [INFO] ✅ Saved MCO
+2025-05-12 18:50:36,454 [INFO] ✅ Saved MS
+2025-05-12 18:50:37,041 [INFO] ✅ Saved MOS
+2025-05-12 18:50:37,567 [INFO] ✅ Saved MSI
+2025-05-12 18:50:38,131 [INFO] ✅ Saved MSCI
+2025-05-12 18:50:38,647 [INFO] ✅ Saved NDAQ
+2025-05-12 18:50:39,168 [INFO] ✅ Saved NTAP
+2025-05-12 18:50:39,736 [INFO] ✅ Saved NFLX
+2025-05-12 18:50:40,303 [INFO] ✅ Saved NEM
+2025-05-12 18:50:40,914 [INFO] ✅ Saved NWSA
+2025-05-12 18:50:41,488 [INFO] ✅ Saved NWS
+2025-05-12 18:50:42,086 [INFO] ✅ Saved NEE
+2025-05-12 18:50:42,838 [INFO] ✅ Saved NKE
+2025-05-12 18:50:43,604 [INFO] ✅ Saved NI
+2025-05-12 18:50:49,078 [INFO] 📦 Pulling batch 18 of 26 (20 tickers)
+2025-05-12 18:50:52,761 [INFO] ✅ Saved NDSN
+2025-05-12 18:50:53,516 [INFO] ✅ Saved NSC
+2025-05-12 18:50:54,107 [INFO] ✅ Saved NTRS
+2025-05-12 18:50:54,761 [INFO] ✅ Saved NOC
+2025-05-12 18:50:55,291 [INFO] ✅ Saved NCLH
+2025-05-12 18:50:55,840 [INFO] ✅ Saved NRG
+2025-05-12 18:50:56,506 [INFO] ✅ Saved NUE
+2025-05-12 18:50:57,059 [INFO] ✅ Saved NVDA
+2025-05-12 18:50:57,653 [INFO] ✅ Saved NVR
+2025-05-12 18:50:58,214 [INFO] ✅ Saved NXPI
+2025-05-12 18:50:58,746 [INFO] ✅ Saved ORLY
+2025-05-12 18:50:59,331 [INFO] ✅ Saved OXY
+2025-05-12 18:50:59,859 [INFO] ✅ Saved ODFL
+2025-05-12 18:51:00,478 [INFO] ✅ Saved OMC
+2025-05-12 18:51:01,079 [INFO] ✅ Saved ON
+2025-05-12 18:51:01,656 [INFO] ✅ Saved OKE
+2025-05-12 18:51:02,296 [INFO] ✅ Saved ORCL
+2025-05-12 18:51:02,865 [INFO] ✅ Saved OTIS
+2025-05-12 18:51:03,437 [INFO] ✅ Saved PCAR
+2025-05-12 18:51:03,984 [INFO] ✅ Saved PKG
+2025-05-12 18:51:09,518 [INFO] 📦 Pulling batch 19 of 26 (20 tickers)
+2025-05-12 18:51:13,730 [INFO] ✅ Saved PLTR
+2025-05-12 18:51:14,818 [INFO] ✅ Saved PANW
+2025-05-12 18:51:15,504 [INFO] ✅ Saved PARA
+2025-05-12 18:51:16,079 [INFO] ✅ Saved PH
+2025-05-12 18:51:16,654 [INFO] ✅ Saved PAYX
+2025-05-12 18:51:17,189 [INFO] ✅ Saved PAYC
+2025-05-12 18:51:17,863 [INFO] ✅ Saved PYPL
+2025-05-12 18:51:18,472 [INFO] ✅ Saved PNR
+2025-05-12 18:51:19,016 [INFO] ✅ Saved PEP
+2025-05-12 18:51:19,633 [INFO] ✅ Saved PFE
+2025-05-12 18:51:20,169 [INFO] ✅ Saved PCG
+2025-05-12 18:51:20,728 [INFO] ✅ Saved PM
+2025-05-12 18:51:21,425 [INFO] ✅ Saved PSX
+2025-05-12 18:51:21,988 [INFO] ✅ Saved PNW
+2025-05-12 18:51:22,511 [INFO] ✅ Saved PNC
+2025-05-12 18:51:23,059 [INFO] ✅ Saved POOL
+2025-05-12 18:51:23,579 [INFO] ✅ Saved PPG
+2025-05-12 18:51:24,102 [INFO] ✅ Saved PPL
+2025-05-12 18:51:24,682 [INFO] ✅ Saved PFG
+2025-05-12 18:51:25,310 [INFO] ✅ Saved PG
+2025-05-12 18:51:30,805 [INFO] 📦 Pulling batch 20 of 26 (20 tickers)
+2025-05-12 18:51:34,457 [INFO] ✅ Saved PGR
+2025-05-12 18:51:35,280 [INFO] ✅ Saved PLD
+2025-05-12 18:51:35,820 [INFO] ✅ Saved PRU
+2025-05-12 18:51:36,390 [INFO] ✅ Saved PEG
+2025-05-12 18:51:36,966 [INFO] ✅ Saved PTC
+2025-05-12 18:51:37,569 [INFO] ✅ Saved PSA
+2025-05-12 18:51:38,090 [INFO] ✅ Saved PHM
+2025-05-12 18:51:38,689 [INFO] ✅ Saved PWR
+2025-05-12 18:51:39,290 [INFO] ✅ Saved QCOM
+2025-05-12 18:51:39,831 [INFO] ✅ Saved DGX
+2025-05-12 18:51:40,390 [INFO] ✅ Saved RL
+2025-05-12 18:51:41,039 [INFO] ✅ Saved RJF
+2025-05-12 18:51:41,612 [INFO] ✅ Saved RTX
+2025-05-12 18:51:42,145 [INFO] ✅ Saved O
+2025-05-12 18:51:42,798 [INFO] ✅ Saved REG
+2025-05-12 18:51:43,391 [INFO] ✅ Saved REGN
+2025-05-12 18:51:44,029 [INFO] ✅ Saved RF
+2025-05-12 18:51:44,634 [INFO] ✅ Saved RSG
+2025-05-12 18:51:45,174 [INFO] ✅ Saved RMD
+2025-05-12 18:51:45,741 [INFO] ✅ Saved RVTY
+2025-05-12 18:51:51,232 [INFO] 📦 Pulling batch 21 of 26 (20 tickers)
+2025-05-12 18:51:54,739 [INFO] ✅ Saved ROK
+2025-05-12 18:51:55,636 [INFO] ✅ Saved ROL
+2025-05-12 18:51:56,194 [INFO] ✅ Saved ROP
+2025-05-12 18:51:56,758 [INFO] ✅ Saved ROST
+2025-05-12 18:51:57,325 [INFO] ✅ Saved RCL
+2025-05-12 18:51:57,856 [INFO] ✅ Saved SPGI
+2025-05-12 18:51:58,381 [INFO] ✅ Saved CRM
+2025-05-12 18:51:58,919 [INFO] ✅ Saved SBAC
+2025-05-12 18:51:59,659 [INFO] ✅ Saved SLB
+2025-05-12 18:52:00,440 [INFO] ✅ Saved STX
+2025-05-12 18:52:00,990 [INFO] ✅ Saved SRE
+2025-05-12 18:52:01,538 [INFO] ✅ Saved NOW
+2025-05-12 18:52:02,057 [INFO] ✅ Saved SHW
+2025-05-12 18:52:02,582 [INFO] ✅ Saved SPG
+2025-05-12 18:52:03,171 [INFO] ✅ Saved SWKS
+2025-05-12 18:52:03,739 [INFO] ✅ Saved SJM
+2025-05-12 18:52:04,291 [INFO] ✅ Saved SW
+2025-05-12 18:52:04,824 [INFO] ✅ Saved SNA
+2025-05-12 18:52:05,475 [INFO] ✅ Saved SOLV
+2025-05-12 18:52:05,992 [INFO] ✅ Saved SO
+2025-05-12 18:52:11,628 [INFO] 📦 Pulling batch 22 of 26 (20 tickers)
+2025-05-12 18:52:15,139 [INFO] ✅ Saved LUV
+2025-05-12 18:52:15,915 [INFO] ✅ Saved SWK
+2025-05-12 18:52:16,423 [INFO] ✅ Saved SBUX
+2025-05-12 18:52:17,403 [INFO] ✅ Saved STT
+2025-05-12 18:52:17,927 [INFO] ✅ Saved STLD
+2025-05-12 18:52:18,509 [INFO] ✅ Saved STE
+2025-05-12 18:52:19,050 [INFO] ✅ Saved SYK
+2025-05-12 18:52:19,606 [INFO] ✅ Saved SMCI
+2025-05-12 18:52:20,225 [INFO] ✅ Saved SYF
+2025-05-12 18:52:20,849 [INFO] ✅ Saved SNPS
+2025-05-12 18:52:21,512 [INFO] ✅ Saved SYY
+2025-05-12 18:52:22,133 [INFO] ✅ Saved TMUS
+2025-05-12 18:52:22,739 [INFO] ✅ Saved TROW
+2025-05-12 18:52:23,542 [INFO] ✅ Saved TTWO
+2025-05-12 18:52:24,155 [INFO] ✅ Saved TPR
+2025-05-12 18:52:24,765 [INFO] ✅ Saved TRGP
+2025-05-12 18:52:25,384 [INFO] ✅ Saved TGT
+2025-05-12 18:52:25,909 [INFO] ✅ Saved TEL
+2025-05-12 18:52:26,464 [INFO] ✅ Saved TDY
+2025-05-12 18:52:27,022 [INFO] ✅ Saved TER
+2025-05-12 18:52:32,509 [INFO] 📦 Pulling batch 23 of 26 (20 tickers)
+2025-05-12 18:52:36,335 [INFO] ✅ Saved TSLA
+2025-05-12 18:52:37,146 [INFO] ✅ Saved TXN
+2025-05-12 18:52:37,784 [INFO] ✅ Saved TPL
+2025-05-12 18:52:38,363 [INFO] ✅ Saved TXT
+2025-05-12 18:52:38,907 [INFO] ✅ Saved TMO
+2025-05-12 18:52:39,441 [INFO] ✅ Saved TJX
+2025-05-12 18:52:39,981 [INFO] ✅ Saved TKO
+2025-05-12 18:52:40,509 [INFO] ✅ Saved TSCO
+2025-05-12 18:52:41,075 [INFO] ✅ Saved TT
+2025-05-12 18:52:41,602 [INFO] ✅ Saved TDG
+2025-05-12 18:52:42,180 [INFO] ✅ Saved TRV
+2025-05-12 18:52:42,766 [INFO] ✅ Saved TRMB
+2025-05-12 18:52:43,330 [INFO] ✅ Saved TFC
+2025-05-12 18:52:43,876 [INFO] ✅ Saved TYL
+2025-05-12 18:52:44,600 [INFO] ✅ Saved TSN
+2025-05-12 18:52:45,143 [INFO] ✅ Saved USB
+2025-05-12 18:52:45,659 [INFO] ✅ Saved UBER
+2025-05-12 18:52:46,194 [INFO] ✅ Saved UDR
+2025-05-12 18:52:46,709 [INFO] ✅ Saved ULTA
+2025-05-12 18:52:47,243 [INFO] ✅ Saved UNP
+2025-05-12 18:52:52,722 [INFO] 📦 Pulling batch 24 of 26 (20 tickers)
+2025-05-12 18:52:55,893 [INFO] ✅ Saved UAL
+2025-05-12 18:52:56,702 [INFO] ✅ Saved UPS
+2025-05-12 18:52:57,291 [INFO] ✅ Saved URI
+2025-05-12 18:52:57,811 [INFO] ✅ Saved UNH
+2025-05-12 18:52:58,351 [INFO] ✅ Saved UHS
+2025-05-12 18:52:58,934 [INFO] ✅ Saved VLO
+2025-05-12 18:52:59,552 [INFO] ✅ Saved VTR
+2025-05-12 18:53:00,293 [INFO] ✅ Saved VLTO
+2025-05-12 18:53:00,836 [INFO] ✅ Saved VRSN
+2025-05-12 18:53:01,454 [INFO] ✅ Saved VRSK
+2025-05-12 18:53:02,097 [INFO] ✅ Saved VZ
+2025-05-12 18:53:02,820 [INFO] ✅ Saved VRTX
+2025-05-12 18:53:03,485 [INFO] ✅ Saved VTRS
+2025-05-12 18:53:04,077 [INFO] ✅ Saved VICI
+2025-05-12 18:53:04,679 [INFO] ✅ Saved V
+2025-05-12 18:53:05,269 [INFO] ✅ Saved VST
+2025-05-12 18:53:05,924 [INFO] ✅ Saved VMC
+2025-05-12 18:53:06,582 [INFO] ✅ Saved WRB
+2025-05-12 18:53:07,192 [INFO] ✅ Saved GWW
+2025-05-12 18:53:07,791 [INFO] ✅ Saved WAB
+2025-05-12 18:53:13,269 [INFO] 📦 Pulling batch 25 of 26 (20 tickers)
+2025-05-12 18:53:16,372 [INFO] ✅ Saved WBA
+2025-05-12 18:53:17,395 [INFO] ✅ Saved WMT
+2025-05-12 18:53:17,901 [INFO] ✅ Saved DIS
+2025-05-12 18:53:18,470 [INFO] ✅ Saved WBD
+2025-05-12 18:53:19,161 [INFO] ✅ Saved WM
+2025-05-12 18:53:19,640 [INFO] ✅ Saved WAT
+2025-05-12 18:53:20,161 [INFO] ✅ Saved WEC
+2025-05-12 18:53:20,671 [INFO] ✅ Saved WFC
+2025-05-12 18:53:21,190 [INFO] ✅ Saved WELL
+2025-05-12 18:53:21,685 [INFO] ✅ Saved WST
+2025-05-12 18:53:22,328 [INFO] ✅ Saved WDC
+2025-05-12 18:53:22,815 [INFO] ✅ Saved WY
+2025-05-12 18:53:23,491 [INFO] ✅ Saved WSM
+2025-05-12 18:53:23,978 [INFO] ✅ Saved WMB
+2025-05-12 18:53:24,445 [INFO] ✅ Saved WTW
+2025-05-12 18:53:24,945 [INFO] ✅ Saved WDAY
+2025-05-12 18:53:25,480 [INFO] ✅ Saved WYNN
+2025-05-12 18:53:25,983 [INFO] ✅ Saved XEL
+2025-05-12 18:53:26,532 [INFO] ✅ Saved XYL
+2025-05-12 18:53:27,015 [INFO] ✅ Saved YUM
+2025-05-12 18:53:32,480 [INFO] 📦 Pulling batch 26 of 26 (3 tickers)
+2025-05-12 18:53:33,523 [INFO] ✅ Saved ZBRA
+2025-05-12 18:53:34,341 [INFO] ✅ Saved ZBH
+2025-05-12 18:53:34,986 [INFO] ✅ Saved ZTS
+2025-05-12 18:53:40,488 [INFO] ✅ Done downloading prices and sectors!

@@ -1,0 +1,1764 @@
+[2025-05-11 02:59:10] 📆 Expiry Date: 2015-06-11
+🔁 Rolled Positions:
+   - NWS: 793.3721 shares
+   - IP: 311.0777 shares
+   - YUM: 182.9381 shares
+   - NWSA: 778.3536 shares
+   - IDXX: 152.9052 shares
+   - GD: 87.6516 shares
+   - HII: 101.2651 shares
+✅ Called Away (Exited): CNC, CTSH
+🛒 New Positions:
+   - BAX: 314.6382 shares
+   - CPAY: 61.9694 shares
+💰 Period PnL: $1,168.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 02:59:38] 📆 Expiry Date: 2015-07-13
+🔁 Rolled Positions:
+   - NWS: 808.1063 shares
+   - IP: 335.4825 shares
+   - YUM: 183.3798 shares
+   - NWSA: 786.4446 shares
+   - IDXX: 154.0832 shares
+   - GD: 84.8512 shares
+   - HII: 103.2867 shares
+   - BAX: 310.2674 shares
+   - CPAY: 63.9018 shares
+💰 Period PnL: $133.99
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:00:04] 📆 Expiry Date: 2015-08-11
+🔁 Rolled Positions:
+   - NWS: 823.3980 shares
+   - IP: 339.2439 shares
+   - YUM: 199.1054 shares
+   - NWSA: 812.9222 shares
+   - GD: 82.3890 shares
+   - HII: 100.8821 shares
+   - CPAY: 62.0540 shares
+✅ Called Away (Exited): IDXX, BAX
+🛒 New Positions:
+   - MOS: 274.8846 shares
+   - DIS: 99.9926 shares
+💰 Period PnL: $1,440.48
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:00:26] 📆 Expiry Date: 2015-09-10
+🔁 Rolled Positions:
+   - NWS: 860.3413 shares
+   - IP: 380.2096 shares
+   - YUM: 208.1760 shares
+   - NWSA: 872.2823 shares
+   - GD: 88.1798 shares
+   - HII: 103.7678 shares
+   - CPAY: 66.0895 shares
+   - MOS: 303.4854 shares
+   - DIS: 105.2553 shares
+💰 Period PnL: $-4,555.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:00:49] 📆 Expiry Date: 2015-10-09
+🔁 Rolled Positions:
+   - YUM: 236.7725 shares
+   - GD: 86.5115 shares
+   - HII: 105.3402 shares
+   - CPAY: 67.9348 shares
+   - MOS: 352.8588 shares
+   - DIS: 102.3039 shares
+✅ Called Away (Exited): NWS, IP, NWSA
+🛒 New Positions:
+   - SMCI: 3717.4720 shares
+   - WYNN: 150.6317 shares
+   - SYF: 383.6522 shares
+💰 Period PnL: $261.14
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:01:10] 📆 Expiry Date: 2015-11-09
+🔁 Rolled Positions:
+   - YUM: 239.4772 shares
+   - GD: 85.5702 shares
+   - MOS: 366.8046 shares
+   - WYNN: 165.5301 shares
+   - SYF: 382.1185 shares
+✅ Called Away (Exited): HII, CPAY, DIS, SMCI
+🛒 New Positions:
+   - BLDR: 682.1282 shares
+   - ENPH: 4761.9050 shares
+💰 Period PnL: $2,887.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:01:33] 📆 Expiry Date: 2015-12-09
+🔁 Rolled Positions:
+   - GD: 88.0853 shares
+   - MOS: 384.8394 shares
+   - WYNN: 161.3628 shares
+   - SYF: 405.9620 shares
+   - BLDR: 822.3684 shares
+   - ENPH: 4504.5044 shares
+✅ Called Away (Exited): YUM
+🛒 New Positions:
+   - TRGP: 512.4218 shares
+   - KMI: 963.6652 shares
+   - EA: 152.7908 shares
+💰 Period PnL: $549.59
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:01:56] 📆 Expiry Date: 2016-01-11
+🔁 Rolled Positions:
+   - GD: 94.0431 shares
+   - MOS: 498.6741 shares
+   - WYNN: 198.6420 shares
+   - SYF: 432.9789 shares
+   - BLDR: 1091.7031 shares
+   - EA: 159.6439 shares
+✅ Called Away (Exited): ENPH, TRGP, KMI
+🛒 New Positions:
+   - WTW: 99.2598 shares
+   - FCX: 2540.3861 shares
+   - JPM: 219.1665 shares
+💰 Period PnL: $-2,629.55
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:02:20] 📆 Expiry Date: 2016-02-10
+🔁 Rolled Positions:
+   - GD: 92.3019 shares
+   - MOS: 506.7653 shares
+   - WYNN: 194.0296 shares
+   - SYF: 496.8611 shares
+   - EA: 173.8001 shares
+   - WTW: 106.1374 shares
+   - FCX: 2198.6079 shares
+   - JPM: 232.2329 shares
+✅ Called Away (Exited): BLDR
+🛒 New Positions:
+   - WAB: 161.0002 shares
+💰 Period PnL: $-1,020.68
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:02:37] 📆 Expiry Date: 2016-03-11
+🔁 Rolled Positions:
+   - GD: 90.6333 shares
+✅ Called Away (Exited): MOS, WYNN, SYF, EA, WTW, FCX, JPM, WAB
+🛒 New Positions:
+   - AMCR: 1434.3893 shares
+   - DG: 132.1703 shares
+   - EVRG: 296.6692 shares
+   - CF: 362.5873 shares
+💰 Period PnL: $6,317.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:02:56] 📆 Expiry Date: 2016-04-12
+🔁 Rolled Positions:
+   - GD: 91.4360 shares
+   - DG: 134.4038 shares
+   - CF: 423.1373 shares
+✅ Called Away (Exited): AMCR, EVRG
+🛒 New Positions:
+   - VRTX: 119.9472 shares
+   - REGN: 24.5371 shares
+   - LULU: 161.5248 shares
+   - FDS: 73.4387 shares
+   - JBL: 601.9640 shares
+   - FDX: 69.3284 shares
+💰 Period PnL: $339.45
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:03:20] 📆 Expiry Date: 2016-05-11
+🔁 Rolled Positions:
+   - DG: 134.8082 shares
+   - CF: 434.3349 shares
+   - VRTX: 119.5743 shares
+   - REGN: 26.9264 shares
+   - LULU: 161.3163 shares
+   - FDS: 72.4052 shares
+   - JBL: 625.0357 shares
+   - FDX: 70.9704 shares
+✅ Called Away (Exited): GD
+🛒 New Positions:
+   - CAH: 170.3948 shares
+💰 Period PnL: $1,525.54
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:03:40] 📆 Expiry Date: 2016-06-10
+🔁 Rolled Positions:
+   - CF: 437.7524 shares
+   - REGN: 26.9141 shares
+   - FDX: 71.1557 shares
+   - CAH: 166.9881 shares
+✅ Called Away (Exited): DG, VRTX, LULU, FDS, JBL
+🛒 New Positions:
+   - BIIB: 40.6289 shares
+   - SJM: 90.1101 shares
+   - FFIV: 83.7451 shares
+   - DLTR: 109.4811 shares
+💰 Period PnL: $4,377.30
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:04:01] 📆 Expiry Date: 2016-07-12
+🔁 Rolled Positions:
+   - CF: 491.5675 shares
+   - REGN: 27.1535 shares
+   - FDX: 71.3865 shares
+   - BIIB: 39.4695 shares
+   - FFIV: 84.8824 shares
+✅ Called Away (Exited): CAH, SJM, DLTR
+🛒 New Positions:
+   - LDOS: 324.0670 shares
+   - HUM: 69.0907 shares
+   - DHR: 146.4461 shares
+   - DAL: 276.8520 shares
+💰 Period PnL: $2,080.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:04:23] 📆 Expiry Date: 2016-08-10
+🔁 Rolled Positions:
+   - CF: 593.2084 shares
+   - FDX: 69.3488 shares
+   - LDOS: 330.3332 shares
+   - DHR: 144.8593 shares
+   - DAL: 303.4920 shares
+✅ Called Away (Exited): REGN, BIIB, FFIV, HUM
+🛒 New Positions:
+   - BMY: 221.1182 shares
+   - DVA: 142.6330 shares
+   - FSLR: 258.6653 shares
+💰 Period PnL: $2,344.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:04:44] 📆 Expiry Date: 2016-09-09
+🔁 Rolled Positions:
+   - FDX: 70.8152 shares
+   - DHR: 152.7588 shares
+   - BMY: 240.6637 shares
+   - DVA: 157.1092 shares
+   - FSLR: 269.3240 shares
+✅ Called Away (Exited): CF, LDOS, DAL
+🛒 New Positions:
+   - CAG: 398.6990 shares
+   - PCG: 171.7702 shares
+   - VTR: 214.0999 shares
+💰 Period PnL: $1,286.09
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:05:06] 📆 Expiry Date: 2016-10-10
+🔁 Rolled Positions:
+   - DHR: 150.1730 shares
+   - BMY: 267.0779 shares
+   - DVA: 156.9859 shares
+   - PCG: 174.3285 shares
+   - VTR: 218.5262 shares
+✅ Called Away (Exited): FDX, FSLR, CAG
+🛒 New Positions:
+   - TSN: 174.8004 shares
+   - FANG: 120.3643 shares
+   - CTSH: 220.7766 shares
+   - AVB: 79.5981 shares
+💰 Period PnL: $2,211.44
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:05:28] 📆 Expiry Date: 2016-11-08
+🔁 Rolled Positions:
+   - DHR: 148.8222 shares
+   - DVA: 172.3544 shares
+   - VTR: 231.2382 shares
+   - TSN: 175.2978 shares
+   - FANG: 135.0921 shares
+✅ Called Away (Exited): BMY, PCG, CTSH, AVB
+🛒 New Positions:
+   - CVS: 176.6713 shares
+   - IFF: 97.9889 shares
+   - META: 80.8817 shares
+   - MHK: 51.2321 shares
+💰 Period PnL: $342.01
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:05:50] 📆 Expiry Date: 2016-12-08
+🔁 Rolled Positions:
+   - DHR: 151.1003 shares
+   - VTR: 233.0109 shares
+   - TSN: 199.3165 shares
+   - IFF: 98.2226 shares
+   - META: 84.4936 shares
+   - MHK: 49.6845 shares
+✅ Called Away (Exited): DVA, FANG, CVS
+🛒 New Positions:
+   - LVS: 225.9805 shares
+   - WYNN: 121.5568 shares
+   - UHS: 92.1656 shares
+💰 Period PnL: $840.70
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:06:12] 📆 Expiry Date: 2017-01-10
+🔁 Rolled Positions:
+   - VTR: 235.4649 shares
+   - TSN: 200.5539 shares
+   - IFF: 106.3927 shares
+   - MHK: 49.2174 shares
+   - UHS: 92.2805 shares
+✅ Called Away (Exited): DHR, META, LVS, WYNN
+🛒 New Positions:
+   - WMB: 553.4799 shares
+   - GPN: 133.7551 shares
+   - TPR: 357.9331 shares
+   - F: 1210.5063 shares
+💰 Period PnL: $2,459.16
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:06:35] 📆 Expiry Date: 2017-02-09
+🔁 Rolled Positions:
+   - VTR: 233.0264 shares
+   - IFF: 104.3506 shares
+   - WMB: 550.1979 shares
+   - GPN: 132.4793 shares
+   - F: 1236.5344 shares
+✅ Called Away (Exited): TSN, MHK, UHS, TPR
+🛒 New Positions:
+   - DECK: 1147.6664 shares
+   - HAS: 134.6139 shares
+   - STE: 162.1862 shares
+   - GILD: 207.6405 shares
+💰 Period PnL: $3,551.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:06:58] 📆 Expiry Date: 2017-03-13
+🔁 Rolled Positions:
+   - VTR: 238.2231 shares
+   - WMB: 541.1898 shares
+   - GPN: 130.7333 shares
+   - F: 1220.7572 shares
+   - HAS: 134.6827 shares
+   - STE: 157.4057 shares
+✅ Called Away (Exited): IFF, DECK, GILD
+🛒 New Positions:
+   - SCHW: 259.3058 shares
+   - TPL: 119.9246 shares
+   - ALB: 106.1018 shares
+💰 Period PnL: $3,462.47
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:07:20] 📆 Expiry Date: 2017-04-11
+🔁 Rolled Positions:
+   - GPN: 134.0652 shares
+   - F: 1357.1188 shares
+   - HAS: 136.6410 shares
+   - STE: 154.4028 shares
+   - SCHW: 286.2821 shares
+   - TPL: 116.9121 shares
+   - ALB: 104.9867 shares
+✅ Called Away (Exited): VTR, WMB
+🛒 New Positions:
+   - VRTX: 87.5427 shares
+   - BKR: 296.3682 shares
+💰 Period PnL: $441.29
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:07:41] 📆 Expiry Date: 2017-05-11
+🔁 Rolled Positions:
+   - F: 1371.9101 shares
+   - SCHW: 277.9347 shares
+   - VRTX: 86.6852 shares
+   - BKR: 303.1856 shares
+✅ Called Away (Exited): GPN, HAS, STE, TPL, ALB
+🛒 New Positions:
+   - EA: 94.4072 shares
+   - NVDA: 3205.3113 shares
+   - HII: 59.9278 shares
+   - TRGP: 274.9808 shares
+   - PARA: 191.0660 shares
+💰 Period PnL: $3,341.66
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:08:04] 📆 Expiry Date: 2017-06-12
+🔁 Rolled Positions:
+   - F: 1339.0715 shares
+   - BKR: 320.2991 shares
+   - EA: 94.1298 shares
+   - HII: 59.9928 shares
+   - TRGP: 305.9417 shares
+   - PARA: 190.8051 shares
+✅ Called Away (Exited): SCHW, VRTX, NVDA
+🛒 New Positions:
+   - CRM: 116.8677 shares
+   - GE: 78.1948 shares
+   - KIM: 773.6457 shares
+💰 Period PnL: $1,561.75
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:08:26] 📆 Expiry Date: 2017-07-12
+🔁 Rolled Positions:
+   - F: 1316.8900 shares
+   - BKR: 335.3084 shares
+   - EA: 92.6159 shares
+   - HII: 58.5998 shares
+   - TRGP: 309.5968 shares
+   - PARA: 188.6372 shares
+   - GE: 84.4254 shares
+   - KIM: 800.4376 shares
+✅ Called Away (Exited): CRM
+🛒 New Positions:
+   - NRG: 571.0197 shares
+💰 Period PnL: $610.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:08:49] 📆 Expiry Date: 2017-08-10
+🔁 Rolled Positions:
+   - F: 1384.6984 shares
+   - BKR: 359.3518 shares
+   - EA: 89.9266 shares
+   - TRGP: 310.8747 shares
+   - GE: 88.6968 shares
+✅ Called Away (Exited): HII, PARA, KIM, NRG
+🛒 New Positions:
+   - HSIC: 152.4026 shares
+   - DIS: 103.5372 shares
+   - STE: 127.6823 shares
+   - EXPD: 199.9061 shares
+💰 Period PnL: $2,003.04
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:09:08] 📆 Expiry Date: 2017-09-11
+🔁 Rolled Positions:
+   - BKR: 351.4518 shares
+   - TRGP: 301.3198 shares
+   - GE: 94.6049 shares
+   - DIS: 108.0801 shares
+✅ Called Away (Exited): F, EA, HSIC, STE, EXPD
+🛒 New Positions:
+   - AIG: 201.3492 shares
+   - EG: 50.5342 shares
+   - RCL: 88.6091 shares
+💰 Period PnL: $2,347.00
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:09:28] 📆 Expiry Date: 2017-10-10
+🔁 Rolled Positions:
+   - BKR: 356.5773 shares
+   - GE: 95.1125 shares
+   - DIS: 105.3775 shares
+   - AIG: 197.0141 shares
+   - EG: 52.1507 shares
+   - RCL: 85.9523 shares
+✅ Called Away (Exited): TRGP
+🛒 New Positions:
+   - ETR: 295.7174 shares
+   - CVS: 170.6220 shares
+   - NDAQ: 453.1376 shares
+💰 Period PnL: $1,577.50
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:09:51] 📆 Expiry Date: 2017-11-08
+🔁 Rolled Positions:
+   - BKR: 377.5199 shares
+   - GE: 110.4289 shares
+   - DIS: 103.7112 shares
+   - AIG: 197.3655 shares
+   - EG: 51.3308 shares
+   - RCL: 83.2054 shares
+   - CVS: 183.5606 shares
+   - NDAQ: 464.4754 shares
+✅ Called Away (Exited): ETR
+🛒 New Positions:
+   - SLB: 184.5368 shares
+💰 Period PnL: $-1,001.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:10:12] 📆 Expiry Date: 2017-12-08
+🔁 Rolled Positions:
+   - BKR: 409.7077 shares
+   - GE: 125.4562 shares
+   - AIG: 203.4389 shares
+   - EG: 54.8973 shares
+   - RCL: 85.6572 shares
+   - SLB: 193.2523 shares
+✅ Called Away (Exited): DIS, CVS, NDAQ
+🛒 New Positions:
+   - EIX: 191.7315 shares
+   - KMI: 863.9439 shares
+   - WDAY: 95.3743 shares
+💰 Period PnL: $-1,453.30
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:10:33] 📆 Expiry Date: 2018-01-10
+🔁 Rolled Positions:
+   - AIG: 198.4696 shares
+   - RCL: 86.7543 shares
+   - EIX: 217.0114 shares
+✅ Called Away (Exited): BKR, GE, EG, SLB, KMI, WDAY
+🛒 New Positions:
+   - O: 274.8389 shares
+   - KMB: 111.5931 shares
+   - GILD: 168.1297 shares
+   - EBAY: 294.8920 shares
+   - D: 180.8873 shares
+💰 Period PnL: $2,435.51
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:10:54] 📆 Expiry Date: 2018-02-09
+🔁 Rolled Positions:
+   - AIG: 201.0403 shares
+   - RCL: 85.7716 shares
+   - EIX: 231.3709 shares
+   - O: 296.9749 shares
+   - KMB: 115.1179 shares
+   - GILD: 166.8367 shares
+   - D: 185.3377 shares
+✅ Called Away (Exited): EBAY
+🛒 New Positions:
+   - EMN: 133.6810 shares
+   - FTV: 169.8077 shares
+💰 Period PnL: $-610.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:11:15] 📆 Expiry Date: 2018-03-13
+🔁 Rolled Positions:
+   - AIG: 216.4220 shares
+   - RCL: 84.3446 shares
+   - KMB: 112.5527 shares
+   - GILD: 161.9369 shares
+   - D: 186.7125 shares
+✅ Called Away (Exited): EIX, O, EMN, FTV
+🛒 New Positions:
+   - KR: 483.9076 shares
+   - DLTR: 105.9098 shares
+   - DECK: 660.2839 shares
+   - CHTR: 28.5706 shares
+💰 Period PnL: $2,469.59
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:11:38] 📆 Expiry Date: 2018-04-12
+🔁 Rolled Positions:
+   - AIG: 225.0401 shares
+   - RCL: 92.5931 shares
+   - KMB: 119.7622 shares
+   - GILD: 174.5315 shares
+   - D: 212.7363 shares
+   - KR: 492.3143 shares
+   - CHTR: 32.6435 shares
+✅ Called Away (Exited): DLTR, DECK
+🛒 New Positions:
+   - INCY: 143.2049 shares
+   - TSLA: 510.0653 shares
+💰 Period PnL: $-2,787.04
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:12:01] 📆 Expiry Date: 2018-05-11
+🔁 Rolled Positions:
+   - AIG: 227.7652 shares
+   - RCL: 99.2267 shares
+   - KMB: 121.2007 shares
+   - GILD: 198.6166 shares
+   - D: 210.6648 shares
+   - CHTR: 36.6555 shares
+   - TSLA: 498.2395 shares
+✅ Called Away (Exited): KR, INCY
+🛒 New Positions:
+   - NWSA: 713.9546 shares
+   - IFF: 93.9960 shares
+💰 Period PnL: $6.81
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:12:23] 📆 Expiry Date: 2018-06-12
+🔁 Rolled Positions:
+   - AIG: 220.6267 shares
+   - RCL: 99.9289 shares
+   - KMB: 121.5856 shares
+   - D: 207.3296 shares
+   - IFF: 96.4058 shares
+✅ Called Away (Exited): GILD, CHTR, TSLA, NWSA
+🛒 New Positions:
+   - SRE: 213.7565 shares
+   - APA: 277.5183 shares
+   - VICI: 703.6120 shares
+   - BF-B: 209.7260 shares
+💰 Period PnL: $3,329.03
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:12:47] 📆 Expiry Date: 2018-07-12
+🔁 Rolled Positions:
+   - AIG: 220.3829 shares
+   - RCL: 96.9570 shares
+   - KMB: 119.7352 shares
+   - SRE: 214.8459 shares
+   - VICI: 683.4309 shares
+   - BF-B: 217.9020 shares
+✅ Called Away (Exited): D, IFF, APA
+🛒 New Positions:
+   - AVGO: 581.7474 shares
+   - FE: 373.3130 shares
+   - BIIB: 28.7637 shares
+💰 Period PnL: $2,800.86
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:13:10] 📆 Expiry Date: 2018-08-10
+🔁 Rolled Positions:
+   - AIG: 229.1611 shares
+   - SRE: 217.0799 shares
+   - VICI: 710.2257 shares
+   - AVGO: 575.5796 shares
+   - FE: 363.6182 shares
+   - BIIB: 29.1545 shares
+✅ Called Away (Exited): RCL, KMB, BF-B
+🛒 New Positions:
+   - TRMB: 255.1671 shares
+   - CF: 240.2886 shares
+   - DXCM: 324.2805 shares
+💰 Period PnL: $2,013.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:13:29] 📆 Expiry Date: 2018-09-11
+🔁 Rolled Positions:
+   - AIG: 228.5047 shares
+   - SRE: 211.9317 shares
+   - BIIB: 29.6121 shares
+✅ Called Away (Exited): VICI, AVGO, FE, TRMB, CF, DXCM
+🛒 New Positions:
+   - DVA: 150.2404 shares
+   - WYNN: 80.2851 shares
+   - HSIC: 157.4852 shares
+💰 Period PnL: $4,518.94
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:13:48] 📆 Expiry Date: 2018-10-10
+🔁 Rolled Positions:
+   - AIG: 227.0297 shares
+   - SRE: 213.4898 shares
+   - BIIB: 29.6270 shares
+   - WYNN: 93.1045 shares
+✅ Called Away (Exited): DVA, HSIC
+🛒 New Positions:
+   - PPG: 112.9911 shares
+   - AMZN: 113.9439 shares
+   - CRM: 73.0836 shares
+   - TROW: 126.0262 shares
+   - RL: 97.6082 shares
+💰 Period PnL: $623.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:14:12] 📆 Expiry Date: 2018-11-08
+🔁 Rolled Positions:
+   - AIG: 268.7928 shares
+   - SRE: 208.9474 shares
+   - BIIB: 30.6711 shares
+   - WYNN: 108.2333 shares
+   - AMZN: 113.9660 shares
+   - CRM: 70.9921 shares
+   - TROW: 128.1205 shares
+✅ Called Away (Exited): PPG, RL
+🛒 New Positions:
+   - AES: 798.6152 shares
+   - MOS: 299.9746 shares
+💰 Period PnL: $-816.82
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:14:35] 📆 Expiry Date: 2018-12-11
+🔁 Rolled Positions:
+   - AIG: 322.2907 shares
+   - SRE: 210.5717 shares
+   - BIIB: 31.2705 shares
+   - AMZN: 121.7108 shares
+   - CRM: 73.6286 shares
+   - TROW: 139.0629 shares
+   - AES: 795.0635 shares
+   - MOS: 336.0060 shares
+✅ Called Away (Exited): WYNN
+🛒 New Positions:
+   - ULTA: 40.3454 shares
+💰 Period PnL: $-2,321.07
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:14:57] 📆 Expiry Date: 2019-01-11
+🔁 Rolled Positions:
+   - SRE: 214.3128 shares
+   - AMZN: 121.9096 shares
+   - TROW: 140.7499 shares
+   - AES: 813.1449 shares
+   - MOS: 350.4487 shares
+✅ Called Away (Exited): AIG, BIIB, CRM, ULTA
+🛒 New Positions:
+   - STZ: 69.4896 shares
+   - PNR: 272.6743 shares
+   - DECK: 529.5675 shares
+   - DAL: 216.8611 shares
+💰 Period PnL: $2,702.89
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:15:18] 📆 Expiry Date: 2019-02-12
+🔁 Rolled Positions:
+   - SRE: 214.2001 shares
+   - AMZN: 122.0994 shares
+   - MOS: 347.7014 shares
+   - DAL: 211.0799 shares
+✅ Called Away (Exited): TROW, AES, STZ, PNR, DECK
+🛒 New Positions:
+   - TPR: 337.5517 shares
+   - MO: 329.4977 shares
+   - PCG: 651.3129 shares
+💰 Period PnL: $4,699.17
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:15:37] 📆 Expiry Date: 2019-03-14
+🔁 Rolled Positions:
+   - AMZN: 118.6085 shares
+   - MOS: 390.3778 shares
+   - DAL: 205.2943 shares
+   - TPR: 356.9673 shares
+✅ Called Away (Exited): SRE, MO, PCG
+🛒 New Positions:
+   - KR: 460.5521 shares
+   - CVS: 218.6423 shares
+   - CAH: 238.2586 shares
+   - K: 244.9979 shares
+💰 Period PnL: $4,208.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:15:58] 📆 Expiry Date: 2019-04-12
+🔁 Rolled Positions:
+   - MOS: 413.3926 shares
+   - TPR: 362.7760 shares
+   - CVS: 231.3527 shares
+   - CAH: 256.1084 shares
+✅ Called Away (Exited): AMZN, DAL, KR, K
+🛒 New Positions:
+   - PNR: 274.0973 shares
+   - DIS: 78.7887 shares
+   - HBAN: 971.0696 shares
+   - WBA: 252.2861 shares
+   - ELV: 42.6355 shares
+💰 Period PnL: $1,415.77
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:16:20] 📆 Expiry Date: 2019-05-14
+🔁 Rolled Positions:
+   - MOS: 485.7046 shares
+   - TPR: 383.8732 shares
+   - CVS: 228.4626 shares
+   - CAH: 259.9417 shares
+   - PNR: 297.2940 shares
+   - DIS: 76.9314 shares
+   - HBAN: 1002.5597 shares
+   - WBA: 256.4606 shares
+✅ Called Away (Exited): ELV
+🛒 New Positions:
+   - IVZ: 645.3143 shares
+💰 Period PnL: $-715.73
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:16:43] 📆 Expiry Date: 2019-06-13
+🔁 Rolled Positions:
+   - MOS: 483.9992 shares
+   - TPR: 390.2218 shares
+   - CVS: 221.6828 shares
+   - CAH: 264.7076 shares
+   - PNR: 303.0636 shares
+   - HBAN: 989.8691 shares
+   - WBA: 252.8206 shares
+   - IVZ: 638.7327 shares
+✅ Called Away (Exited): DIS
+🛒 New Positions:
+   - MKTX: 33.1195 shares
+💰 Period PnL: $2,548.32
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:17:05] 📆 Expiry Date: 2019-07-15
+🔁 Rolled Positions:
+   - MOS: 473.0227 shares
+   - TPR: 379.9429 shares
+   - HBAN: 961.6491 shares
+   - IVZ: 653.6534 shares
+✅ Called Away (Exited): CVS, CAH, PNR, WBA, MKTX
+🛒 New Positions:
+   - LLY: 99.6541 shares
+   - EQT: 684.8917 shares
+   - LHX: 58.4709 shares
+   - ICE: 117.2270 shares
+   - ABBV: 182.2748 shares
+💰 Period PnL: $4,138.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:17:27] 📆 Expiry Date: 2019-08-13
+🔁 Rolled Positions:
+   - MOS: 536.3677 shares
+   - TPR: 437.4108 shares
+   - HBAN: 1019.7953 shares
+   - IVZ: 813.8309 shares
+   - EQT: 867.6540 shares
+   - ICE: 117.0742 shares
+   - ABBV: 197.0228 shares
+✅ Called Away (Exited): LLY, LHX
+🛒 New Positions:
+   - MTCH: 125.5531 shares
+   - SYF: 334.4100 shares
+💰 Period PnL: $-5,304.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:17:47] 📆 Expiry Date: 2019-09-12
+🔁 Rolled Positions:
+   - TPR: 449.5499 shares
+   - EQT: 868.3602 shares
+   - ICE: 119.2912 shares
+   - MTCH: 132.8552 shares
+   - SYF: 342.6097 shares
+✅ Called Away (Exited): MOS, HBAN, IVZ, ABBV
+🛒 New Positions:
+   - CNP: 391.3077 shares
+   - WBA: 238.4875 shares
+   - SPG: 87.9617 shares
+💰 Period PnL: $2,595.33
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:18:08] 📆 Expiry Date: 2019-10-11
+🔁 Rolled Positions:
+   - TPR: 442.6284 shares
+   - EQT: 1104.7772 shares
+   - MTCH: 136.5665 shares
+   - SYF: 351.0090 shares
+   - CNP: 413.5930 shares
+   - WBA: 245.4225 shares
+   - SPG: 91.9099 shares
+✅ Called Away (Exited): ICE
+🛒 New Positions:
+   - PPL: 403.1862 shares
+   - EVRG: 193.8012 shares
+💰 Period PnL: $-1,012.34
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:18:30] 📆 Expiry Date: 2019-11-11
+🔁 Rolled Positions:
+   - TPR: 431.0152 shares
+   - MTCH: 147.3224 shares
+   - CNP: 422.1037 shares
+   - EVRG: 197.9174 shares
+✅ Called Away (Exited): EQT, SYF, WBA, SPG, PPL
+🛒 New Positions:
+   - EXPE: 101.8885 shares
+   - DXCM: 194.4769 shares
+   - GDDY: 144.9485 shares
+   - PNW: 149.2152 shares
+   - FANG: 163.6141 shares
+💰 Period PnL: $3,165.74
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:18:54] 📆 Expiry Date: 2019-12-11
+🔁 Rolled Positions:
+   - TPR: 439.4771 shares
+   - MTCH: 147.4727 shares
+   - CNP: 460.3499 shares
+   - EVRG: 195.5027 shares
+   - EXPE: 89.8376 shares
+   - DXCM: 188.3594 shares
+   - GDDY: 151.1716 shares
+   - PNW: 148.6738 shares
+✅ Called Away (Exited): FANG
+🛒 New Positions:
+   - BF-B: 170.3424 shares
+💰 Period PnL: $941.88
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:19:15] 📆 Expiry Date: 2020-01-13
+🔁 Rolled Positions:
+   - EXPE: 90.9505 shares
+✅ Called Away (Exited): TPR, MTCH, CNP, EVRG, DXCM, GDDY, PNW, BF-B
+🛒 New Positions:
+   - SMCI: 3507.5411 shares
+   - APA: 353.2886 shares
+   - LMT: 27.4802 shares
+   - LW: 119.1586 shares
+   - KIM: 635.0883 shares
+   - INCY: 129.7017 shares
+   - CAG: 386.2228 shares
+   - DRI: 102.1560 shares
+💰 Period PnL: $4,776.18
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:19:37] 📆 Expiry Date: 2020-02-12
+🔁 Rolled Positions:
+   - EXPE: 90.6391 shares
+   - SMCI: 3443.5261 shares
+   - APA: 394.0389 shares
+   - KIM: 668.2466 shares
+   - INCY: 131.8739 shares
+   - CAG: 376.6886 shares
+✅ Called Away (Exited): LMT, LW, DRI
+🛒 New Positions:
+   - CSGP: 135.1132 shares
+   - MAS: 231.2377 shares
+   - MRNA: 526.0389 shares
+💰 Period PnL: $2,381.25
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:20:00] 📆 Expiry Date: 2020-03-13
+🔁 Rolled Positions:
+   - EXPE: 143.9177 shares
+   - SMCI: 4363.0016 shares
+   - APA: 1390.6109 shares
+   - KIM: 948.7891 shares
+   - INCY: 135.4280 shares
+   - CAG: 495.8188 shares
+   - CSGP: 150.6183 shares
+   - MAS: 273.4869 shares
+✅ Called Away (Exited): MRNA
+🛒 New Positions:
+   - ORCL: 225.7355 shares
+💰 Period PnL: $-17,588.46
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:20:22] 📆 Expiry Date: 2020-04-14
+🔁 Rolled Positions:
+   - SMCI: 4566.2099 shares
+   - APA: 1388.8898 shares
+   - CAG: 368.6668 shares
+   - CSGP: 155.0508 shares
+   - MAS: 273.1023 shares
+✅ Called Away (Exited): EXPE, KIM, INCY, ORCL
+🛒 New Positions:
+   - FOX: 413.8384 shares
+   - MHK: 120.8605 shares
+   - FOXA: 404.0440 shares
+   - IFF: 93.5617 shares
+💰 Period PnL: $1,772.31
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:20:44] 📆 Expiry Date: 2020-05-13
+🔁 Rolled Positions:
+   - CAG: 358.7578 shares
+   - CSGP: 162.5963 shares
+   - MAS: 272.0745 shares
+   - FOX: 447.3789 shares
+   - MHK: 135.2448 shares
+   - FOXA: 436.8355 shares
+✅ Called Away (Exited): SMCI, APA, IFF
+🛒 New Positions:
+   - KIM: 1390.3885 shares
+   - HBAN: 1713.7771 shares
+   - MAR: 136.7508 shares
+💰 Period PnL: $5,641.51
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:21:04] 📆 Expiry Date: 2020-06-12
+🔁 Rolled Positions:
+   - CAG: 376.9116 shares
+✅ Called Away (Exited): CSGP, MAS, FOX, MHK, FOXA, KIM, HBAN, MAR
+🛒 New Positions:
+   - GEN: 558.6666 shares
+   - AXON: 106.2812 shares
+   - LUV: 294.9774 shares
+   - MRNA: 161.2903 shares
+   - OXY: 564.9876 shares
+   - PTC: 133.0495 shares
+💰 Period PnL: $9,389.47
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:21:25] 📆 Expiry Date: 2020-07-14
+🔁 Rolled Positions:
+   - GEN: 549.8032 shares
+   - AXON: 107.7238 shares
+   - LUV: 318.2207 shares
+   - OXY: 626.6347 shares
+✅ Called Away (Exited): CAG, MRNA, PTC
+🛒 New Positions:
+   - MHK: 134.7527 shares
+   - FDS: 29.6839 shares
+   - NFLX: 19.0520 shares
+   - INCY: 97.0685 shares
+   - ENPH: 178.9549 shares
+💰 Period PnL: $5,522.64
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:21:47] 📆 Expiry Date: 2020-08-12
+🔁 Rolled Positions:
+   - AXON: 125.3761 shares
+   - OXY: 700.5542 shares
+   - MHK: 109.3613 shares
+   - FDS: 28.9759 shares
+   - NFLX: 21.0318 shares
+   - INCY: 106.1346 shares
+✅ Called Away (Exited): GEN, LUV, ENPH
+🛒 New Positions:
+   - EVRG: 228.2017 shares
+   - MTCH: 87.2979 shares
+   - INTC: 226.5114 shares
+💰 Period PnL: $689.56
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:22:08] 📆 Expiry Date: 2020-09-11
+🔁 Rolled Positions:
+   - OXY: 1022.7270 shares
+   - FDS: 31.8409 shares
+   - NFLX: 20.7456 shares
+   - INCY: 113.6364 shares
+   - EVRG: 230.7947 shares
+   - MTCH: 97.6322 shares
+   - INTC: 226.0977 shares
+✅ Called Away (Exited): AXON, MHK
+🛒 New Positions:
+   - EA: 81.3421 shares
+💰 Period PnL: $-471.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:22:24] 📆 Expiry Date: 2020-10-12
+🔁 Rolled Positions:
+   - OXY: 965.9613 shares
+   - FDS: 31.5974 shares
+   - EVRG: 224.3166 shares
+✅ Called Away (Exited): NFLX, INCY, MTCH, INTC, EA
+🛒 New Positions:
+   - EBAY: 195.5677 shares
+💰 Period PnL: $4,376.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:22:40] 📆 Expiry Date: 2020-11-10
+🔁 Rolled Positions:
+   - FDS: 32.2292 shares
+   - EBAY: 232.7146 shares
+✅ Called Away (Exited): OXY, EVRG
+🛒 New Positions:
+   - WELL: 166.2833 shares
+   - BXP: 136.1198 shares
+   - CCL: 597.7286 shares
+   - VLO: 238.9440 shares
+   - EXPE: 81.6374 shares
+   - PFG: 249.1205 shares
+💰 Period PnL: $70.12
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:22:58] 📆 Expiry Date: 2020-12-10
+🔁 Rolled Positions:
+   - WELL: 176.1777 shares
+✅ Called Away (Exited): FDS, EBAY, BXP, CCL, VLO, EXPE, PFG
+🛒 New Positions:
+   - MRNA: 64.2302 shares
+   - MOS: 488.2652 shares
+   - CRWD: 55.5586 shares
+   - DLTR: 92.3446 shares
+   - D: 161.9177 shares
+   - CTRA: 714.7898 shares
+💰 Period PnL: $6,042.60
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:23:18] 📆 Expiry Date: 2021-01-12
+🔁 Rolled Positions:
+   - WELL: 184.6564 shares
+   - MRNA: 80.2890 shares
+   - D: 168.2332 shares
+✅ Called Away (Exited): MOS, CRWD, DLTR, CTRA
+🛒 New Positions:
+   - WDC: 265.1303 shares
+   - GNRC: 38.6026 shares
+   - DAY: 98.2608 shares
+   - IFF: 89.1260 shares
+   - COR: 98.6823 shares
+   - PWR: 132.2006 shares
+💰 Period PnL: $1,563.83
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:23:39] 📆 Expiry Date: 2021-02-11
+🔁 Rolled Positions:
+   - D: 164.7101 shares
+   - DAY: 104.4168 shares
+   - COR: 100.1446 shares
+   - PWR: 130.9130 shares
+✅ Called Away (Exited): WELL, MRNA, WDC, GNRC, IFF
+🛒 New Positions:
+   - TKO: 225.4164 shares
+   - CTSH: 138.6143 shares
+   - MU: 118.2806 shares
+   - DD: 152.6216 shares
+   - MTCH: 58.7903 shares
+💰 Period PnL: $4,555.42
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:24:01] 📆 Expiry Date: 2021-03-15
+🔁 Rolled Positions:
+   - D: 159.9781 shares
+   - DAY: 110.8033 shares
+   - CTSH: 134.1680 shares
+   - MU: 115.1256 shares
+   - MTCH: 65.7414 shares
+✅ Called Away (Exited): COR, PWR, TKO, DD
+🛒 New Positions:
+   - GE: 153.0435 shares
+   - ETR: 226.1345 shares
+   - CCI: 74.8121 shares
+   - TSLA: 42.3765 shares
+💰 Period PnL: $3,150.18
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:24:24] 📆 Expiry Date: 2021-04-14
+🔁 Rolled Positions:
+   - DAY: 108.9918 shares
+   - CTSH: 133.8472 shares
+   - MU: 112.8147 shares
+   - MTCH: 70.1871 shares
+   - GE: 149.3517 shares
+✅ Called Away (Exited): D, ETR, CCI, TSLA
+🛒 New Positions:
+   - PARA: 275.8966 shares
+   - PAYX: 115.3521 shares
+   - WBD: 260.5524 shares
+   - TPL: 19.6352 shares
+💰 Period PnL: $4,260.11
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:24:47] 📆 Expiry Date: 2021-05-13
+🔁 Rolled Positions:
+   - DAY: 117.5088 shares
+   - CTSH: 149.1864 shares
+   - MU: 132.5160 shares
+   - MTCH: 73.1183 shares
+   - GE: 157.5275 shares
+   - PAYX: 112.5239 shares
+   - TPL: 19.1110 shares
+✅ Called Away (Exited): PARA, WBD
+🛒 New Positions:
+   - CAH: 197.8134 shares
+   - CNC: 146.2202 shares
+💰 Period PnL: $1,312.97
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:25:08] 📆 Expiry Date: 2021-06-14
+🔁 Rolled Positions:
+   - CTSH: 149.7320 shares
+   - TPL: 21.1034 shares
+   - CNC: 145.3911 shares
+✅ Called Away (Exited): DAY, MU, MTCH, GE, PAYX, CAH
+🛒 New Positions:
+   - BIIB: 24.6221 shares
+   - TKO: 166.5502 shares
+   - ABT: 97.4386 shares
+   - DLTR: 99.8004 shares
+💰 Period PnL: $3,960.30
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:25:25] 📆 Expiry Date: 2021-07-14
+🔁 Rolled Positions:
+   - CTSH: 153.1060 shares
+   - TPL: 21.3940 shares
+   - BIIB: 28.4042 shares
+   - TKO: 190.9623 shares
+   - DLTR: 101.1225 shares
+✅ Called Away (Exited): CNC, ABT
+🛒 New Positions:
+   - LII: 33.7610 shares
+   - ACGL: 278.5793 shares
+   - L: 186.4979 shares
+💰 Period PnL: $-111.52
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:25:46] 📆 Expiry Date: 2021-08-12
+🔁 Rolled Positions:
+   - TPL: 20.9558 shares
+   - BIIB: 29.3531 shares
+   - TKO: 209.3509 shares
+   - DLTR: 98.5804 shares
+   - L: 180.6855 shares
+✅ Called Away (Exited): CTSH, LII, ACGL
+🛒 New Positions:
+   - COO: 90.9149 shares
+   - PFE: 253.3568 shares
+   - TSN: 139.8148 shares
+   - PCG: 1087.6363 shares
+💰 Period PnL: $2,717.10
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:26:07] 📆 Expiry Date: 2021-09-13
+🔁 Rolled Positions:
+   - TPL: 25.3896 shares
+   - BIIB: 33.1192 shares
+   - DLTR: 112.0323 shares
+   - L: 187.4923 shares
+   - COO: 90.8220 shares
+   - PFE: 268.4740 shares
+   - TSN: 145.5853 shares
+✅ Called Away (Exited): TKO, PCG
+🛒 New Positions:
+   - KR: 251.6638 shares
+   - GIS: 192.8483 shares
+💰 Period PnL: $-2,409.63
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:26:30] 📆 Expiry Date: 2021-10-12
+🔁 Rolled Positions:
+   - TPL: 26.7381 shares
+   - BIIB: 35.1136 shares
+   - COO: 99.5756 shares
+   - PFE: 285.9874 shares
+   - KR: 270.9351 shares
+✅ Called Away (Exited): DLTR, L, TSN, GIS
+🛒 New Positions:
+   - T: 648.8569 shares
+   - VZ: 243.2875 shares
+   - DECK: 177.0277 shares
+   - ED: 149.4810 shares
+💰 Period PnL: $-350.94
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:26:51] 📆 Expiry Date: 2021-11-10
+🔁 Rolled Positions:
+   - BIIB: 37.4630 shares
+   - T: 661.3399 shares
+   - VZ: 237.4135 shares
+   - ED: 145.1284 shares
+✅ Called Away (Exited): TPL, COO, PFE, KR, DECK
+🛒 New Positions:
+   - DASH: 46.6766 shares
+   - TSLA: 28.0912 shares
+   - NRG: 318.7230 shares
+   - PYPL: 48.8663 shares
+   - SMCI: 2282.0630 shares
+💰 Period PnL: $2,809.71
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:27:14] 📆 Expiry Date: 2021-12-10
+🔁 Rolled Positions:
+   - BIIB: 42.9886 shares
+   - T: 722.4358 shares
+   - VZ: 248.8135 shares
+   - DASH: 63.2911 shares
+   - TSLA: 29.4977 shares
+   - PYPL: 53.0476 shares
+   - SMCI: 2332.6334 shares
+✅ Called Away (Exited): ED, NRG
+🛒 New Positions:
+   - ORCL: 102.4818 shares
+   - CHRW: 104.1608 shares
+💰 Period PnL: $-4,015.62
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:27:33] 📆 Expiry Date: 2022-01-11
+🔁 Rolled Positions:
+   - PYPL: 52.2139 shares
+   - ORCL: 118.4310 shares
+✅ Called Away (Exited): BIIB, T, VZ, DASH, TSLA, SMCI, CHRW
+🛒 New Positions:
+   - TMUS: 92.1500 shares
+   - HUM: 26.2764 shares
+   - TTWO: 67.3764 shares
+   - CCI: 63.0766 shares
+   - TECH: 93.7767 shares
+💰 Period PnL: $3,571.53
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:27:51] 📆 Expiry Date: 2022-02-10
+🔁 Rolled Positions:
+   - PYPL: 84.0195 shares
+   - ORCL: 128.0242 shares
+   - CCI: 68.3764 shares
+   - TECH: 95.7978 shares
+✅ Called Away (Exited): TMUS, HUM, TTWO
+🛒 New Positions:
+   - OMC: 129.2105 shares
+   - FOXA: 238.5605 shares
+💰 Period PnL: $-2,525.44
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:28:08] 📆 Expiry Date: 2022-03-14
+🔁 Rolled Positions:
+   - ORCL: 135.9644 shares
+   - CCI: 67.9074 shares
+   - TECH: 103.2865 shares
+   - OMC: 138.9446 shares
+   - FOXA: 269.3274 shares
+✅ Called Away (Exited): PYPL
+🛒 New Positions:
+   - CAG: 365.6720 shares
+   - SBUX: 135.3121 shares
+   - XOM: 135.5016 shares
+   - LVS: 323.4943 shares
+💰 Period PnL: $-825.36
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:28:28] 📆 Expiry Date: 2022-04-12
+🔁 Rolled Positions:
+   - OMC: 141.8511 shares
+   - FOXA: 268.7033 shares
+   - SBUX: 134.4642 shares
+   - LVS: 296.3441 shares
+✅ Called Away (Exited): ORCL, CCI, TECH, CAG, XOM
+🛒 New Positions:
+   - KMX: 107.1467 shares
+   - ABBV: 67.5238 shares
+   - MKTX: 37.8098 shares
+   - HPQ: 292.7298 shares
+   - TMO: 17.6536 shares
+💰 Period PnL: $3,346.37
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:28:51] 📆 Expiry Date: 2022-05-12
+🔁 Rolled Positions:
+   - OMC: 146.3397 shares
+   - FOXA: 312.0011 shares
+   - SBUX: 152.4158 shares
+   - LVS: 344.4238 shares
+   - KMX: 109.5770 shares
+   - ABBV: 72.6049 shares
+   - MKTX: 40.1550 shares
+   - HPQ: 309.4736 shares
+   - TMO: 19.1691 shares
+💰 Period PnL: $-4,261.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:29:14] 📆 Expiry Date: 2022-06-13
+🔁 Rolled Positions:
+   - OMC: 165.8059 shares
+   - FOXA: 331.1052 shares
+   - LVS: 339.2461 shares
+   - KMX: 112.5999 shares
+   - ABBV: 80.3486 shares
+   - HPQ: 326.4623 shares
+   - TMO: 19.6893 shares
+✅ Called Away (Exited): SBUX, MKTX
+🛒 New Positions:
+   - HST: 675.0794 shares
+   - WEC: 115.3440 shares
+💰 Period PnL: $193.49
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:29:38] 📆 Expiry Date: 2022-07-14
+🔁 Rolled Positions:
+   - OMC: 173.1505 shares
+   - FOXA: 321.0224 shares
+   - KMX: 112.2208 shares
+   - HPQ: 353.4755 shares
+   - TMO: 19.1641 shares
+   - HST: 733.3604 shares
+✅ Called Away (Exited): LVS, ABBV, WEC
+🛒 New Positions:
+   - TPL: 18.7727 shares
+   - ATO: 96.7190 shares
+   - ETR: 196.7562 shares
+💰 Period PnL: $2,705.39
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:29:58] 📆 Expiry Date: 2022-08-12
+🔁 Rolled Positions:
+   - TPL: 18.4766 shares
+✅ Called Away (Exited): OMC, FOXA, KMX, HPQ, TMO, HST, ATO, ETR
+🛒 New Positions:
+   - GEN: 439.5304 shares
+   - BALL: 174.6974 shares
+   - AIZ: 63.1924 shares
+   - GRMN: 106.5169 shares
+   - CINF: 103.1857 shares
+   - NEM: 236.2875 shares
+💰 Period PnL: $5,618.14
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:30:18] 📆 Expiry Date: 2022-09-13
+🔁 Rolled Positions:
+   - GEN: 486.9397 shares
+   - BALL: 176.7273 shares
+   - AIZ: 66.0264 shares
+   - GRMN: 120.0355 shares
+   - CINF: 108.3252 shares
+   - NEM: 252.2460 shares
+✅ Called Away (Exited): TPL
+🛒 New Positions:
+   - REGN: 14.2757 shares
+   - GILD: 170.5278 shares
+   - MMM: 110.7480 shares
+💰 Period PnL: $-1,137.78
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:30:41] 📆 Expiry Date: 2022-10-12
+🔁 Rolled Positions:
+   - GEN: 507.5013 shares
+   - BALL: 211.5383 shares
+   - AIZ: 71.4010 shares
+   - GRMN: 134.7206 shares
+   - CINF: 110.1053 shares
+   - NEM: 258.9870 shares
+   - GILD: 167.8677 shares
+   - MMM: 122.4581 shares
+✅ Called Away (Exited): REGN
+🛒 New Positions:
+   - CVS: 126.0262 shares
+💰 Period PnL: $-2,082.43
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:30:57] 📆 Expiry Date: 2022-11-10
+🔁 Rolled Positions:
+   - AIZ: 82.6191 shares
+✅ Called Away (Exited): GEN, BALL, GRMN, CINF, NEM, GILD, MMM, CVS
+🛒 New Positions:
+   - FICO: 17.1886 shares
+   - DIS: 111.9117 shares
+💰 Period PnL: $3,826.12
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:31:11] 📆 Expiry Date: 2022-12-12
+✅ Called Away (Exited): AIZ, FICO, DIS
+🛒 New Positions:
+   - CPB: 190.8396 shares
+   - NRG: 329.2570 shares
+   - BF-B: 150.9306 shares
+   - CRWD: 84.3597 shares
+   - WDAY: 57.8938 shares
+   - BBY: 134.5707 shares
+💰 Period PnL: $2,336.21
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:31:28] 📆 Expiry Date: 2023-01-12
+🔁 Rolled Positions:
+   - CPB: 197.1347 shares
+   - NRG: 329.7617 shares
+   - BF-B: 158.2163 shares
+   - CRWD: 102.0616 shares
+   - WDAY: 61.1284 shares
+✅ Called Away (Exited): BBY
+🛒 New Positions:
+   - TKO: 116.8426 shares
+   - STZ: 46.7217 shares
+   - TSLA: 80.9323 shares
+   - LW: 107.5492 shares
+💰 Period PnL: $-395.25
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:31:50] 📆 Expiry Date: 2023-02-13
+🔁 Rolled Positions:
+   - CPB: 208.2853 shares
+   - BF-B: 157.6880 shares
+   - TKO: 119.3132 shares
+   - STZ: 45.4707 shares
+   - TSLA: 51.3769 shares
+   - LW: 104.5224 shares
+✅ Called Away (Exited): NRG, CRWD, WDAY
+🛒 New Positions:
+   - IFF: 110.7730 shares
+   - BAX: 262.8360 shares
+   - PSX: 100.1302 shares
+💰 Period PnL: $-1,677.51
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:32:11] 📆 Expiry Date: 2023-03-15
+🔁 Rolled Positions:
+   - BF-B: 167.5821 shares
+   - TKO: 124.7378 shares
+   - STZ: 48.1038 shares
+   - TSLA: 55.4170 shares
+   - LW: 106.2291 shares
+   - IFF: 128.9182 shares
+   - BAX: 276.4735 shares
+   - PSX: 114.5927 shares
+✅ Called Away (Exited): CPB
+🛒 New Positions:
+   - ACGL: 167.6183 shares
+💰 Period PnL: $-2,468.48
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:32:30] 📆 Expiry Date: 2023-04-14
+🔁 Rolled Positions:
+   - BF-B: 164.9928 shares
+   - TSLA: 54.0541 shares
+✅ Called Away (Exited): TKO, STZ, LW, IFF, BAX, PSX, ACGL
+🛒 New Positions:
+   - CMI: 44.9999 shares
+   - OTIS: 127.0640 shares
+   - JPM: 75.7090 shares
+   - ROST: 97.6921 shares
+💰 Period PnL: $5,428.19
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:32:48] 📆 Expiry Date: 2023-05-15
+🔁 Rolled Positions:
+   - BF-B: 161.1928 shares
+   - TSLA: 60.1142 shares
+   - CMI: 48.0568 shares
+   - JPM: 77.6685 shares
+   - ROST: 97.8886 shares
+✅ Called Away (Exited): OTIS
+🛒 New Positions:
+   - TPR: 247.2572 shares
+   - DIS: 109.0193 shares
+   - DVA: 103.2418 shares
+   - FSLR: 45.1284 shares
+💰 Period PnL: $-52.22
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:33:11] 📆 Expiry Date: 2023-06-14
+🔁 Rolled Positions:
+   - BF-B: 158.9302 shares
+   - ROST: 95.8721 shares
+   - TPR: 242.1135 shares
+   - DIS: 109.5028 shares
+   - DVA: 102.5851 shares
+   - FSLR: 51.8054 shares
+✅ Called Away (Exited): TSLA, CMI, JPM
+🛒 New Positions:
+   - CVS: 162.6279 shares
+   - CPB: 233.4257 shares
+   - EPAM: 44.9378 shares
+💰 Period PnL: $2,805.26
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:33:34] 📆 Expiry Date: 2023-07-17
+🔁 Rolled Positions:
+   - BF-B: 154.8307 shares
+   - TPR: 246.1158 shares
+   - DIS: 118.3209 shares
+   - CPB: 236.5670 shares
+✅ Called Away (Exited): ROST, DVA, FSLR, CVS, EPAM
+🛒 New Positions:
+   - JNPR: 356.8782 shares
+   - VZ: 358.0785 shares
+   - GLW: 313.8031 shares
+   - BEN: 380.7556 shares
+   - UNH: 21.2250 shares
+💰 Period PnL: $3,320.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:33:57] 📆 Expiry Date: 2023-08-15
+🔁 Rolled Positions:
+   - BF-B: 150.4095 shares
+   - TPR: 298.6910 shares
+   - DIS: 116.2823 shares
+   - CPB: 247.2975 shares
+   - JNPR: 382.9945 shares
+   - GLW: 330.6298 shares
+   - BEN: 408.4572 shares
+✅ Called Away (Exited): VZ, UNH
+🛒 New Positions:
+   - IFF: 161.8248 shares
+   - LLY: 18.4795 shares
+💰 Period PnL: $-1,340.84
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:34:18] 📆 Expiry Date: 2023-09-14
+🔁 Rolled Positions:
+   - BF-B: 159.3921 shares
+   - TPR: 337.0025 shares
+   - DIS: 119.8335 shares
+   - CPB: 244.4544 shares
+   - GLW: 332.0854 shares
+   - BEN: 419.6734 shares
+✅ Called Away (Exited): JNPR, IFF, LLY
+🛒 New Positions:
+   - KVUE: 488.1323 shares
+   - FOXA: 318.6449 shares
+   - FOX: 346.3245 shares
+💰 Period PnL: $841.85
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:34:40] 📆 Expiry Date: 2023-10-13
+🔁 Rolled Positions:
+   - BF-B: 192.4448 shares
+   - TPR: 379.0209 shares
+   - DIS: 120.0182 shares
+   - CPB: 265.2395 shares
+   - GLW: 374.2947 shares
+   - BEN: 479.8154 shares
+   - KVUE: 547.8573 shares
+   - FOXA: 329.7640 shares
+   - FOX: 357.7152 shares
+💰 Period PnL: $-6,358.97
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:35:00] 📆 Expiry Date: 2023-11-13
+🔁 Rolled Positions:
+   - CPB: 260.5804 shares
+   - GLW: 377.1303 shares
+   - BEN: 483.0142 shares
+   - KVUE: 549.8592 shares
+   - FOXA: 344.9204 shares
+   - FOX: 370.8198 shares
+✅ Called Away (Exited): BF-B, TPR, DIS
+🛒 New Positions:
+   - HSIC: 148.1481 shares
+   - CTVA: 224.7542 shares
+   - WYNN: 120.2648 shares
+💰 Period PnL: $1,690.80
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:35:22] 📆 Expiry Date: 2023-12-13
+🔁 Rolled Positions:
+   - FOXA: 345.3874 shares
+   - FOX: 370.2826 shares
+   - CTVA: 222.7344 shares
+✅ Called Away (Exited): CPB, GLW, BEN, KVUE, HSIC, WYNN
+🛒 New Positions:
+   - INCY: 155.7875 shares
+   - VRTX: 24.6871 shares
+   - LIN: 24.8464 shares
+   - TSN: 199.3218 shares
+   - FCX: 260.5465 shares
+   - BF-B: 179.5380 shares
+💰 Period PnL: $3,520.06
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:35:45] 📆 Expiry Date: 2024-01-16
+🔁 Rolled Positions:
+   - FOX: 359.3498 shares
+   - CTVA: 222.9792 shares
+   - INCY: 163.0258 shares
+   - LIN: 24.9741 shares
+   - FCX: 261.5355 shares
+   - BF-B: 187.9292 shares
+✅ Called Away (Exited): FOXA, VRTX, TSN
+🛒 New Positions:
+   - BA: 49.8703 shares
+   - DAL: 270.4103 shares
+   - EXE: 131.6157 shares
+💰 Period PnL: $2,055.95
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:36:07] 📆 Expiry Date: 2024-02-14
+🔁 Rolled Positions:
+   - FOX: 368.5473 shares
+   - INCY: 172.7414 shares
+   - LIN: 24.2728 shares
+   - FCX: 273.4874 shares
+   - BA: 49.1690 shares
+   - EXE: 136.4917 shares
+✅ Called Away (Exited): CTVA, BF-B, DAL
+🛒 New Positions:
+   - AKAM: 87.1080 shares
+   - FANG: 61.9276 shares
+   - MCO: 27.5559 shares
+💰 Period PnL: $1,695.93
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:36:32] 📆 Expiry Date: 2024-03-15
+🔁 Rolled Positions:
+   - FOX: 376.4767 shares
+   - INCY: 171.3209 shares
+   - BA: 54.7855 shares
+   - AKAM: 93.2401 shares
+✅ Called Away (Exited): LIN, FCX, EXE, FANG, MCO
+🛒 New Positions:
+   - DLTR: 78.4806 shares
+   - WSM: 71.8701 shares
+   - CSGP: 105.0641 shares
+   - GL: 87.1866 shares
+   - LUV: 361.1382 shares
+💰 Period PnL: $1,524.48
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
+[2025-05-11 03:36:49] 📆 Expiry Date: 2024-04-16
+🔁 Rolled Positions:
+   - INCY: N/A
+   - BA: N/A
+   - AKAM: N/A
+   - DLTR: N/A
+   - WSM: N/A
+   - CSGP: N/A
+   - GL: N/A
+   - LUV: N/A
+✅ Called Away (Exited): FOX
+🛒 New Positions:
+   - PSA: N/A
+   - PPG: N/A
+   - UNH: N/A
+   - VICI: N/A
+   - LW: N/A
+   - CRM: N/A
+   - GE: N/A
+💰 Period PnL: $-5,797.56
+────────────────────────────────────────────────────────────
+🏛 Sector Mix: {}
+
