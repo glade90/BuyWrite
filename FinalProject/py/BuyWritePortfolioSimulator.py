@@ -38,6 +38,7 @@ class BuyWritePortfolioSimulator:
         with open("../data/sector_map.json") as f:
             self.ticker_sector_map = json.load(f)
 
+        self._price_cache = {}
         self.debug = debug
         self.screen_mode = screen_mode
         self.vol_summary_df = vol_summary_df.copy()
@@ -197,17 +198,15 @@ class BuyWritePortfolioSimulator:
 
         return max_corr > self.correlation_threshold, max_corr
 
+    
     def _load_price_data(self, ticker):
-        if self.price_df is not None:
-            try:
-                df = self.price_df.loc[ticker]
-                #print(f"⚠️ No data for ticker {ticker}")
-                return df.sort_index()
-            except KeyError:
-                return None
+        if ticker in self._price_cache:
+            return self._price_cache[ticker]
+
         try:
             df = pd.read_csv(f"{self.price_dir}/{ticker}.csv", parse_dates=["Date"])
             df = df.set_index("Date").sort_index()
+            self._price_cache[ticker] = df
             return df
         except Exception as e:
             print(f"❌ Failed to load data for {ticker}: {e}")
