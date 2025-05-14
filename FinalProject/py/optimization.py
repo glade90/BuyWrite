@@ -17,7 +17,7 @@ log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-log_file = os.path.join(log_dir, f"optimization_{timestamp}.log")
+log_file = os.path.join(log_dir, f"optimization_{timestamp}_N_only.log")
 
 # === LOGGING SETUP ===
 logging.basicConfig(
@@ -34,18 +34,20 @@ progress_bar = tqdm(total=max_iters, desc="Optimizing", ncols=100)
 
 # === OBJECTIVE FUNCTION ===
 def objective(params):
-    num_positions, call_otm_pct, tau, sector_limit,correlation_threshold = params
-    param_str = f"np={num_positions}, otm={call_otm_pct * 100:.2f}%, tau={tau:.1f}, sl={sector_limit}"
+    #num_positions, call_otm_pct, theta, sector_limit,correlation_threshold = params
+    num_positions = params
+    #param_str = f"np={int(num_positions)}, otm={call_otm_pct * 100:.2f}%, theta={theta:.1f}, sl={sector_limit}"
+    param_str = f"np={int(num_positions)}"
 
     vol_summary_df = pd.read_csv("../data/volatility_summary.csv", parse_dates=["Date"])
     price_dir="../data/stock_prices"
     try:
         sim = BuyWritePortfolioSimulator(
             num_positions=int(num_positions),
-            call_otm_pct=call_otm_pct,
-            tau=float(tau),
-            sector_limit=int(sector_limit),
-            correlation_threshold=float(correlation_threshold),
+            #call_otm_pct=call_otm_pct,
+            #theta=float(theta),
+            #sector_limit=int(sector_limit),
+            #correlation_threshold=float(correlation_threshold),
             vol_lookback_days=30,
             alpha=1,
             vol_summary_df=vol_summary_df,
@@ -71,7 +73,7 @@ def objective(params):
         else:
             sharpe = (mean_return / std_return) * np.sqrt(12)
 
-        logging.info(f"[OK] {param_str} → %Profit = {pct_profit:.4%}, Sharpe = {sharpe:.2f}, N = {len(returns)}")
+        logging.info(f"[OK] {param_str} → Total Profit = {results_df["PnL_Total_position"].sum()} → %Profit = {pct_profit:.1%}, Sharpe = {sharpe:.2f}, N = {len(returns)}")
 
         return -sharpe  # Minimize the negative Sharpe ratio
 
@@ -85,10 +87,10 @@ def objective(params):
 # === BOUNDS ===
 bounds = [
     (2, 10),          # num_positions
-    (0.01, 0.1),      # call_otm_pct
-    (-0.5, 0.5),          # tau
-    (1, 5),           # sector_limit
-    (0.75, 0.95),           # sector_limit
+    #(0.01, 0.1),      # call_otm_pct
+    #(-0.5, 0.5),          # theta
+    #(1, 5),           # sector_limit
+    #(0.75, 0.95),           # sector_limit
 ]
 
 # === MAIN ===

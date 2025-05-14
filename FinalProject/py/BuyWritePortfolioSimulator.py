@@ -1,6 +1,7 @@
 
 import os
 import json
+import time        
 import pandas as pd
 from collections import defaultdict
 from datetime import datetime
@@ -27,6 +28,7 @@ class BuyWritePortfolioSimulator:
                  vol_zscore_threshold=0,
                  theta=0.0,
                  alpha=1.0,
+                 price_df=None,
                  debug=False):
         
         os.makedirs("../logs", exist_ok=True)
@@ -49,6 +51,7 @@ class BuyWritePortfolioSimulator:
         self.sector_counts = defaultdict(int)
         self.call_otm_pct = call_otm_pct
         self.vol_lookback_days = vol_lookback_days
+        self.price_df = price_df
         self.theta = theta
         self.alpha = alpha
         self.summary_log = []
@@ -62,65 +65,71 @@ class BuyWritePortfolioSimulator:
         Determine direction based on momentum and apply vol threshold.
         """
         if self.debug:
-            print("SCREEENING: ", current_date)
-        df = self.vol_summary_df.copy()
-        day_df = df[df["Date"] == current_date].copy()
+            print("SCREENING: ", current_date)
 
-        existing_tickers = [p["Ticker"] for p in self.active_positions]
-        
+        # Only filter relevant rows for the current date
+        day_df = self.vol_summary_df[self.vol_summary_df["Date"] == current_date]
+
+        existing_tickers = {p["Ticker"] for p in self.active_positions}
+
+        # Split into active and available universe without .copy()
         day_df_active = day_df[day_df["Ticker"].isin(existing_tickers)]
         day_df = day_df[~day_df["Ticker"].isin(existing_tickers)]
-        
 
+        # Rank
         if self.screen_mode == "breakout":
             ranked = day_df.sort_values("Vol_ZScore", ascending=False)
         else:
             ranked = day_df.sort_values("RollingVol", ascending=False)
 
+        # Combine active tickers first
         ranked = pd.concat([day_df_active, ranked], ignore_index=True)
 
         selected = []
 
-        for _, row in ranked.head(self.num_positions * 2).iterrows():
+        for i in range(min(len(ranked), self.num_positions * 10)):
+            row = ranked.iloc[i]
             ticker = row["Ticker"]
             sector = self.ticker_sector_map.get(ticker, "Unknown")
             momentum = row.get("Momentum_1M")
             zscore = row.get("Vol_ZScore")
-            if zscore is None or abs(zscore) < self.vol_zscore_threshold:  # use threshold = 0 for now
+
+            if pd.isna(zscore) or abs(zscore) < self.vol_zscore_threshold:
                 continue
 
             phi = -1 * self.alpha * self.theta
-
             direction = "long" if momentum >= phi else "short"
-            
-            row["Direction"] = direction
+
+            # Update direction in-place in master DataFrame
             self.vol_summary_df.loc[
                 (self.vol_summary_df["Ticker"] == ticker) &
                 (self.vol_summary_df["Date"] == current_date),
                 "Direction"
             ] = direction
-            is_corr, max_corr = self._is_correlated(ticker)
-            
-            #active_tickers = [p["Ticker"] for p in self.active_positions]
-            #if ticker in active_tickers:
-            #    continue
 
-            if self.sector_counts[sector] >= self.sector_limit:
-                continue
+            is_corr, max_corr = self._is_correlated(ticker)
+            #if self.sector_counts[sector] >= self.sector_limit:
+            #    continue
             if is_corr:
                 continue
-            row["MaxCorrelation"] = max_corr
 
-            selected.append(row)
+            # Build new row dict manually instead of modifying original row
+            new_row = row.to_dict()
+            new_row["Direction"] = direction
+            new_row["MaxCorrelation"] = max_corr
+
+            selected.append(new_row)
+
             if direction == "short":
                 self.sector_counts[sector] -= 1
             else:
                 self.sector_counts[sector] += 1
+
             if len(selected) >= self.num_positions:
                 break
 
         return pd.DataFrame(selected)
-    
+
     def _inject_momentum(self, lookback=21):
         """
         Calculate 1M momentum and merge into self.vol_summary_df.
@@ -136,19 +145,20 @@ class BuyWritePortfolioSimulator:
                 df = df.sort_index()
                 df["Momentum_1M"] = df["Close"].pct_change(periods=lookback)
 
-                temp = df[["Momentum_1M"]].copy()
-                temp["Ticker"] = ticker
-                temp.reset_index(inplace=True)
+                temp = df[["Momentum_1M"]].assign(Ticker=ticker).reset_index()
                 all_momentum.append(temp)
+
             except Exception as e:
                 print(f"⚠️ Momentum calc failed for {ticker}: {e}")
 
-        momentum_df = pd.concat(all_momentum, ignore_index=True)
-        self.vol_summary_df = self.vol_summary_df.merge(
-            momentum_df,
-            on=["Ticker", "Date"],
-            how="left"
-        )
+        if all_momentum:
+            momentum_df = pd.concat(all_momentum, ignore_index=True)
+            self.vol_summary_df = self.vol_summary_df.merge(
+                momentum_df,
+                on=["Ticker", "Date"],
+                how="left"
+            )
+
 
     def _is_correlated(self, candidate_ticker):
         """
@@ -188,6 +198,13 @@ class BuyWritePortfolioSimulator:
         return max_corr > self.correlation_threshold, max_corr
 
     def _load_price_data(self, ticker):
+        if self.price_df is not None:
+            try:
+                df = self.price_df.loc[ticker]
+                #print(f"⚠️ No data for ticker {ticker}")
+                return df.sort_index()
+            except KeyError:
+                return None
         try:
             df = pd.read_csv(f"{self.price_dir}/{ticker}.csv", parse_dates=["Date"])
             df = df.set_index("Date").sort_index()
@@ -272,12 +289,15 @@ class BuyWritePortfolioSimulator:
         pnl_this_round = 0.0
 
         candidates_df = self._screen_and_rank_universe(expiry_date)
-        
-        for pos in self.active_positions.copy():
-            self.active_positions.remove(pos)
-            if pd.to_datetime(pos["ExpiryDate"]) < expiry_date:
+        surviving_positions = []
+
+        for pos in self.active_positions:
+            if pd.to_datetime(pos["ExpiryDate"]) > expiry_date:
+                # Still active, keep it
+                surviving_positions.append(pos)
                 continue
 
+            # Expired — process it
             pos["MaxCorrelation"] = pos.get("MaxCorrelation")  # Ensure correlation is tracked
             self.trade_log.append(pos)
             pnl_this_round += pos["PnL_Total_position"]
@@ -289,6 +309,7 @@ class BuyWritePortfolioSimulator:
                 rolled.append(pos["Ticker"])
                 self._enter_position(pos["Ticker"], expiry_date)
 
+        self.active_positions = surviving_positions  # update only once
 
         for _, row in candidates_df.iterrows():
             ticker = row["Ticker"]
@@ -298,8 +319,7 @@ class BuyWritePortfolioSimulator:
             new_buys.append(ticker)
 
         from datetime import datetime
-        summary_lines = []
-        summary_lines.append(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] 📆 Expiry Date: {expiry_date.date()}")
+        summary_lines = [f"[{datetime.now():%Y-%m-%d %H:%M:%S}] 📆 Expiry Date: {expiry_date.date()}"]
 
         if rolled:
             summary_lines.append("🔁 Rolled Positions:")
@@ -326,24 +346,27 @@ class BuyWritePortfolioSimulator:
                 except StopIteration:
                     summary_lines.append(f"   - {ticker}: N/A")
 
-                summary_lines.append(f"💰 Period PnL: ${pnl_this_round:,.2f}")
-
-        correlations = [p.get("MaxCorrelation") for p in self.active_positions if p.get("MaxCorrelation") is not None]
-        #if correlations:
-            #avg_corr = sum(correlations) / len(correlations)
-            #summary_lines.append(f"📊 Avg Correlation of Active Portfolio: {avg_corr:.2f}")
-
+        summary_lines.append(f"💰 Period PnL: ${pnl_this_round:,.2f}")
         summary_lines.append("─" * 60)
         summary_lines.append(f"🏛 Sector Mix: {dict(self.sector_counts)}")
 
         with open(self.log_file_path, "a", encoding="utf-8") as f:
             f.write("\n".join(summary_lines) + "\n\n")
 
-    def run(self):
-        self._inject_momentum()
-        valid_dates = self.vol_summary_df.dropna(subset=["Vol_ZScore", "Momentum_1M"]).groupby("Date").size()
 
+    def run(self):
+        import time
+        import numpy as np
+
+        start_time = time.time()
+        print("🚦 Starting simulation...")
+
+        self._inject_momentum()
+        capital_base = self.num_positions * self.notional  # Defined once at the top
+
+        valid_dates = self.vol_summary_df.dropna(subset=["Vol_ZScore", "Momentum_1M"]).groupby("Date").size()
         first_valid_date = valid_dates[valid_dates >= self.num_positions].index[0]
+
         if self.debug:
             print(f"🚀 Starting simulation on {first_valid_date.date()} ({self.screen_mode} mode)")
 
@@ -352,15 +375,31 @@ class BuyWritePortfolioSimulator:
             self._enter_position(row["Ticker"], row["Date"])
 
         expiry_schedule = sorted({pd.to_datetime(p["ExpiryDate"]) for p in self.active_positions})
-        
-        #print(f"expiry_schedule{expiry_schedule}")
-        #print(f"Active positions: {self.active_positions}")
+        last_reported_year = None
 
         while expiry_schedule:
             next_expiry = expiry_schedule.pop(0)
+
+            # Yearly P&L reporting
+            year = next_expiry.year
+            if last_reported_year is None:
+                last_reported_year = year
+
+            if year != last_reported_year:
+                prior_year = last_reported_year
+                prior_trades = [
+                    p for p in self.trade_log 
+                    if pd.to_datetime(p["ExpiryDate"]).year == prior_year
+                ]
+                prior_pnl = sum(p["PnL_Total_position"] for p in prior_trades)
+                return_pct = (prior_pnl / capital_base) * 100 if capital_base > 0 else float('nan')
+                print(f"    📅 {prior_year} Total P&L: ${prior_pnl:,.2f} ({return_pct:.2f}% return on ${capital_base:,.0f} capital)")
+                last_reported_year = year
+
             self._roll_or_replace(next_expiry)
             new_expiries = {pd.to_datetime(p["ExpiryDate"]) for p in self.active_positions}
             expiry_schedule = sorted(set(expiry_schedule).union(new_expiries))
+
             if self.debug:
                 print(f"\n🔄 Processing expiry: {next_expiry.date()}")
 
@@ -377,4 +416,24 @@ class BuyWritePortfolioSimulator:
         for pos in self.trade_log:
             pos["Sector"] = self.ticker_sector_map.get(pos["Ticker"], "Unknown")
 
+        elapsed = time.time() - start_time
+        total_pnl = sum(p["PnL_Total_position"] for p in self.trade_log)
+
+        # Estimate per-position return stream
+        returns = [p["PnL_Total_position"] / capital_base for p in self.trade_log if capital_base > 0]
+
+        if len(returns) >= 2:
+            mean_ret = np.mean(returns)
+            std_ret = np.std(returns, ddof=1)
+            sharpe = (mean_ret / std_ret) * np.sqrt(12) if std_ret > 0 else float('nan')
+            print(f"📈 Sharpe Ratio: {sharpe:.2f}")
+        else:
+            print("📈 Sharpe Ratio: N/A (not enough data)")
+
+        print(f"✅ Simulation complete. Time taken: {elapsed:.2f} seconds.")
+        print(f"💰 Total P&L: ${total_pnl:,.2f}")
+        self.trade_log["CumulativePnL"] = self.trade_log["PnL_Total_position"].cumsum()
+
         return pd.DataFrame(self.trade_log)
+
+
