@@ -2,30 +2,30 @@ flowchart TD
 
     %% Layout Anchor
     TOP[Anchor]
-    TOP --> NB
-    TOP --> SIM
+    TOP -.-> NB
+    TOP -.-> SIM
 
     %% External Systems
     YF[/"Yahoo Finance"/]
     WP[/"Wikipedia"/]
     FS[/"File System"/]
 
-    %% I. BuyWrite Notebook
-    subgraph NB["I. BuyWrite Notebook (ipynb)"]
+    %% A. BuyWrite Notebook
+    subgraph NB["A. BuyWrite Notebook (ipynb)"]
         BATCH[Batch Downloader]
         CALLSIM[Call BuyWrite Portfolio Simulator]
-        BATCH --> CALLSIM
+        BATCH -.-> CALLSIM
     end
 
-    %% II. Create Volatility Summary
-    subgraph VOLDF["II. Create Volatility Summary"]
+    %% B. Create Volatility Summary
+    subgraph VOLDF["B. Create Volatility Summary"]
         GETDATA[Get Stock Data]
         CALCS[Calc log returns, rolling vols, Z-scores]
-        GETDATA --> CALCS
+        GETDATA -.-> CALCS
     end
 
-    %% III. BuyWrite Portfolio Simulator
-    subgraph SIM["III. BuyWrite Portfolio Simulator"]
+    %% C. BuyWrite Portfolio Simulator
+    subgraph SIM["C. BuyWrite Portfolio Simulator"]
         INIT[Init]
         RUN[Run Simulation]
         VOL[Get All Dates - vol summary]
@@ -39,27 +39,26 @@ flowchart TD
         LOG[Log to BuyWrite Log]
         RESULTS[results_df]
 
-        subgraph OPTIM["VI. Optimizer (.py)"]
+        subgraph OPTIM["E. Optimizer (.py)"]
             INITOPT[Instantiate Simulator]
             RUNOPT[Run Optimization]
             SUMMARY[Log Optimization Summary]
         end
 
-        %% Internal arrows
-        RUN --> VOL --> ROLL
-        ROLL --> SCREEN --> ZSCORE
-        SCREEN --> DIR
-        SCREEN --> CORR
-        SCREEN --> SECTOR
-        ROLL --> ENTER --> LOG
+        RUN -.-> VOL -.-> ROLL
+        ROLL -.-> SCREEN -.-> ZSCORE
+        SCREEN -.-> DIR
+        SCREEN -.-> CORR
+        SCREEN -.-> SECTOR
+        ROLL -.-> ENTER -.-> LOG
 
-        INITOPT --> RUNOPT
-        RUNOPT --> RUN
-        RESULTS --> RUNOPT --> SUMMARY
+        INITOPT -.-> RUNOPT
+        RUNOPT -.-> RUN
+        RESULTS -.-> RUNOPT -.-> SUMMARY
     end
 
-    %% IV. Simulate BuyWrite
-    subgraph SIMULATE["IV. Simulate BuyWrite"]
+    %% D. Simulate BuyWrite
+    subgraph SIMULATE["D. Simulate BuyWrite"]
         CREATE[Create Position]
         PREMIUM[Determine Premium]
         OUTCOME[Simulate Outcome]
@@ -70,53 +69,26 @@ flowchart TD
             PUTPRICE[Black-Scholes Put]
         end
 
-        PREMIUM <--> CALLPRICE
-        PREMIUM <--> PUTPRICE
+        PREMIUM -.-> CALLPRICE
+        PREMIUM -.-> PUTPRICE
     end
 
-    ENTER --> CREATE
-    CREATE --> PREMIUM --> OUTCOME --> PNL --> ENTER
+    ENTER -.-> CREATE
+    CREATE -.-> PREMIUM -.-> OUTCOME -.-> PNL -.-> ENTER
 
     %% External Data Flow
-    YF --> BATCH
-    WP --> BATCH
-    BATCH --> FS
-    FS --> GETDATA
-    CALCS --> FS
-    CALLSIM --> INIT
-    CALLSIM --> RUN
-    LOG --> FS
-    SUMMARY --> FS
-    NB --> SIM
-    SIM --> SIMULATE
+    YF -.-> BATCH
+    WP -.-> BATCH
+    BATCH -.-> FS
+    FS -.-> GETDATA
+    CALCS -.-> FS
+    CALLSIM -.-> INIT
+    CALLSIM -.-> RUN
+    LOG -.-> FS
+    SUMMARY -.-> FS
+    NB -.-> SIM
+    SIM -.-> SIMULATE
 
-    %% Arrow Styling
-    linkStyle 0 stroke:#2ca02c,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 1 stroke:#2ca02c,stroke-width:3px,stroke-dasharray:5,5
-
-    %% DATA FLOW (Blue dotted)
-    linkStyle 2 stroke:#1f77b4,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 3 stroke:#1f77b4,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 4 stroke:#1f77b4,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 5 stroke:#1f77b4,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 6 stroke:#1f77b4,stroke-width:3px,stroke-dasharray:5,5
-
-    %% CONTROL FLOW (Green dotted)
-    linkStyle 7 stroke:#2ca02c,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 8 stroke:#2ca02c,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 9 stroke:#2ca02c,stroke-width:3px,stroke-dasharray:5,5
-    linkStyle 10 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 11 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 12 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 13 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 14 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 15 stroke:#2ca02c,stroke-dasharray:5,5
-    linkStyle 16 stroke:#9467bd,stroke-dasharray:5,5
-    linkStyle 17 stroke:#9467bd,stroke-dasharray:5,5
-
-    %% LOOP (Red dotted)
-    linkStyle 18 stroke:#d62728,stroke-dasharray:5,5
-    linkStyle 19 stroke:#d62728,stroke-dasharray:5,5
-    linkStyle 20 stroke:#d62728,stroke-dasharray:5,5
-    linkStyle 21 stroke:#d62728,stroke-dasharray:5,5
-
+    %% Universal style
+    classDef defaultLinkStyle stroke:#1f77b4,stroke-width:2px,stroke-dasharray:5,5;
+    linkStyle default stroke:#1f77b4,stroke-dasharray:5,5;
