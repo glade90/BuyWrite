@@ -14,12 +14,15 @@ simulator = BuyWritePortfolioSimulator(
     vol_summary_df=vol_summary_df,
     price_dir="../data/stock_prices",
     notional_per_trade=10000,
-    num_positions=5,
+    call_otm_pct=0.05,
+    num_positions=3,
     option_days=21,
     sector_limit=3,
-    correlation_threshold=0.85,
+    correlation_threshold=1,
     screen_mode='breakout',
     vol_zscore_threshold=0,
+    theta=0.2,
+    alpha=1.0,
     debug=True
 )
 

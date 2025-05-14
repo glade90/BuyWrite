@@ -2,6 +2,7 @@
 import os
 import json
 import pandas as pd
+import numpy as np
 from collections import defaultdict
 from datetime import datetime
 from IPython.display import display
@@ -152,15 +153,17 @@ class BuyWritePortfolioSimulator:
 
     def _is_correlated(self, candidate_ticker):
         """
-        Returns (is_too_correlated, max_correlation, avg_correlation).
+        Returns (is_too_correlated, max_correlation).
         """
         if not self.active_positions or self.correlation_threshold is None:
+            print("CORREL A")
             return False, None
 
         active_tickers = [p["Ticker"] for p in self.active_positions]
 
         candidate_df = self._load_price_data(candidate_ticker)
         if candidate_df is None or candidate_df.empty:
+            print("CORREL B")
             return True, None
 
         candidate_series = pd.DataFrame() if candidate_ticker in active_tickers else candidate_df["Close"].rename(candidate_ticker)
@@ -173,18 +176,14 @@ class BuyWritePortfolioSimulator:
 
         combined_df = pd.concat([candidate_series] + active_dfs, axis=1).dropna()
         if combined_df.shape[0] < 20:
+            print("CORREL C")
             return True, None
 
         corr_matrix = combined_df.corr()
+        corr_val = corr_matrix.loc[candidate_ticker, active_tickers[0]]
+        max_corr = abs(corr_val)
 
-        if len(active_tickers) == 1:
-            corr_val = corr_matrix.loc[candidate_ticker, active_tickers[0]]
-            max_corr = abs(corr_val)
-
-        else:
-            corr_vals = corr_matrix.loc[candidate_ticker, active_tickers]
-            max_corr = corr_vals.abs().max()
-
+        print(f"CORREL D {max_corr} > {self.correlation_threshold} , {max_corr} -> len tickers:{len(active_tickers)}")
         return max_corr > self.correlation_threshold, max_corr
 
     def _load_price_data(self, ticker):

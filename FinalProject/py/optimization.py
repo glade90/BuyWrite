@@ -34,8 +34,8 @@ progress_bar = tqdm(total=max_iters, desc="Optimizing", ncols=100)
 
 # === OBJECTIVE FUNCTION ===
 def objective(params):
-    num_positions, call_otm_pct, tau, sector_limit,correlation_threshold = params
-    param_str = f"np={num_positions}, otm={call_otm_pct * 100:.2f}%, tau={tau:.1f}, sl={sector_limit}"
+    num_positions, call_otm_pct, theta, sector_limit,correlation_threshold = params
+    param_str = f"np={num_positions}, otm={call_otm_pct * 100:.2f}%, theta={theta:.1f}, sl={sector_limit}"
 
     vol_summary_df = pd.read_csv("../data/volatility_summary.csv", parse_dates=["Date"])
     price_dir="../data/stock_prices"
@@ -43,7 +43,7 @@ def objective(params):
         sim = BuyWritePortfolioSimulator(
             num_positions=int(num_positions),
             call_otm_pct=call_otm_pct,
-            tau=float(tau),
+            theta=float(theta),
             sector_limit=int(sector_limit),
             correlation_threshold=float(correlation_threshold),
             vol_lookback_days=30,
