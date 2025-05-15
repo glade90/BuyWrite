@@ -8,7 +8,7 @@ from black_scholes import black_scholes_call_price, black_scholes_put_price
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-def simulate_buy_write(entry_date,df, notional, call_otm_pct=0.02, option_days=21, vol_lookback_days=30, direction="long"):
+def simulate_buy_write(entry_date,df, notional, call_otm_pct=0.02, option_days=21, vol_lookback_days=21, direction="long"):
     """
     Simulates a buy-write (or short-write) strategy on a single stock DataFrame.
 

@@ -8,7 +8,7 @@ import pstats
 # Allow imports from sibling utils/ directory
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "utils")))
 from BuyWritePortfolioSimulator import BuyWritePortfolioSimulator
-from build_price_df import build_price_df
+from BuyWrite.FinalProject.py.build_price_df import build_price_df
 
 # Set working directory to the location of this script
 os.chdir(os.path.dirname(os.path.abspath(__file__)))

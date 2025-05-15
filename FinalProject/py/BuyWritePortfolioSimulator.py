@@ -17,6 +17,8 @@ class BuyWritePortfolioSimulator:
     def __init__(self, 
                  vol_summary_df,
                  price_dir,
+                 start_date=None,
+                 end_date=None,
                  notional_per_trade=10000,
                  num_positions=5,
                  option_days=21,
@@ -41,6 +43,8 @@ class BuyWritePortfolioSimulator:
         self._price_cache = {}
         self.debug = debug
         self.screen_mode = screen_mode
+        self.start_date = start_date if start_date is not None else vol_summary_df["Date"].min()
+        self.end_date = end_date if end_date is not None else vol_summary_df["Date"].max()
         self.vol_summary_df = vol_summary_df.copy()
         self.price_dir = price_dir
         self.notional = notional_per_trade
@@ -150,7 +154,8 @@ class BuyWritePortfolioSimulator:
                 all_momentum.append(temp)
 
             except Exception as e:
-                print(f"⚠️ Momentum calc failed for {ticker}: {e}")
+                if self.debug:
+                    print(f"⚠️ Momentum calc failed for {ticker}: {e}")
 
         if all_momentum:
             momentum_df = pd.concat(all_momentum, ignore_index=True)
@@ -202,6 +207,14 @@ class BuyWritePortfolioSimulator:
     def _load_price_data(self, ticker):
         if ticker in self._price_cache:
             return self._price_cache[ticker]
+        
+        if self.price_df is not None:
+            df = self.price_df.loc[ticker]
+            if df.empty:
+                return None
+            #df = df.set_index("Date").sort_index()
+            self._price_cache[ticker] = df
+            return df
 
         try:
             df = pd.read_csv(f"{self.price_dir}/{ticker}.csv", parse_dates=["Date"])
@@ -219,7 +232,7 @@ class BuyWritePortfolioSimulator:
 
         start_idx = df.index.get_loc(entry_date) if entry_date in df.index else None
         if start_idx is None or start_idx < self.vol_lookback_days:
-            return None  # not enough history
+            start_idx = self.vol_lookback_days
 
         # Slice from entry_date - lookback through expiry
         slice_start = df.index[start_idx - self.vol_lookback_days]
@@ -364,6 +377,8 @@ class BuyWritePortfolioSimulator:
         capital_base = self.num_positions * self.notional  # Defined once at the top
 
         valid_dates = self.vol_summary_df.dropna(subset=["Vol_ZScore", "Momentum_1M"]).groupby("Date").size()
+        valid_dates = valid_dates[self.start_date:self.end_date]
+        
         first_valid_date = valid_dates[valid_dates >= self.num_positions].index[0]
 
         if self.debug:
@@ -399,6 +414,10 @@ class BuyWritePortfolioSimulator:
             new_expiries = {pd.to_datetime(p["ExpiryDate"]) for p in self.active_positions}
             expiry_schedule = sorted(set(expiry_schedule).union(new_expiries))
 
+            if (expiry_schedule == []) or (expiry_schedule[0] > pd.to_datetime(self.end_date)):
+                print(f"    📅 Time interval ended on {self.end_date}")
+                break
+
             if self.debug:
                 print(f"\n🔄 Processing expiry: {next_expiry.date()}")
 
@@ -431,6 +450,9 @@ class BuyWritePortfolioSimulator:
 
         print(f"✅ Simulation complete. Time taken: {elapsed:.2f} seconds.")
         print(f"💰 Total P&L: ${total_pnl:,.2f}")
+        print(f"💵 Total P&L: {100 * total_pnl / capital_base:.2f}%")
+        if isinstance(self.trade_log, list):
+            self.trade_log = pd.DataFrame(self.trade_log)
         self.trade_log["CumulativePnL"] = self.trade_log["PnL_Total_position"].cumsum()
 
         return pd.DataFrame(self.trade_log)
